@@ -58,4 +58,14 @@ Synthetic outpatient healthcare dataset including:
 - Develop specialty-specific scheduling strategies.
 
 ## Deliverables
-See `/deliverables/Fontes-Capacity-Optimization.pdf` for the full project report.
+📄 Full Project Report:  
+[Provider Capacity Optimization Report](./Fontes-Capacity-Optimization.pdf)
+
+Includes:
+- SQL query screenshots
+- Technical methodology
+- Provider utilization analysis
+- Wait time analysis
+- No-show behavior analysis
+- Bottleneck severity framework
+- Operational recommendations
