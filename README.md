@@ -16,6 +16,18 @@ Healthcare organizations often struggle to balance provider supply with patient 
 - GitHub
 - Google Docs / PDF documentation
 
+## Skills Demonstrated
+- SQL Joins
+- Common Table Expressions (CTEs)
+- CASE Statements
+- Aggregations
+- DATEDIFF Functions
+- Healthcare Operations Analytics
+- KPI Development
+- Synthetic Data Engineering (Python)
+- Relational Database Design
+- Business Recommendations & Data Storytelling
+
 ## Dataset
 Synthetic outpatient healthcare dataset including:
 - Locations
