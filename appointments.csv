@@ -1,0 +1,2601 @@
+appointment_id,patient_id,provider_id,appointment_date,scheduled_date,appointment_type,status,duration_minutes
+1,302,11,2025-05-14,2025-04-19,Medication Management,Completed,30
+2,355,11,2025-06-05,2025-04-23,Therapy Session,Completed,50
+3,313,9,2025-05-28,2025-04-07,New Consult,Completed,45
+4,371,11,2025-05-28,2025-04-23,Intake,Completed,60
+5,32,2,2025-02-25,2025-01-23,Follow-up,Completed,20
+6,201,12,2025-04-16,2025-04-02,Follow-up Treatment,No-Show,30
+7,48,5,2025-01-24,2024-12-19,Intake,Completed,60
+8,318,11,2025-06-02,2025-04-26,Therapy Session,Completed,50
+9,188,6,2025-05-06,2025-04-20,Discharge Visit,Completed,30
+10,281,9,2025-04-17,2025-02-27,Medication Review,Completed,20
+11,53,12,2025-05-14,2025-04-13,Follow-up Treatment,Cancelled,30
+12,6,6,2025-02-13,2025-02-08,Follow-up Treatment,Completed,30
+13,315,1,2025-02-12,2025-01-12,Urgent Visit,Completed,20
+14,425,3,2025-02-12,2025-01-05,Diabetes Follow-up,Completed,30
+15,13,12,2025-03-04,2025-01-30,Follow-up Treatment,No-Show,30
+16,337,6,2025-06-30,2025-06-13,Initial Evaluation,Completed,45
+17,219,12,2025-06-02,2025-05-08,Follow-up Treatment,Completed,30
+18,187,3,2025-01-17,2024-11-22,New Consult,Completed,45
+19,375,10,2025-01-02,2024-12-09,Follow-up,Completed,20
+20,96,4,2025-05-12,2025-04-22,New Injury,Completed,30
+21,55,10,2025-04-23,2025-04-13,Post-op Visit,Completed,30
+22,364,9,2025-03-14,2025-02-02,Diabetes Follow-up,Completed,30
+23,367,11,2025-01-01,2024-10-29,Intake,Completed,60
+24,271,7,2025-04-10,2025-03-12,Follow-up,Completed,20
+25,190,12,2025-06-10,2025-05-28,Discharge Visit,Completed,30
+26,221,10,2025-04-29,2025-04-19,Post-op Visit,Cancelled,30
+27,421,11,2025-03-17,2025-02-17,Therapy Session,Completed,50
+28,305,11,2025-06-10,2025-05-19,Intake,Completed,60
+29,273,6,2025-01-08,2024-12-18,Follow-up Treatment,Completed,30
+30,371,6,2025-04-04,2025-03-11,Follow-up Treatment,Cancelled,30
+31,308,5,2025-03-21,2025-01-28,Therapy Session,Completed,50
+32,83,12,2025-05-19,2025-05-03,Discharge Visit,No-Show,30
+33,296,7,2025-05-15,2025-04-12,Follow-up,Cancelled,20
+34,367,1,2025-04-16,2025-03-14,Urgent Visit,Cancelled,20
+35,67,11,2025-06-13,2025-04-12,Therapy Session,No-Show,50
+36,211,10,2025-04-03,2025-03-08,New Injury,Completed,30
+37,271,3,2025-05-27,2025-04-14,Medication Review,Completed,20
+38,140,8,2025-05-01,2025-04-02,Testing Review,Completed,30
+39,158,11,2025-06-19,2025-05-09,Therapy Session,No-Show,50
+40,446,2,2025-06-11,2025-05-23,New Consult,Completed,45
+41,463,11,2025-03-05,2025-01-19,Therapy Session,Completed,50
+42,113,11,2025-05-29,2025-03-22,Intake,Completed,60
+43,476,6,2025-05-26,2025-05-01,Discharge Visit,Completed,30
+44,497,12,2025-03-26,2025-02-20,Initial Evaluation,Completed,45
+45,56,1,2025-05-22,2025-04-21,Annual Visit,Completed,30
+46,360,6,2025-03-12,2025-02-08,Discharge Visit,Completed,30
+47,205,7,2025-06-20,2025-06-10,Urgent Visit,Completed,20
+48,378,7,2025-05-12,2025-05-01,Urgent Visit,Cancelled,20
+49,162,5,2025-02-12,2024-12-02,Therapy Session,Completed,50
+50,101,11,2025-06-04,2025-05-14,Therapy Session,Completed,50
+51,405,10,2025-04-21,2025-04-02,Follow-up,Completed,20
+52,190,11,2025-01-23,2024-12-17,Medication Management,Completed,30
+53,496,1,2025-04-18,2025-04-03,Follow-up,Completed,20
+54,445,7,2025-03-17,2025-02-14,Urgent Visit,Completed,20
+55,163,7,2025-03-25,2025-03-17,Annual Visit,Cancelled,30
+56,418,4,2025-02-05,2025-01-19,New Injury,Completed,30
+57,448,1,2025-01-23,2024-12-27,Follow-up,No-Show,20
+58,375,7,2025-01-27,2024-12-25,Urgent Visit,Completed,20
+59,403,4,2025-05-20,2025-05-15,Follow-up,No-Show,20
+60,381,2,2025-04-09,2025-03-16,Follow-up,Completed,20
+61,454,5,2025-03-21,2025-02-15,Therapy Session,Completed,50
+62,296,11,2025-05-06,2025-03-19,Therapy Session,Completed,50
+63,280,7,2025-01-21,2025-01-08,Urgent Visit,Cancelled,20
+64,71,7,2025-05-30,2025-05-09,Urgent Visit,Completed,20
+65,286,6,2025-06-09,2025-06-02,Initial Evaluation,Completed,45
+66,382,4,2025-05-12,2025-05-04,Follow-up,Completed,20
+67,407,1,2025-01-08,2024-12-05,Follow-up,No-Show,20
+68,457,12,2025-01-08,2024-12-21,Discharge Visit,Completed,30
+69,401,2,2025-05-14,2025-04-27,Testing Review,Completed,30
+70,416,4,2025-02-18,2025-01-25,New Injury,Completed,30
+71,461,4,2025-01-03,2024-12-23,Post-op Visit,Completed,30
+72,233,5,2025-04-11,2025-02-27,Medication Management,Completed,30
+73,372,1,2025-02-11,2025-01-15,Follow-up,Completed,20
+74,74,5,2025-03-21,2025-01-30,Intake,No-Show,60
+75,116,1,2025-03-07,2025-03-03,Follow-up,Completed,20
+76,214,1,2025-06-25,2025-05-22,Follow-up,Cancelled,20
+77,331,11,2025-01-22,2024-11-14,Intake,Completed,60
+78,144,7,2025-01-08,2024-12-12,Urgent Visit,Completed,20
+79,188,7,2025-04-17,2025-04-11,Urgent Visit,Completed,20
+80,283,1,2025-04-21,2025-03-19,Urgent Visit,Completed,20
+81,488,6,2025-06-23,2025-06-09,Initial Evaluation,No-Show,45
+82,465,2,2025-06-17,2025-05-31,New Consult,Completed,45
+83,284,7,2025-06-13,2025-05-13,Urgent Visit,No-Show,20
+84,270,7,2025-04-09,2025-03-25,Annual Visit,Completed,30
+85,431,11,2025-01-27,2024-12-25,Medication Management,Completed,30
+86,500,5,2025-02-10,2025-01-01,Therapy Session,Completed,50
+87,224,11,2025-01-22,2024-12-15,Therapy Session,No-Show,50
+88,471,6,2025-02-17,2025-02-02,Discharge Visit,Completed,30
+89,180,7,2025-06-04,2025-05-29,Annual Visit,Completed,30
+90,116,11,2025-04-21,2025-03-12,Therapy Session,Completed,50
+91,404,1,2025-05-01,2025-03-30,Urgent Visit,Completed,20
+92,300,4,2025-02-17,2025-02-02,Follow-up,Completed,20
+93,147,12,2025-06-27,2025-06-22,Initial Evaluation,Completed,45
+94,181,6,2025-02-13,2025-02-09,Discharge Visit,Completed,30
+95,472,11,2025-01-23,2024-12-02,Medication Management,Completed,30
+96,129,11,2025-06-16,2025-05-06,Intake,Completed,60
+97,209,2,2025-05-08,2025-04-24,Testing Review,Completed,30
+98,106,10,2025-02-03,2025-01-28,Post-op Visit,Completed,30
+99,331,3,2025-01-16,2024-12-27,Diabetes Follow-up,No-Show,30
+100,144,3,2025-03-25,2025-02-06,Diabetes Follow-up,Completed,30
+101,444,7,2025-02-27,2025-02-17,Annual Visit,Completed,30
+102,303,10,2025-01-30,2025-01-03,Follow-up,Completed,20
+103,160,10,2025-05-05,2025-05-01,New Injury,Completed,30
+104,226,7,2025-01-28,2025-01-19,Follow-up,Completed,20
+105,411,12,2025-03-20,2025-03-04,Follow-up Treatment,Completed,30
+106,340,8,2025-06-24,2025-06-04,New Consult,Completed,45
+107,216,7,2025-06-27,2025-05-30,Follow-up,Completed,20
+108,22,10,2025-06-26,2025-06-08,New Injury,Cancelled,30
+109,429,4,2025-01-24,2025-01-16,Post-op Visit,Completed,30
+110,187,10,2025-05-26,2025-05-05,Follow-up,Completed,20
+111,400,7,2025-04-23,2025-04-08,Urgent Visit,Completed,20
+112,15,11,2025-03-03,2025-01-25,Therapy Session,Completed,50
+113,109,6,2025-02-06,2025-01-15,Discharge Visit,Completed,30
+114,43,4,2025-05-15,2025-04-22,Post-op Visit,Completed,30
+115,438,12,2025-02-13,2025-02-03,Initial Evaluation,Cancelled,45
+116,285,6,2025-04-08,2025-03-06,Initial Evaluation,Completed,45
+117,219,4,2025-05-05,2025-04-25,Post-op Visit,Completed,30
+118,75,7,2025-03-17,2025-02-19,Urgent Visit,Completed,20
+119,20,2,2025-03-05,2025-02-17,New Consult,Completed,45
+120,337,5,2025-04-28,2025-04-02,Therapy Session,Completed,50
+121,163,11,2025-05-30,2025-04-28,Therapy Session,Completed,50
+122,275,2,2025-05-22,2025-04-12,New Consult,No-Show,45
+123,86,4,2025-03-13,2025-02-24,New Injury,No-Show,30
+124,500,7,2025-02-27,2025-01-30,Urgent Visit,Completed,20
+125,137,12,2025-01-28,2025-01-02,Discharge Visit,No-Show,30
+126,479,3,2025-01-15,2024-12-03,Diabetes Follow-up,No-Show,30
+127,275,1,2025-06-11,2025-06-03,Annual Visit,Completed,30
+128,328,8,2025-03-13,2025-02-06,Testing Review,Completed,30
+129,324,6,2025-05-22,2025-05-06,Discharge Visit,Cancelled,30
+130,88,6,2025-06-18,2025-06-03,Initial Evaluation,No-Show,45
+131,118,11,2025-01-06,2024-12-06,Therapy Session,Completed,50
+132,438,11,2025-01-31,2024-11-22,Intake,Cancelled,60
+133,29,11,2025-05-15,2025-03-20,Medication Management,Completed,30
+134,451,6,2025-05-09,2025-04-24,Discharge Visit,Completed,30
+135,106,9,2025-03-06,2025-01-10,Medication Review,Completed,20
+136,210,4,2025-04-14,2025-04-02,New Injury,Completed,30
+137,475,12,2025-03-13,2025-03-10,Initial Evaluation,Completed,45
+138,401,10,2025-01-06,2025-01-03,Post-op Visit,Completed,30
+139,8,2,2025-02-19,2025-01-19,Testing Review,Completed,30
+140,146,6,2025-01-22,2025-01-17,Discharge Visit,No-Show,30
+141,17,5,2025-02-24,2024-12-18,Medication Management,Completed,30
+142,30,12,2025-01-30,2025-01-17,Follow-up Treatment,Completed,30
+143,90,8,2025-01-01,2024-11-18,Follow-up,Cancelled,20
+144,70,11,2025-03-03,2025-02-03,Medication Management,Completed,30
+145,357,11,2025-02-11,2024-12-11,Therapy Session,Completed,50
+146,155,10,2025-04-16,2025-03-22,New Injury,Completed,30
+147,258,1,2025-06-12,2025-05-29,Follow-up,Completed,20
+148,236,7,2025-05-30,2025-05-01,Urgent Visit,No-Show,20
+149,196,8,2025-06-06,2025-05-22,New Consult,Completed,45
+150,134,1,2025-02-04,2025-01-10,Annual Visit,Completed,30
+151,398,1,2025-06-16,2025-05-28,Annual Visit,Completed,30
+152,215,2,2025-02-27,2025-01-24,Testing Review,Completed,30
+153,455,4,2025-06-20,2025-06-03,Post-op Visit,Completed,30
+154,35,1,2025-01-08,2024-12-25,Urgent Visit,No-Show,20
+155,392,3,2025-01-10,2024-12-04,Medication Review,Completed,20
+156,136,1,2025-05-01,2025-04-13,Annual Visit,Cancelled,30
+157,333,7,2025-04-09,2025-03-23,Urgent Visit,Completed,20
+158,113,7,2025-01-01,2024-12-20,Urgent Visit,Completed,20
+159,473,5,2025-03-11,2025-02-07,Therapy Session,Completed,50
+160,334,7,2025-06-18,2025-05-24,Urgent Visit,Completed,20
+161,18,4,2025-02-28,2025-02-12,Follow-up,Completed,20
+162,179,7,2025-03-19,2025-02-18,Urgent Visit,Completed,20
+163,481,12,2025-04-04,2025-03-19,Initial Evaluation,Completed,45
+164,6,9,2025-02-03,2024-12-09,Diabetes Follow-up,Completed,30
+165,118,7,2025-04-24,2025-04-07,Follow-up,Completed,20
+166,175,12,2025-03-28,2025-03-14,Discharge Visit,Completed,30
+167,203,6,2025-02-18,2025-02-09,Initial Evaluation,Completed,45
+168,428,3,2025-03-12,2025-02-01,Medication Review,Completed,20
+169,439,7,2025-05-08,2025-04-08,Urgent Visit,Completed,20
+170,253,12,2025-06-25,2025-06-06,Initial Evaluation,Completed,45
+171,168,1,2025-04-22,2025-04-14,Annual Visit,Completed,30
+172,16,12,2025-02-07,2025-01-20,Discharge Visit,Completed,30
+173,439,7,2025-04-29,2025-04-01,Annual Visit,Cancelled,30
+174,115,1,2025-03-31,2025-03-06,Urgent Visit,Completed,20
+175,491,6,2025-05-01,2025-04-14,Initial Evaluation,Completed,45
+176,301,1,2025-05-02,2025-04-11,Urgent Visit,Completed,20
+177,432,11,2025-04-28,2025-03-12,Medication Management,Completed,30
+178,287,4,2025-01-29,2025-01-01,New Injury,Completed,30
+179,246,1,2025-06-12,2025-05-13,Annual Visit,Completed,30
+180,498,7,2025-02-26,2025-02-18,Urgent Visit,Completed,20
+181,75,4,2025-04-02,2025-03-23,Post-op Visit,Completed,30
+182,19,11,2025-06-11,2025-04-28,Therapy Session,Completed,50
+183,429,6,2025-06-25,2025-06-12,Follow-up Treatment,No-Show,30
+184,407,6,2025-02-04,2025-01-17,Follow-up Treatment,Cancelled,30
+185,481,6,2025-04-22,2025-04-08,Discharge Visit,Completed,30
+186,134,5,2025-01-29,2025-01-03,Therapy Session,Completed,50
+187,10,7,2025-02-11,2025-01-15,Follow-up,Completed,20
+188,479,5,2025-01-21,2024-12-28,Intake,No-Show,60
+189,388,11,2025-01-22,2024-12-18,Intake,Completed,60
+190,276,4,2025-04-21,2025-04-01,Post-op Visit,Completed,30
+191,109,9,2025-04-14,2025-02-25,New Consult,No-Show,45
+192,256,7,2025-01-13,2024-12-12,Annual Visit,Completed,30
+193,397,8,2025-06-17,2025-05-22,New Consult,Completed,45
+194,199,10,2025-03-19,2025-02-17,Post-op Visit,Completed,30
+195,151,2,2025-05-05,2025-03-22,Follow-up,Completed,20
+196,130,1,2025-01-17,2024-12-20,Urgent Visit,Completed,20
+197,186,4,2025-05-19,2025-04-29,Post-op Visit,Completed,30
+198,214,4,2025-03-24,2025-02-22,Post-op Visit,Completed,30
+199,216,9,2025-05-27,2025-05-06,Medication Review,No-Show,20
+200,270,2,2025-05-22,2025-05-05,Testing Review,Completed,30
+201,111,10,2025-04-10,2025-03-21,Post-op Visit,Cancelled,30
+202,7,5,2025-01-14,2024-11-21,Therapy Session,Cancelled,50
+203,285,7,2025-06-25,2025-05-29,Urgent Visit,Completed,20
+204,383,12,2025-06-10,2025-05-09,Follow-up Treatment,Completed,30
+205,78,1,2025-05-06,2025-04-18,Annual Visit,Completed,30
+206,328,1,2025-01-28,2025-01-10,Follow-up,No-Show,20
+207,157,1,2025-03-19,2025-02-23,Urgent Visit,No-Show,20
+208,7,7,2025-02-06,2025-02-03,Urgent Visit,Completed,20
+209,41,1,2025-06-20,2025-06-07,Follow-up,Completed,20
+210,165,7,2025-06-26,2025-06-07,Urgent Visit,No-Show,20
+211,372,3,2025-05-19,2025-04-18,Medication Review,Completed,20
+212,273,3,2025-06-23,2025-05-13,Medication Review,Completed,20
+213,335,11,2025-04-21,2025-03-26,Intake,Completed,60
+214,79,12,2025-03-06,2025-02-19,Initial Evaluation,Completed,45
+215,416,3,2025-06-11,2025-05-12,New Consult,Completed,45
+216,377,7,2025-05-09,2025-05-05,Follow-up,Completed,20
+217,192,2,2025-02-21,2025-01-25,Testing Review,Completed,30
+218,89,7,2025-03-19,2025-02-15,Annual Visit,Completed,30
+219,291,11,2025-01-22,2024-11-13,Medication Management,Completed,30
+220,442,7,2025-04-29,2025-04-20,Follow-up,Completed,20
+221,325,5,2025-04-07,2025-02-26,Intake,Completed,60
+222,426,1,2025-04-02,2025-03-22,Urgent Visit,Cancelled,20
+223,162,8,2025-06-03,2025-05-20,Follow-up,Completed,20
+224,216,1,2025-01-06,2024-12-06,Follow-up,Completed,20
+225,284,4,2025-05-28,2025-05-17,Post-op Visit,Completed,30
+226,290,9,2025-05-01,2025-03-03,New Consult,Completed,45
+227,113,2,2025-02-24,2025-01-13,Follow-up,No-Show,20
+228,499,10,2025-02-11,2025-01-14,Follow-up,Completed,20
+229,146,9,2025-05-28,2025-05-04,Diabetes Follow-up,Completed,30
+230,305,12,2025-03-13,2025-02-21,Discharge Visit,Completed,30
+231,251,6,2025-04-16,2025-04-04,Discharge Visit,Completed,30
+232,472,7,2025-04-10,2025-04-07,Follow-up,Completed,20
+233,455,1,2025-04-25,2025-04-01,Urgent Visit,Completed,20
+234,286,7,2025-01-30,2025-01-17,Follow-up,Completed,20
+235,449,11,2025-02-12,2024-12-24,Medication Management,Completed,30
+236,471,11,2025-06-03,2025-04-22,Intake,Completed,60
+237,482,7,2025-02-18,2025-01-29,Annual Visit,Completed,30
+238,421,8,2025-04-01,2025-02-28,New Consult,Completed,45
+239,379,8,2025-03-26,2025-02-19,Follow-up,Completed,20
+240,192,10,2025-01-23,2024-12-27,Post-op Visit,Cancelled,30
+241,108,1,2025-04-21,2025-04-17,Follow-up,Cancelled,20
+242,327,10,2025-05-14,2025-04-23,Follow-up,Completed,20
+243,140,5,2025-04-08,2025-02-25,Therapy Session,Completed,50
+244,58,1,2025-03-04,2025-03-01,Urgent Visit,Cancelled,20
+245,44,1,2025-02-06,2025-01-09,Annual Visit,Completed,30
+246,219,7,2025-04-07,2025-03-07,Follow-up,Completed,20
+247,294,1,2025-06-16,2025-05-29,Follow-up,Completed,20
+248,343,4,2025-02-17,2025-02-14,New Injury,Completed,30
+249,32,10,2025-02-12,2025-01-23,Post-op Visit,Completed,30
+250,180,11,2025-01-08,2024-11-10,Medication Management,Completed,30
+251,405,12,2025-06-25,2025-05-26,Initial Evaluation,Completed,45
+252,170,3,2025-03-12,2025-02-11,New Consult,Completed,45
+253,209,10,2025-03-31,2025-03-15,Post-op Visit,No-Show,30
+254,114,7,2025-01-17,2024-12-31,Annual Visit,Completed,30
+255,474,1,2025-04-14,2025-03-18,Annual Visit,Completed,30
+256,429,1,2025-05-02,2025-04-22,Follow-up,Completed,20
+257,313,1,2025-05-14,2025-04-17,Follow-up,No-Show,20
+258,117,5,2025-03-11,2025-01-02,Medication Management,Completed,30
+259,402,4,2025-04-14,2025-03-30,New Injury,Completed,30
+260,45,1,2025-04-24,2025-04-05,Annual Visit,No-Show,30
+261,338,7,2025-06-17,2025-05-22,Urgent Visit,No-Show,20
+262,155,1,2025-01-21,2024-12-22,Annual Visit,No-Show,30
+263,217,7,2025-05-08,2025-04-19,Follow-up,No-Show,20
+264,298,1,2025-01-27,2025-01-08,Annual Visit,Completed,30
+265,363,5,2025-03-10,2025-01-23,Intake,Cancelled,60
+266,263,10,2025-03-05,2025-02-17,New Injury,Completed,30
+267,266,5,2025-06-13,2025-05-08,Medication Management,Completed,30
+268,400,11,2025-04-22,2025-03-26,Therapy Session,Completed,50
+269,199,7,2025-02-05,2025-01-09,Annual Visit,Completed,30
+270,253,7,2025-01-02,2024-12-17,Follow-up,Completed,20
+271,269,3,2025-04-18,2025-03-08,Diabetes Follow-up,Completed,30
+272,304,7,2025-04-02,2025-03-21,Annual Visit,Completed,30
+273,254,5,2025-03-07,2025-02-13,Intake,Cancelled,60
+274,322,12,2025-05-20,2025-05-04,Discharge Visit,Completed,30
+275,461,12,2025-05-20,2025-04-26,Follow-up Treatment,Completed,30
+276,373,8,2025-03-12,2025-02-19,Testing Review,Completed,30
+277,155,12,2025-03-14,2025-03-01,Initial Evaluation,Completed,45
+278,143,2,2025-06-19,2025-06-01,Testing Review,Completed,30
+279,93,1,2025-01-23,2024-12-26,Annual Visit,Completed,30
+280,328,8,2025-05-28,2025-04-21,New Consult,Completed,45
+281,266,9,2025-02-21,2025-01-01,New Consult,No-Show,45
+282,446,1,2025-06-10,2025-06-07,Urgent Visit,Completed,20
+283,85,7,2025-06-18,2025-06-12,Follow-up,Completed,20
+284,330,3,2025-05-16,2025-04-23,New Consult,Completed,45
+285,140,6,2025-04-11,2025-04-07,Follow-up Treatment,Completed,30
+286,469,12,2025-06-05,2025-05-26,Initial Evaluation,Completed,45
+287,438,12,2025-04-30,2025-04-07,Follow-up Treatment,Completed,30
+288,135,2,2025-06-30,2025-05-22,Follow-up,No-Show,20
+289,44,8,2025-04-14,2025-03-09,Follow-up,Completed,20
+290,294,12,2025-03-12,2025-02-28,Initial Evaluation,Completed,45
+291,39,12,2025-02-14,2025-01-16,Follow-up Treatment,Completed,30
+292,460,7,2025-03-07,2025-02-23,Urgent Visit,Completed,20
+293,32,8,2025-02-05,2024-12-29,Testing Review,No-Show,30
+294,382,11,2025-05-01,2025-03-13,Intake,Completed,60
+295,258,5,2025-01-24,2024-11-18,Therapy Session,Completed,50
+296,370,6,2025-06-03,2025-05-02,Initial Evaluation,No-Show,45
+297,436,1,2025-01-17,2025-01-07,Annual Visit,Completed,30
+298,350,6,2025-01-27,2024-12-30,Discharge Visit,Completed,30
+299,280,7,2025-02-17,2025-01-25,Annual Visit,Completed,30
+300,410,3,2025-01-17,2024-12-12,New Consult,Completed,45
+301,250,12,2025-04-16,2025-04-12,Discharge Visit,Completed,30
+302,470,6,2025-01-02,2024-11-30,Initial Evaluation,Completed,45
+303,16,8,2025-04-11,2025-03-14,New Consult,Completed,45
+304,333,7,2025-06-03,2025-05-14,Urgent Visit,Completed,20
+305,412,8,2025-05-19,2025-04-05,Testing Review,Completed,30
+306,388,4,2025-01-15,2025-01-01,Follow-up,Cancelled,20
+307,496,3,2025-06-20,2025-05-18,Diabetes Follow-up,Completed,30
+308,159,11,2025-03-14,2025-01-11,Therapy Session,Completed,50
+309,496,11,2025-05-15,2025-03-28,Therapy Session,Completed,50
+310,284,9,2025-03-19,2025-01-26,New Consult,Cancelled,45
+311,106,1,2025-06-02,2025-05-15,Follow-up,Completed,20
+312,181,9,2025-02-14,2025-01-21,New Consult,No-Show,45
+313,171,9,2025-06-18,2025-05-17,Diabetes Follow-up,Completed,30
+314,307,11,2025-01-14,2024-12-13,Medication Management,Cancelled,30
+315,292,12,2025-02-04,2025-01-10,Follow-up Treatment,No-Show,30
+316,309,5,2025-03-28,2025-02-02,Therapy Session,Completed,50
+317,429,6,2025-02-07,2025-01-26,Initial Evaluation,Completed,45
+318,218,11,2025-01-23,2024-11-16,Intake,Completed,60
+319,246,12,2025-05-06,2025-04-17,Follow-up Treatment,Completed,30
+320,59,5,2025-04-04,2025-03-08,Intake,Completed,60
+321,382,4,2025-06-04,2025-05-25,Post-op Visit,Completed,30
+322,380,2,2025-04-22,2025-03-15,Testing Review,Completed,30
+323,448,11,2025-06-06,2025-04-25,Medication Management,No-Show,30
+324,76,6,2025-03-18,2025-02-23,Discharge Visit,No-Show,30
+325,437,7,2025-04-28,2025-04-11,Urgent Visit,Cancelled,20
+326,145,6,2025-02-20,2025-02-05,Discharge Visit,Completed,30
+327,420,7,2025-05-20,2025-04-28,Urgent Visit,Completed,20
+328,117,7,2025-04-04,2025-03-06,Follow-up,No-Show,20
+329,42,7,2025-02-26,2025-02-11,Urgent Visit,No-Show,20
+330,475,11,2025-06-27,2025-04-17,Therapy Session,Completed,50
+331,78,4,2025-04-29,2025-03-28,New Injury,Completed,30
+332,185,7,2025-03-27,2025-02-22,Annual Visit,Cancelled,30
+333,484,5,2025-03-11,2025-01-17,Therapy Session,Completed,50
+334,43,2,2025-02-19,2025-01-11,Follow-up,Completed,20
+335,442,2,2025-01-29,2024-12-19,Testing Review,Completed,30
+336,404,9,2025-02-04,2024-12-21,New Consult,Completed,45
+337,57,12,2025-05-09,2025-04-18,Initial Evaluation,Cancelled,45
+338,227,1,2025-02-25,2025-02-20,Annual Visit,Completed,30
+339,468,6,2025-06-02,2025-05-29,Initial Evaluation,Completed,45
+340,371,10,2025-06-12,2025-05-28,New Injury,Cancelled,30
+341,275,7,2025-06-13,2025-05-11,Follow-up,Cancelled,20
+342,283,6,2025-01-02,2024-11-30,Follow-up Treatment,Completed,30
+343,466,4,2025-06-12,2025-05-19,Post-op Visit,Completed,30
+344,429,8,2025-02-10,2025-01-19,Testing Review,Completed,30
+345,57,11,2025-01-16,2024-12-09,Therapy Session,No-Show,50
+346,209,2,2025-06-30,2025-06-02,New Consult,No-Show,45
+347,419,6,2025-02-06,2025-01-16,Initial Evaluation,No-Show,45
+348,109,1,2025-06-30,2025-06-18,Urgent Visit,Completed,20
+349,380,1,2025-04-30,2025-04-10,Follow-up,Completed,20
+350,167,4,2025-04-24,2025-04-10,Follow-up,Cancelled,20
+351,402,12,2025-02-21,2025-01-23,Discharge Visit,Completed,30
+352,255,10,2025-02-18,2025-01-29,New Injury,Completed,30
+353,468,4,2025-01-31,2025-01-13,New Injury,Completed,30
+354,217,7,2025-01-01,2024-12-23,Annual Visit,Completed,30
+355,178,9,2025-02-27,2025-01-03,Medication Review,Completed,20
+356,108,11,2025-06-19,2025-05-13,Intake,Completed,60
+357,487,10,2025-06-16,2025-06-12,Follow-up,Completed,20
+358,382,3,2025-03-03,2025-01-30,Diabetes Follow-up,No-Show,30
+359,451,11,2025-01-03,2024-11-22,Medication Management,Cancelled,30
+360,93,7,2025-01-09,2024-12-25,Follow-up,Completed,20
+361,52,5,2025-04-07,2025-02-14,Medication Management,Completed,30
+362,24,6,2025-01-06,2024-12-11,Discharge Visit,Completed,30
+363,168,5,2025-03-17,2025-01-21,Intake,Completed,60
+364,324,5,2025-03-05,2025-01-30,Therapy Session,Completed,50
+365,241,10,2025-05-19,2025-04-30,New Injury,Cancelled,30
+366,308,10,2025-05-08,2025-04-25,Post-op Visit,No-Show,30
+367,323,5,2025-04-07,2025-02-26,Intake,Cancelled,60
+368,493,1,2025-01-16,2025-01-01,Follow-up,Completed,20
+369,128,10,2025-02-18,2025-02-13,New Injury,Completed,30
+370,184,4,2025-05-28,2025-05-06,Follow-up,Completed,20
+371,327,1,2025-04-02,2025-03-25,Annual Visit,Completed,30
+372,434,12,2025-02-24,2025-02-05,Initial Evaluation,No-Show,45
+373,238,4,2025-04-08,2025-03-31,Follow-up,Cancelled,20
+374,252,6,2025-06-06,2025-05-06,Initial Evaluation,No-Show,45
+375,239,7,2025-01-24,2025-01-16,Follow-up,Completed,20
+376,320,5,2025-04-21,2025-02-18,Intake,Completed,60
+377,16,4,2025-03-17,2025-03-09,Post-op Visit,Completed,30
+378,169,6,2025-03-24,2025-03-17,Discharge Visit,Completed,30
+379,280,7,2025-05-07,2025-04-05,Follow-up,Completed,20
+380,426,1,2025-03-06,2025-02-11,Urgent Visit,Completed,20
+381,53,9,2025-03-07,2025-01-18,Medication Review,Completed,20
+382,179,1,2025-02-24,2025-02-18,Follow-up,Completed,20
+383,11,7,2025-05-15,2025-05-07,Follow-up,Completed,20
+384,223,1,2025-05-22,2025-05-06,Follow-up,Completed,20
+385,123,8,2025-05-19,2025-05-03,Testing Review,Completed,30
+386,486,4,2025-04-28,2025-04-23,Post-op Visit,Completed,30
+387,448,8,2025-04-07,2025-03-16,Follow-up,Completed,20
+388,10,4,2025-06-09,2025-05-26,Follow-up,Cancelled,20
+389,177,11,2025-05-06,2025-03-09,Intake,Completed,60
+390,271,11,2025-06-20,2025-05-15,Therapy Session,Completed,50
+391,351,1,2025-01-17,2024-12-22,Urgent Visit,Completed,20
+392,166,2,2025-05-06,2025-03-28,Follow-up,Completed,20
+393,456,2,2025-01-10,2024-12-27,New Consult,Completed,45
+394,371,11,2025-04-29,2025-03-20,Medication Management,Completed,30
+395,496,6,2025-01-13,2024-12-27,Follow-up Treatment,Completed,30
+396,292,12,2025-04-28,2025-04-13,Follow-up Treatment,Completed,30
+397,232,3,2025-05-09,2025-04-06,Diabetes Follow-up,Completed,30
+398,373,12,2025-04-11,2025-03-15,Discharge Visit,Cancelled,30
+399,435,3,2025-03-10,2025-01-24,Medication Review,Completed,20
+400,164,8,2025-05-27,2025-04-17,Follow-up,Completed,20
+401,411,4,2025-06-30,2025-06-05,Follow-up,Completed,20
+402,67,5,2025-01-08,2024-12-13,Therapy Session,No-Show,50
+403,2,4,2025-02-20,2025-01-29,Post-op Visit,Cancelled,30
+404,209,5,2025-06-30,2025-04-18,Therapy Session,Completed,50
+405,311,7,2025-04-15,2025-03-20,Follow-up,Completed,20
+406,449,1,2025-02-03,2025-01-01,Follow-up,No-Show,20
+407,488,12,2025-01-22,2024-12-24,Initial Evaluation,Completed,45
+408,249,2,2025-01-15,2025-01-01,Testing Review,Completed,30
+409,483,3,2025-04-15,2025-03-11,Diabetes Follow-up,Completed,30
+410,455,5,2025-03-24,2025-01-24,Intake,Completed,60
+411,357,2,2025-04-21,2025-04-06,New Consult,Completed,45
+412,498,7,2025-06-12,2025-06-06,Annual Visit,Completed,30
+413,286,7,2025-03-17,2025-03-11,Annual Visit,Completed,30
+414,65,6,2025-04-07,2025-03-04,Discharge Visit,Completed,30
+415,357,12,2025-05-20,2025-05-14,Initial Evaluation,Completed,45
+416,22,7,2025-04-02,2025-03-10,Urgent Visit,Completed,20
+417,85,7,2025-01-23,2025-01-05,Urgent Visit,Completed,20
+418,101,5,2025-01-02,2024-10-22,Medication Management,Completed,30
+419,359,10,2025-01-02,2024-12-12,New Injury,No-Show,30
+420,388,9,2025-02-10,2025-01-17,Diabetes Follow-up,Completed,30
+421,106,5,2025-02-13,2025-01-14,Intake,Completed,60
+422,433,2,2025-05-20,2025-04-19,New Consult,Completed,45
+423,462,7,2025-06-17,2025-06-05,Annual Visit,Completed,30
+424,441,11,2025-04-15,2025-03-12,Intake,Completed,60
+425,102,12,2025-05-28,2025-05-08,Follow-up Treatment,Completed,30
+426,313,2,2025-06-16,2025-05-20,New Consult,Cancelled,45
+427,98,9,2025-06-13,2025-05-22,Medication Review,Completed,20
+428,126,1,2025-04-03,2025-03-02,Follow-up,Completed,20
+429,253,2,2025-02-11,2025-01-20,Follow-up,Completed,20
+430,25,11,2025-03-03,2025-01-07,Intake,Completed,60
+431,297,7,2025-03-31,2025-02-26,Urgent Visit,Cancelled,20
+432,69,12,2025-03-21,2025-03-09,Follow-up Treatment,No-Show,30
+433,162,1,2025-02-11,2025-02-02,Urgent Visit,Completed,20
+434,3,6,2025-02-05,2025-01-09,Follow-up Treatment,No-Show,30
+435,186,11,2025-03-10,2025-01-07,Therapy Session,Completed,50
+436,474,7,2025-04-29,2025-04-23,Follow-up,Completed,20
+437,114,7,2025-06-24,2025-05-25,Follow-up,Completed,20
+438,115,1,2025-01-28,2025-01-18,Annual Visit,Completed,30
+439,328,11,2025-02-25,2025-01-04,Medication Management,Completed,30
+440,170,12,2025-02-14,2025-01-24,Initial Evaluation,Completed,45
+441,135,1,2025-02-05,2025-01-02,Annual Visit,Completed,30
+442,282,1,2025-01-30,2025-01-13,Annual Visit,Completed,30
+443,235,6,2025-01-24,2025-01-04,Initial Evaluation,Completed,45
+444,417,5,2025-06-06,2025-05-11,Medication Management,Cancelled,30
+445,411,7,2025-04-10,2025-03-11,Follow-up,Completed,20
+446,70,7,2025-01-08,2024-12-11,Urgent Visit,Cancelled,20
+447,151,6,2025-05-26,2025-05-06,Initial Evaluation,Completed,45
+448,183,5,2025-01-13,2024-12-09,Medication Management,No-Show,30
+449,34,9,2025-02-18,2024-12-25,Medication Review,Completed,20
+450,247,9,2025-04-03,2025-02-27,Medication Review,Completed,20
+451,139,3,2025-06-18,2025-05-02,New Consult,Cancelled,45
+452,210,1,2025-01-16,2025-01-01,Annual Visit,Completed,30
+453,24,7,2025-05-19,2025-04-25,Urgent Visit,Completed,20
+454,496,1,2025-03-25,2025-02-20,Follow-up,Cancelled,20
+455,192,5,2025-03-31,2025-01-19,Medication Management,Completed,30
+456,371,3,2025-02-05,2024-12-21,Medication Review,Completed,20
+457,321,10,2025-04-03,2025-03-10,Follow-up,Cancelled,20
+458,249,6,2025-04-01,2025-03-09,Discharge Visit,Cancelled,30
+459,44,11,2025-05-20,2025-04-02,Therapy Session,Completed,50
+460,244,10,2025-04-16,2025-04-07,Follow-up,Completed,20
+461,69,8,2025-04-29,2025-04-05,New Consult,Completed,45
+462,415,7,2025-05-12,2025-04-26,Annual Visit,Cancelled,30
+463,343,6,2025-06-18,2025-06-14,Initial Evaluation,Completed,45
+464,21,1,2025-03-21,2025-03-14,Annual Visit,Cancelled,30
+465,38,4,2025-02-04,2025-01-31,New Injury,No-Show,30
+466,323,6,2025-01-01,2024-12-11,Initial Evaluation,No-Show,45
+467,313,6,2025-06-10,2025-06-05,Follow-up Treatment,Completed,30
+468,185,6,2025-06-23,2025-05-31,Discharge Visit,Completed,30
+469,200,4,2025-01-22,2025-01-02,New Injury,No-Show,30
+470,256,8,2025-06-05,2025-05-08,New Consult,Completed,45
+471,77,7,2025-01-21,2025-01-15,Annual Visit,Completed,30
+472,330,1,2025-02-03,2025-01-14,Annual Visit,Completed,30
+473,60,5,2025-03-18,2025-02-10,Intake,Completed,60
+474,245,4,2025-01-20,2025-01-03,New Injury,Completed,30
+475,57,1,2025-05-09,2025-04-17,Follow-up,No-Show,20
+476,466,6,2025-02-14,2025-02-05,Follow-up Treatment,Completed,30
+477,17,9,2025-01-27,2024-12-14,Diabetes Follow-up,Completed,30
+478,409,12,2025-04-14,2025-04-02,Initial Evaluation,Completed,45
+479,253,4,2025-06-26,2025-06-07,Post-op Visit,Completed,30
+480,12,12,2025-02-18,2025-01-30,Initial Evaluation,Cancelled,45
+481,288,5,2025-02-26,2025-01-31,Intake,Completed,60
+482,437,7,2025-03-26,2025-03-18,Urgent Visit,Completed,20
+483,257,5,2025-05-21,2025-04-25,Therapy Session,Completed,50
+484,121,7,2025-03-05,2025-01-31,Follow-up,Completed,20
+485,106,1,2025-01-23,2025-01-07,Follow-up,Completed,20
+486,347,9,2025-02-04,2024-12-17,Diabetes Follow-up,Completed,30
+487,227,3,2025-03-31,2025-03-06,Diabetes Follow-up,Completed,30
+488,348,1,2025-05-19,2025-05-06,Urgent Visit,No-Show,20
+489,100,2,2025-05-01,2025-03-30,Testing Review,Completed,30
+490,29,5,2025-06-09,2025-04-07,Medication Management,Completed,30
+491,388,12,2025-03-11,2025-03-03,Discharge Visit,No-Show,30
+492,194,12,2025-06-20,2025-06-10,Initial Evaluation,Completed,45
+493,50,10,2025-06-13,2025-06-01,Post-op Visit,Cancelled,30
+494,460,7,2025-04-03,2025-03-11,Urgent Visit,Completed,20
+495,281,1,2025-01-29,2025-01-17,Urgent Visit,Cancelled,20
+496,188,4,2025-06-11,2025-05-28,Follow-up,Completed,20
+497,334,8,2025-01-13,2024-12-06,Testing Review,Completed,30
+498,353,12,2025-04-23,2025-04-10,Discharge Visit,Completed,30
+499,396,6,2025-05-20,2025-05-06,Initial Evaluation,Completed,45
+500,337,4,2025-04-08,2025-03-18,Follow-up,Completed,20
+501,280,7,2025-05-22,2025-05-18,Urgent Visit,Completed,20
+502,321,12,2025-01-24,2025-01-10,Initial Evaluation,Cancelled,45
+503,407,6,2025-06-11,2025-05-11,Follow-up Treatment,Completed,30
+504,220,11,2025-02-03,2025-01-06,Medication Management,No-Show,30
+505,475,10,2025-05-20,2025-05-13,New Injury,No-Show,30
+506,63,1,2025-02-05,2025-01-09,Annual Visit,Completed,30
+507,423,10,2025-05-23,2025-04-23,Post-op Visit,Completed,30
+508,490,7,2025-05-30,2025-05-12,Annual Visit,Completed,30
+509,364,3,2025-06-04,2025-04-06,Diabetes Follow-up,No-Show,30
+510,360,6,2025-04-03,2025-03-09,Discharge Visit,Completed,30
+511,362,7,2025-03-21,2025-03-10,Urgent Visit,Completed,20
+512,281,7,2025-06-11,2025-05-26,Annual Visit,Completed,30
+513,27,7,2025-05-26,2025-05-14,Urgent Visit,Completed,20
+514,213,7,2025-06-20,2025-06-03,Follow-up,Completed,20
+515,22,7,2025-01-03,2024-12-27,Annual Visit,Completed,30
+516,310,8,2025-01-08,2024-12-15,Testing Review,Completed,30
+517,258,12,2025-06-04,2025-05-31,Initial Evaluation,Completed,45
+518,200,6,2025-05-21,2025-04-27,Initial Evaluation,No-Show,45
+519,237,7,2025-01-01,2024-12-19,Annual Visit,Completed,30
+520,382,1,2025-01-10,2024-12-14,Follow-up,Completed,20
+521,242,1,2025-03-17,2025-02-23,Follow-up,No-Show,20
+522,430,5,2025-03-05,2025-01-22,Intake,Completed,60
+523,49,1,2025-03-05,2025-02-25,Follow-up,Completed,20
+524,352,7,2025-04-21,2025-04-07,Urgent Visit,Completed,20
+525,374,12,2025-01-13,2025-01-10,Initial Evaluation,Completed,45
+526,197,6,2025-01-14,2025-01-06,Discharge Visit,Completed,30
+527,239,6,2025-03-05,2025-02-23,Follow-up Treatment,Completed,30
+528,12,5,2025-01-15,2024-11-02,Intake,Completed,60
+529,360,7,2025-06-30,2025-06-04,Follow-up,Completed,20
+530,291,11,2025-04-17,2025-02-04,Intake,Completed,60
+531,80,8,2025-01-30,2024-12-19,Testing Review,Completed,30
+532,103,7,2025-01-09,2024-12-06,Urgent Visit,Completed,20
+533,90,9,2025-05-16,2025-04-16,Medication Review,Completed,20
+534,145,8,2025-05-09,2025-04-08,Testing Review,Completed,30
+535,276,6,2025-05-21,2025-05-10,Discharge Visit,Cancelled,30
+536,153,3,2025-04-17,2025-03-10,New Consult,No-Show,45
+537,310,3,2025-02-28,2025-01-17,Medication Review,Completed,20
+538,480,11,2025-04-03,2025-01-28,Intake,Completed,60
+539,392,12,2025-03-13,2025-02-12,Initial Evaluation,Completed,45
+540,238,9,2025-06-25,2025-05-12,Medication Review,Cancelled,20
+541,123,11,2025-06-09,2025-04-30,Therapy Session,Completed,50
+542,166,12,2025-02-21,2025-01-29,Initial Evaluation,Cancelled,45
+543,444,7,2025-04-16,2025-03-22,Annual Visit,Completed,30
+544,396,11,2025-05-14,2025-03-30,Intake,Completed,60
+545,236,12,2025-06-11,2025-06-06,Follow-up Treatment,Completed,30
+546,453,11,2025-05-05,2025-03-14,Medication Management,Completed,30
+547,394,4,2025-06-18,2025-06-04,New Injury,Completed,30
+548,279,6,2025-03-21,2025-02-20,Initial Evaluation,Completed,45
+549,8,7,2025-06-20,2025-05-29,Urgent Visit,Completed,20
+550,331,7,2025-06-13,2025-06-03,Annual Visit,Completed,30
+551,242,12,2025-06-19,2025-05-31,Follow-up Treatment,Completed,30
+552,118,2,2025-06-06,2025-05-12,Follow-up,Cancelled,20
+553,402,7,2025-03-04,2025-02-18,Urgent Visit,Completed,20
+554,191,9,2025-01-15,2024-11-21,Diabetes Follow-up,Cancelled,30
+555,484,10,2025-05-21,2025-05-02,Follow-up,Completed,20
+556,82,4,2025-03-31,2025-03-10,Post-op Visit,Completed,30
+557,180,12,2025-02-24,2025-01-21,Initial Evaluation,Completed,45
+558,366,1,2025-03-18,2025-03-15,Annual Visit,Cancelled,30
+559,311,7,2025-02-04,2025-01-26,Urgent Visit,Completed,20
+560,225,3,2025-06-19,2025-05-09,Medication Review,Completed,20
+561,228,12,2025-01-31,2025-01-10,Follow-up Treatment,Cancelled,30
+562,396,1,2025-02-17,2025-02-08,Urgent Visit,Completed,20
+563,31,1,2025-05-23,2025-05-06,Annual Visit,Completed,30
+564,29,1,2025-01-22,2025-01-13,Annual Visit,Cancelled,30
+565,19,10,2025-05-22,2025-05-12,New Injury,No-Show,30
+566,472,1,2025-03-26,2025-02-26,Urgent Visit,Cancelled,20
+567,157,2,2025-05-29,2025-05-09,Follow-up,Completed,20
+568,313,1,2025-03-26,2025-02-24,Follow-up,Completed,20
+569,193,1,2025-06-10,2025-06-02,Follow-up,Completed,20
+570,333,4,2025-05-21,2025-04-29,New Injury,Completed,30
+571,287,10,2025-06-03,2025-05-03,New Injury,Cancelled,30
+572,153,6,2025-01-02,2024-12-08,Follow-up Treatment,Completed,30
+573,149,11,2025-06-13,2025-04-17,Intake,Completed,60
+574,161,12,2025-01-20,2024-12-25,Initial Evaluation,Completed,45
+575,120,10,2025-04-28,2025-03-28,Post-op Visit,Cancelled,30
+576,86,3,2025-06-23,2025-05-27,Diabetes Follow-up,Completed,30
+577,289,5,2025-04-17,2025-03-01,Therapy Session,Completed,50
+578,115,5,2025-03-28,2025-01-18,Medication Management,Completed,30
+579,156,8,2025-02-25,2025-01-26,New Consult,Completed,45
+580,185,5,2025-06-18,2025-04-25,Medication Management,Completed,30
+581,216,8,2025-02-28,2025-01-23,Testing Review,Completed,30
+582,134,6,2025-04-01,2025-03-24,Follow-up Treatment,Completed,30
+583,79,1,2025-05-06,2025-04-26,Urgent Visit,Completed,20
+584,246,12,2025-05-28,2025-05-25,Follow-up Treatment,Completed,30
+585,268,2,2025-02-24,2025-02-04,Testing Review,No-Show,30
+586,146,6,2025-03-21,2025-02-23,Initial Evaluation,Cancelled,45
+587,266,6,2025-01-21,2025-01-16,Discharge Visit,Completed,30
+588,203,2,2025-01-21,2024-12-26,Follow-up,Completed,20
+589,71,8,2025-04-24,2025-03-22,New Consult,Completed,45
+590,43,7,2025-04-09,2025-04-01,Follow-up,Completed,20
+591,376,11,2025-01-01,2024-11-23,Medication Management,Completed,30
+592,88,4,2025-04-04,2025-03-02,Follow-up,Completed,20
+593,353,10,2025-02-03,2025-01-18,New Injury,Completed,30
+594,461,2,2025-02-03,2025-01-08,Follow-up,Completed,20
+595,321,12,2025-04-15,2025-03-25,Discharge Visit,Completed,30
+596,54,10,2025-02-24,2025-02-12,New Injury,Completed,30
+597,490,1,2025-02-27,2025-01-26,Follow-up,Completed,20
+598,253,10,2025-06-19,2025-06-07,Follow-up,Completed,20
+599,308,1,2025-05-07,2025-04-26,Follow-up,Completed,20
+600,340,2,2025-03-14,2025-02-10,New Consult,Completed,45
+601,146,7,2025-05-28,2025-05-15,Urgent Visit,Completed,20
+602,239,7,2025-01-09,2024-12-22,Annual Visit,Completed,30
+603,211,2,2025-06-24,2025-05-25,Follow-up,No-Show,20
+604,161,1,2025-04-02,2025-03-01,Urgent Visit,Completed,20
+605,202,1,2025-02-20,2025-02-14,Annual Visit,Cancelled,30
+606,344,1,2025-02-14,2025-01-17,Urgent Visit,Completed,20
+607,125,6,2025-04-01,2025-03-20,Initial Evaluation,Completed,45
+608,441,4,2025-04-07,2025-03-27,Follow-up,Completed,20
+609,56,5,2025-02-04,2024-12-19,Therapy Session,Completed,50
+610,60,3,2025-06-24,2025-05-05,Medication Review,Completed,20
+611,169,7,2025-03-27,2025-02-24,Follow-up,Cancelled,20
+612,8,1,2025-02-19,2025-02-01,Annual Visit,No-Show,30
+613,204,12,2025-03-12,2025-03-02,Follow-up Treatment,Completed,30
+614,10,11,2025-05-28,2025-03-30,Medication Management,Completed,30
+615,388,6,2025-03-26,2025-03-04,Follow-up Treatment,Completed,30
+616,432,9,2025-02-14,2024-12-25,Medication Review,No-Show,20
+617,333,5,2025-01-01,2024-12-07,Intake,Completed,60
+618,109,9,2025-05-29,2025-04-25,New Consult,Completed,45
+619,298,12,2025-05-19,2025-04-18,Discharge Visit,No-Show,30
+620,10,2,2025-01-10,2024-12-07,New Consult,Completed,45
+621,479,10,2025-01-28,2025-01-10,New Injury,Completed,30
+622,54,7,2025-06-19,2025-05-23,Urgent Visit,Completed,20
+623,290,12,2025-02-28,2025-02-16,Follow-up Treatment,Completed,30
+624,194,7,2025-02-13,2025-02-01,Annual Visit,Completed,30
+625,15,3,2025-03-14,2025-02-17,Diabetes Follow-up,Cancelled,30
+626,166,1,2025-06-20,2025-06-07,Annual Visit,Completed,30
+627,313,12,2025-04-14,2025-04-10,Follow-up Treatment,Completed,30
+628,42,5,2025-04-04,2025-03-09,Medication Management,No-Show,30
+629,145,5,2025-01-27,2024-11-17,Therapy Session,Completed,50
+630,414,12,2025-05-26,2025-05-13,Discharge Visit,Completed,30
+631,159,2,2025-02-05,2025-01-13,New Consult,Completed,45
+632,322,4,2025-04-11,2025-03-12,New Injury,Completed,30
+633,416,1,2025-03-24,2025-03-13,Follow-up,Completed,20
+634,156,12,2025-05-27,2025-05-24,Initial Evaluation,Completed,45
+635,138,12,2025-04-15,2025-03-30,Follow-up Treatment,Completed,30
+636,450,2,2025-04-15,2025-03-04,New Consult,Cancelled,45
+637,270,3,2025-03-17,2025-01-28,Diabetes Follow-up,Completed,30
+638,414,8,2025-02-04,2024-12-22,New Consult,Completed,45
+639,3,1,2025-04-30,2025-04-11,Annual Visit,Completed,30
+640,405,11,2025-01-28,2024-12-04,Therapy Session,Completed,50
+641,4,7,2025-05-22,2025-05-05,Follow-up,Cancelled,20
+642,436,1,2025-04-28,2025-03-29,Urgent Visit,Completed,20
+643,329,11,2025-04-17,2025-02-08,Medication Management,Completed,30
+644,314,7,2025-01-27,2025-01-01,Urgent Visit,Completed,20
+645,245,7,2025-04-02,2025-03-21,Follow-up,Completed,20
+646,142,2,2025-06-24,2025-05-26,Testing Review,Completed,30
+647,446,10,2025-03-06,2025-02-16,Follow-up,Completed,20
+648,3,8,2025-06-24,2025-05-30,Follow-up,Completed,20
+649,446,4,2025-03-10,2025-02-17,Follow-up,Completed,20
+650,338,3,2025-05-08,2025-03-29,Diabetes Follow-up,Cancelled,30
+651,199,2,2025-01-21,2024-12-19,Follow-up,Completed,20
+652,249,7,2025-04-15,2025-03-15,Urgent Visit,Completed,20
+653,313,11,2025-04-25,2025-04-03,Medication Management,Completed,30
+654,73,9,2025-05-16,2025-04-06,New Consult,Completed,45
+655,246,11,2025-06-11,2025-05-07,Therapy Session,Completed,50
+656,292,7,2025-05-27,2025-05-07,Urgent Visit,Completed,20
+657,219,2,2025-03-20,2025-02-08,Testing Review,No-Show,30
+658,376,4,2025-05-09,2025-04-22,Post-op Visit,No-Show,30
+659,20,7,2025-04-11,2025-03-14,Annual Visit,Completed,30
+660,251,1,2025-01-13,2024-12-29,Urgent Visit,Completed,20
+661,100,10,2025-03-12,2025-03-01,New Injury,Completed,30
+662,300,6,2025-06-03,2025-05-28,Initial Evaluation,Completed,45
+663,10,1,2025-05-20,2025-04-28,Follow-up,Completed,20
+664,190,11,2025-05-12,2025-03-09,Therapy Session,No-Show,50
+665,281,1,2025-01-15,2024-12-12,Annual Visit,Completed,30
+666,355,3,2025-06-11,2025-04-23,New Consult,No-Show,45
+667,328,1,2025-04-07,2025-03-31,Annual Visit,Cancelled,30
+668,94,12,2025-02-14,2025-02-10,Follow-up Treatment,Completed,30
+669,400,5,2025-05-06,2025-02-28,Medication Management,Completed,30
+670,339,5,2025-04-10,2025-02-15,Medication Management,Completed,30
+671,328,1,2025-01-31,2025-01-25,Follow-up,Completed,20
+672,324,6,2025-06-27,2025-05-25,Initial Evaluation,Completed,45
+673,192,4,2025-06-11,2025-05-25,New Injury,Completed,30
+674,237,12,2025-05-02,2025-04-19,Discharge Visit,Completed,30
+675,444,1,2025-04-11,2025-03-20,Annual Visit,Completed,30
+676,229,5,2025-02-21,2024-12-24,Therapy Session,Cancelled,50
+677,428,11,2025-06-16,2025-05-17,Medication Management,Completed,30
+678,105,7,2025-01-14,2025-01-02,Annual Visit,Completed,30
+679,67,4,2025-02-28,2025-02-11,New Injury,Completed,30
+680,239,8,2025-05-28,2025-04-16,Testing Review,Cancelled,30
+681,470,7,2025-01-22,2024-12-29,Annual Visit,Completed,30
+682,327,7,2025-05-06,2025-04-26,Follow-up,Completed,20
+683,234,10,2025-03-20,2025-03-05,New Injury,Cancelled,30
+684,131,10,2025-02-18,2025-02-15,New Injury,No-Show,30
+685,377,7,2025-01-21,2024-12-26,Follow-up,Completed,20
+686,436,7,2025-04-25,2025-04-22,Urgent Visit,Completed,20
+687,78,2,2025-05-29,2025-04-16,Testing Review,Completed,30
+688,354,11,2025-02-05,2024-12-29,Therapy Session,Completed,50
+689,309,4,2025-04-18,2025-03-19,Follow-up,Completed,20
+690,51,12,2025-01-27,2025-01-04,Discharge Visit,Completed,30
+691,156,1,2025-06-17,2025-05-28,Follow-up,Completed,20
+692,61,3,2025-06-20,2025-05-05,Diabetes Follow-up,Completed,30
+693,89,11,2025-02-05,2025-01-08,Intake,Completed,60
+694,189,4,2025-05-23,2025-05-18,Post-op Visit,Completed,30
+695,8,1,2025-02-21,2025-02-01,Urgent Visit,Completed,20
+696,102,7,2025-04-18,2025-03-30,Annual Visit,Completed,30
+697,199,6,2025-02-12,2025-01-21,Follow-up Treatment,Cancelled,30
+698,48,2,2025-06-02,2025-05-12,Follow-up,Completed,20
+699,325,6,2025-03-20,2025-03-01,Discharge Visit,Cancelled,30
+700,13,9,2025-06-23,2025-05-11,Diabetes Follow-up,Completed,30
+701,260,8,2025-06-06,2025-05-10,Follow-up,Completed,20
+702,124,1,2025-01-14,2025-01-03,Urgent Visit,Completed,20
+703,374,5,2025-01-20,2024-12-06,Intake,Cancelled,60
+704,199,10,2025-05-20,2025-04-30,Post-op Visit,No-Show,30
+705,447,1,2025-02-05,2025-02-02,Annual Visit,Completed,30
+706,470,8,2025-04-14,2025-03-05,Follow-up,Completed,20
+707,240,9,2025-01-29,2024-12-30,New Consult,Completed,45
+708,198,7,2025-03-19,2025-02-14,Follow-up,Completed,20
+709,462,7,2025-06-27,2025-06-10,Follow-up,Completed,20
+710,64,9,2025-03-07,2025-02-08,Diabetes Follow-up,Completed,30
+711,257,5,2025-04-01,2025-01-24,Therapy Session,Completed,50
+712,476,1,2025-05-21,2025-04-18,Annual Visit,Completed,30
+713,433,12,2025-03-19,2025-03-16,Initial Evaluation,Cancelled,45
+714,281,6,2025-01-01,2024-11-28,Follow-up Treatment,Cancelled,30
+715,491,7,2025-01-02,2024-12-22,Annual Visit,Completed,30
+716,49,1,2025-04-16,2025-03-17,Follow-up,No-Show,20
+717,465,11,2025-02-20,2024-12-16,Medication Management,Completed,30
+718,148,5,2025-02-03,2024-11-21,Medication Management,Completed,30
+719,214,5,2025-06-25,2025-05-11,Therapy Session,Completed,50
+720,74,8,2025-03-26,2025-02-15,Testing Review,Completed,30
+721,160,12,2025-03-26,2025-03-10,Initial Evaluation,Completed,45
+722,308,1,2025-06-05,2025-05-14,Follow-up,Completed,20
+723,331,6,2025-05-27,2025-05-19,Follow-up Treatment,Completed,30
+724,37,4,2025-03-05,2025-02-14,Post-op Visit,Completed,30
+725,377,12,2025-06-19,2025-05-31,Initial Evaluation,Completed,45
+726,156,4,2025-05-20,2025-05-07,New Injury,Completed,30
+727,445,4,2025-06-20,2025-06-16,Follow-up,Completed,20
+728,205,7,2025-03-20,2025-03-01,Urgent Visit,Completed,20
+729,275,5,2025-01-09,2024-12-11,Intake,Completed,60
+730,61,7,2025-05-01,2025-04-27,Follow-up,Completed,20
+731,80,11,2025-01-15,2024-11-23,Medication Management,Completed,30
+732,176,6,2025-06-25,2025-06-09,Discharge Visit,Completed,30
+733,275,10,2025-04-23,2025-03-25,Follow-up,Completed,20
+734,337,7,2025-05-13,2025-04-29,Urgent Visit,Completed,20
+735,484,6,2025-03-24,2025-03-18,Discharge Visit,Cancelled,30
+736,423,1,2025-05-06,2025-04-30,Urgent Visit,Completed,20
+737,21,6,2025-03-13,2025-02-21,Discharge Visit,Completed,30
+738,160,7,2025-01-14,2024-12-11,Urgent Visit,Completed,20
+739,116,5,2025-03-12,2024-12-29,Intake,Completed,60
+740,490,5,2025-01-31,2024-12-24,Therapy Session,Completed,50
+741,59,1,2025-01-01,2024-12-27,Urgent Visit,Completed,20
+742,100,1,2025-06-19,2025-05-22,Annual Visit,Completed,30
+743,176,12,2025-04-29,2025-04-18,Discharge Visit,Completed,30
+744,213,2,2025-02-05,2025-01-14,Follow-up,Completed,20
+745,29,6,2025-03-25,2025-03-20,Initial Evaluation,Cancelled,45
+746,433,11,2025-01-30,2024-12-27,Therapy Session,Cancelled,50
+747,353,11,2025-04-17,2025-02-18,Therapy Session,No-Show,50
+748,417,2,2025-02-10,2025-01-23,Follow-up,Completed,20
+749,46,7,2025-05-15,2025-04-30,Follow-up,Completed,20
+750,387,6,2025-06-09,2025-05-18,Follow-up Treatment,Completed,30
+751,480,1,2025-04-07,2025-03-12,Urgent Visit,No-Show,20
+752,470,3,2025-02-11,2025-01-07,New Consult,Completed,45
+753,125,8,2025-06-18,2025-05-31,Follow-up,Completed,20
+754,39,9,2025-03-17,2025-02-02,New Consult,Cancelled,45
+755,173,2,2025-06-26,2025-05-18,Testing Review,Completed,30
+756,12,11,2025-04-01,2025-01-29,Therapy Session,Completed,50
+757,106,5,2025-01-22,2024-12-09,Medication Management,Completed,30
+758,242,6,2025-06-05,2025-05-03,Initial Evaluation,Completed,45
+759,417,1,2025-04-29,2025-04-20,Follow-up,No-Show,20
+760,258,5,2025-01-27,2024-11-22,Medication Management,Completed,30
+761,380,3,2025-05-05,2025-03-11,Diabetes Follow-up,Completed,30
+762,154,7,2025-01-10,2024-12-22,Urgent Visit,Completed,20
+763,173,4,2025-01-06,2024-12-13,Follow-up,No-Show,20
+764,480,1,2025-04-09,2025-04-06,Urgent Visit,Completed,20
+765,328,8,2025-02-13,2025-01-06,Follow-up,Completed,20
+766,468,7,2025-01-20,2025-01-17,Follow-up,Completed,20
+767,475,11,2025-05-08,2025-03-06,Intake,Completed,60
+768,278,4,2025-01-13,2025-01-02,New Injury,Completed,30
+769,8,6,2025-06-24,2025-05-26,Initial Evaluation,Completed,45
+770,5,1,2025-04-22,2025-04-02,Annual Visit,Completed,30
+771,136,3,2025-02-04,2025-01-13,Medication Review,Completed,20
+772,95,1,2025-02-14,2025-01-28,Follow-up,No-Show,20
+773,336,2,2025-02-21,2025-01-30,Testing Review,Completed,30
+774,345,11,2025-02-21,2025-01-10,Intake,Completed,60
+775,145,12,2025-03-31,2025-03-02,Initial Evaluation,Completed,45
+776,169,10,2025-01-03,2024-12-29,New Injury,Completed,30
+777,393,12,2025-02-10,2025-02-01,Discharge Visit,Completed,30
+778,46,12,2025-04-03,2025-03-27,Follow-up Treatment,No-Show,30
+779,237,9,2025-03-17,2025-02-18,New Consult,Cancelled,45
+780,128,1,2025-03-26,2025-03-02,Annual Visit,Completed,30
+781,436,1,2025-01-02,2024-11-29,Follow-up,Completed,20
+782,136,1,2025-03-24,2025-03-21,Annual Visit,Completed,30
+783,125,1,2025-02-26,2025-01-28,Follow-up,Completed,20
+784,69,6,2025-04-23,2025-03-22,Initial Evaluation,Completed,45
+785,322,1,2025-01-14,2024-12-27,Annual Visit,Completed,30
+786,47,4,2025-06-03,2025-05-24,Post-op Visit,Cancelled,30
+787,415,12,2025-05-15,2025-04-14,Initial Evaluation,Completed,45
+788,67,1,2025-01-21,2025-01-11,Urgent Visit,Completed,20
+789,427,4,2025-03-25,2025-03-17,New Injury,Completed,30
+790,147,4,2025-01-03,2024-12-28,Post-op Visit,Cancelled,30
+791,365,4,2025-05-06,2025-04-18,New Injury,Completed,30
+792,78,3,2025-05-07,2025-03-28,Diabetes Follow-up,Completed,30
+793,175,4,2025-03-17,2025-03-11,Follow-up,Completed,20
+794,77,2,2025-03-25,2025-02-26,Follow-up,Completed,20
+795,27,1,2025-04-08,2025-03-11,Follow-up,Completed,20
+796,124,9,2025-01-27,2025-01-09,Diabetes Follow-up,Completed,30
+797,48,9,2025-04-15,2025-03-12,Medication Review,Completed,20
+798,324,8,2025-04-15,2025-03-25,New Consult,Completed,45
+799,245,7,2025-05-06,2025-04-07,Urgent Visit,Completed,20
+800,300,7,2025-03-19,2025-02-19,Urgent Visit,Completed,20
+801,450,5,2025-02-04,2024-11-24,Therapy Session,Completed,50
+802,76,4,2025-02-21,2025-02-18,Follow-up,No-Show,20
+803,18,1,2025-04-08,2025-03-19,Urgent Visit,Completed,20
+804,188,6,2025-03-20,2025-03-11,Initial Evaluation,Completed,45
+805,441,4,2025-01-17,2024-12-31,Post-op Visit,Completed,30
+806,285,4,2025-03-07,2025-02-28,Follow-up,Completed,20
+807,71,4,2025-04-02,2025-03-25,New Injury,Completed,30
+808,174,5,2025-03-05,2025-01-22,Therapy Session,Completed,50
+809,381,6,2025-02-14,2025-02-08,Follow-up Treatment,Completed,30
+810,284,4,2025-04-08,2025-03-31,Post-op Visit,Completed,30
+811,144,1,2025-02-03,2025-01-27,Annual Visit,Completed,30
+812,357,5,2025-05-08,2025-03-21,Medication Management,Completed,30
+813,377,8,2025-06-10,2025-04-30,Follow-up,Completed,20
+814,59,1,2025-06-23,2025-06-19,Annual Visit,Completed,30
+815,480,1,2025-01-24,2025-01-05,Follow-up,Completed,20
+816,483,4,2025-05-12,2025-04-28,Post-op Visit,Completed,30
+817,25,11,2025-04-28,2025-02-17,Intake,Completed,60
+818,175,2,2025-01-01,2024-12-16,New Consult,Cancelled,45
+819,206,8,2025-05-27,2025-04-14,Testing Review,Completed,30
+820,440,7,2025-06-04,2025-05-20,Urgent Visit,No-Show,20
+821,164,1,2025-02-27,2025-02-16,Urgent Visit,Completed,20
+822,165,5,2025-06-05,2025-05-03,Therapy Session,No-Show,50
+823,80,5,2025-06-24,2025-04-21,Therapy Session,Completed,50
+824,370,9,2025-04-04,2025-03-09,Medication Review,Completed,20
+825,41,4,2025-02-25,2025-02-20,New Injury,Completed,30
+826,368,12,2025-01-06,2024-12-10,Follow-up Treatment,Completed,30
+827,216,5,2025-05-08,2025-03-14,Intake,Completed,60
+828,107,4,2025-06-04,2025-05-28,Follow-up,Completed,20
+829,163,6,2025-06-11,2025-05-27,Follow-up Treatment,Completed,30
+830,393,8,2025-01-29,2024-12-27,Testing Review,Completed,30
+831,471,1,2025-04-17,2025-03-15,Annual Visit,Cancelled,30
+832,215,1,2025-05-08,2025-04-21,Urgent Visit,Completed,20
+833,257,4,2025-01-01,2024-12-13,New Injury,Completed,30
+834,349,1,2025-05-22,2025-05-19,Urgent Visit,Completed,20
+835,375,7,2025-03-12,2025-02-21,Urgent Visit,No-Show,20
+836,168,2,2025-05-20,2025-05-02,Testing Review,Completed,30
+837,161,11,2025-01-27,2024-12-25,Therapy Session,Cancelled,50
+838,151,8,2025-01-14,2024-12-10,New Consult,Completed,45
+839,236,7,2025-03-18,2025-02-25,Annual Visit,Completed,30
+840,463,7,2025-06-04,2025-05-09,Follow-up,No-Show,20
+841,95,12,2025-05-08,2025-04-29,Follow-up Treatment,Completed,30
+842,221,10,2025-02-03,2025-01-12,Post-op Visit,Completed,30
+843,55,6,2025-02-10,2025-01-13,Discharge Visit,No-Show,30
+844,437,3,2025-01-03,2024-12-10,New Consult,Completed,45
+845,362,5,2025-04-17,2025-03-13,Medication Management,Completed,30
+846,411,1,2025-01-10,2024-12-07,Follow-up,Completed,20
+847,438,2,2025-01-10,2024-11-29,Testing Review,Completed,30
+848,267,7,2025-01-02,2024-12-13,Annual Visit,Cancelled,30
+849,196,6,2025-05-01,2025-04-04,Follow-up Treatment,Completed,30
+850,139,10,2025-01-23,2024-12-26,New Injury,Completed,30
+851,493,7,2025-01-02,2024-12-07,Urgent Visit,Completed,20
+852,241,8,2025-06-27,2025-05-22,Follow-up,No-Show,20
+853,21,7,2025-01-31,2025-01-26,Follow-up,Completed,20
+854,162,7,2025-05-21,2025-04-29,Annual Visit,Completed,30
+855,364,2,2025-01-29,2025-01-02,Testing Review,Completed,30
+856,411,8,2025-01-16,2024-12-27,New Consult,Completed,45
+857,271,9,2025-02-14,2024-12-22,Medication Review,Completed,20
+858,379,11,2025-04-25,2025-03-11,Therapy Session,Cancelled,50
+859,92,4,2025-01-01,2024-12-11,Follow-up,Completed,20
+860,476,12,2025-02-24,2025-01-30,Follow-up Treatment,Completed,30
+861,105,9,2025-04-02,2025-03-09,New Consult,No-Show,45
+862,354,1,2025-04-15,2025-04-11,Annual Visit,Completed,30
+863,41,4,2025-05-16,2025-04-16,Post-op Visit,Completed,30
+864,215,3,2025-01-23,2024-12-28,Diabetes Follow-up,Completed,30
+865,307,10,2025-05-15,2025-04-20,Post-op Visit,No-Show,30
+866,406,7,2025-04-17,2025-03-30,Follow-up,Completed,20
+867,477,7,2025-01-03,2024-12-12,Follow-up,Completed,20
+868,308,5,2025-04-16,2025-03-13,Therapy Session,Completed,50
+869,394,2,2025-06-10,2025-05-03,Follow-up,Completed,20
+870,14,12,2025-01-22,2024-12-29,Discharge Visit,Completed,30
+871,19,12,2025-04-02,2025-03-24,Initial Evaluation,Completed,45
+872,112,1,2025-01-24,2024-12-30,Annual Visit,Completed,30
+873,281,9,2025-06-20,2025-05-08,New Consult,No-Show,45
+874,204,1,2025-01-02,2024-12-25,Annual Visit,Completed,30
+875,133,10,2025-04-04,2025-03-04,New Injury,Completed,30
+876,490,11,2025-06-24,2025-04-23,Therapy Session,Completed,50
+877,389,5,2025-06-19,2025-05-24,Intake,Completed,60
+878,89,4,2025-03-12,2025-02-20,New Injury,Completed,30
+879,376,8,2025-05-19,2025-04-26,Follow-up,Completed,20
+880,59,11,2025-01-27,2024-12-04,Therapy Session,Completed,50
+881,222,6,2025-05-23,2025-04-29,Discharge Visit,No-Show,30
+882,443,1,2025-04-01,2025-03-26,Follow-up,Completed,20
+883,380,1,2025-06-30,2025-06-20,Annual Visit,Completed,30
+884,175,1,2025-04-25,2025-03-25,Annual Visit,Completed,30
+885,71,9,2025-01-23,2024-12-27,Medication Review,No-Show,20
+886,210,5,2025-06-13,2025-05-08,Therapy Session,Completed,50
+887,480,6,2025-06-20,2025-06-15,Initial Evaluation,Cancelled,45
+888,346,5,2025-06-03,2025-04-27,Therapy Session,Completed,50
+889,128,11,2025-01-09,2024-12-04,Therapy Session,No-Show,50
+890,212,10,2025-02-05,2025-01-18,Post-op Visit,Completed,30
+891,317,11,2025-03-21,2025-01-06,Medication Management,Completed,30
+892,474,2,2025-02-04,2025-01-12,Testing Review,Completed,30
+893,180,12,2025-05-02,2025-04-09,Discharge Visit,No-Show,30
+894,352,12,2025-02-13,2025-01-21,Discharge Visit,Cancelled,30
+895,274,7,2025-04-23,2025-04-03,Follow-up,Completed,20
+896,54,10,2025-02-20,2025-02-13,New Injury,Completed,30
+897,380,5,2025-01-24,2024-11-13,Therapy Session,Cancelled,50
+898,424,1,2025-03-20,2025-03-10,Annual Visit,Completed,30
+899,140,7,2025-05-30,2025-05-09,Urgent Visit,Completed,20
+900,304,6,2025-04-09,2025-03-18,Follow-up Treatment,Completed,30
+901,202,6,2025-05-09,2025-04-28,Follow-up Treatment,Completed,30
+902,237,5,2025-05-15,2025-03-22,Therapy Session,Completed,50
+903,231,1,2025-06-09,2025-05-19,Urgent Visit,Completed,20
+904,13,8,2025-04-29,2025-04-06,Follow-up,No-Show,20
+905,253,1,2025-05-19,2025-04-18,Follow-up,Completed,20
+906,106,2,2025-06-27,2025-05-23,Testing Review,Completed,30
+907,294,12,2025-01-27,2025-01-09,Discharge Visit,Completed,30
+908,82,6,2025-03-21,2025-03-01,Discharge Visit,Completed,30
+909,89,5,2025-03-21,2025-01-16,Intake,Completed,60
+910,280,7,2025-04-10,2025-03-30,Follow-up,Completed,20
+911,336,1,2025-05-20,2025-05-10,Urgent Visit,Completed,20
+912,398,1,2025-06-02,2025-05-21,Follow-up,Completed,20
+913,459,11,2025-01-23,2024-11-14,Therapy Session,No-Show,50
+914,173,8,2025-06-12,2025-05-29,Testing Review,Completed,30
+915,327,10,2025-05-30,2025-05-07,Follow-up,Cancelled,20
+916,256,8,2025-04-23,2025-03-29,Follow-up,Completed,20
+917,454,2,2025-03-24,2025-02-14,New Consult,No-Show,45
+918,80,7,2025-05-08,2025-04-30,Annual Visit,Completed,30
+919,435,12,2025-04-01,2025-03-01,Discharge Visit,Completed,30
+920,242,4,2025-05-16,2025-05-04,Post-op Visit,Completed,30
+921,243,12,2025-01-24,2025-01-09,Initial Evaluation,Completed,45
+922,222,1,2025-05-08,2025-04-14,Annual Visit,Completed,30
+923,365,1,2025-02-03,2025-01-13,Urgent Visit,Completed,20
+924,164,4,2025-05-22,2025-05-12,Post-op Visit,Completed,30
+925,437,2,2025-06-16,2025-05-21,New Consult,Completed,45
+926,134,11,2025-02-20,2024-12-09,Medication Management,Completed,30
+927,196,5,2025-03-03,2024-12-26,Intake,Completed,60
+928,252,7,2025-01-10,2024-12-07,Urgent Visit,No-Show,20
+929,468,1,2025-05-14,2025-04-16,Urgent Visit,Completed,20
+930,51,10,2025-06-20,2025-06-13,New Injury,Completed,30
+931,438,1,2025-01-15,2024-12-23,Annual Visit,No-Show,30
+932,493,9,2025-06-27,2025-05-14,Medication Review,Completed,20
+933,105,4,2025-05-08,2025-04-11,Follow-up,Completed,20
+934,142,10,2025-04-22,2025-04-02,Post-op Visit,Cancelled,30
+935,55,6,2025-03-19,2025-03-02,Initial Evaluation,Completed,45
+936,8,8,2025-02-25,2025-01-26,Follow-up,No-Show,20
+937,309,9,2025-06-26,2025-05-13,Medication Review,Completed,20
+938,300,1,2025-01-24,2025-01-06,Annual Visit,Cancelled,30
+939,218,10,2025-01-30,2025-01-27,Follow-up,Completed,20
+940,301,9,2025-04-17,2025-03-22,Medication Review,Completed,20
+941,327,1,2025-06-19,2025-06-05,Annual Visit,Completed,30
+942,382,5,2025-01-01,2024-10-21,Medication Management,Cancelled,30
+943,449,6,2025-01-03,2024-12-20,Discharge Visit,Completed,30
+944,246,11,2025-06-20,2025-05-25,Therapy Session,Completed,50
+945,125,11,2025-04-23,2025-03-13,Intake,Completed,60
+946,39,10,2025-04-07,2025-03-24,New Injury,Cancelled,30
+947,15,9,2025-04-07,2025-03-08,Medication Review,Completed,20
+948,134,4,2025-02-05,2025-01-24,New Injury,Completed,30
+949,488,5,2025-02-04,2024-12-07,Intake,Completed,60
+950,293,6,2025-02-27,2025-02-10,Initial Evaluation,Completed,45
+951,76,9,2025-05-15,2025-04-04,New Consult,Completed,45
+952,7,8,2025-02-19,2025-01-31,Testing Review,Completed,30
+953,240,11,2025-05-09,2025-03-05,Intake,Completed,60
+954,298,11,2025-01-21,2024-11-20,Intake,Completed,60
+955,309,1,2025-03-13,2025-02-08,Annual Visit,Completed,30
+956,43,2,2025-06-12,2025-05-20,New Consult,Completed,45
+957,336,7,2025-02-26,2025-02-02,Follow-up,Completed,20
+958,242,1,2025-02-28,2025-02-05,Follow-up,Completed,20
+959,26,11,2025-04-24,2025-03-16,Intake,No-Show,60
+960,401,1,2025-03-28,2025-03-03,Urgent Visit,No-Show,20
+961,175,4,2025-01-03,2024-12-13,Post-op Visit,Completed,30
+962,443,6,2025-03-04,2025-02-03,Discharge Visit,Completed,30
+963,65,11,2025-02-05,2024-11-24,Intake,Completed,60
+964,492,8,2025-03-31,2025-02-24,Testing Review,Completed,30
+965,148,12,2025-05-27,2025-05-10,Discharge Visit,Cancelled,30
+966,147,9,2025-04-10,2025-02-14,Diabetes Follow-up,Completed,30
+967,253,1,2025-06-30,2025-05-31,Urgent Visit,Completed,20
+968,52,9,2025-03-25,2025-02-02,New Consult,Completed,45
+969,275,7,2025-06-04,2025-05-23,Follow-up,No-Show,20
+970,494,6,2025-02-18,2025-02-05,Discharge Visit,Cancelled,30
+971,111,6,2025-05-06,2025-04-07,Initial Evaluation,Completed,45
+972,441,6,2025-05-16,2025-04-20,Initial Evaluation,Cancelled,45
+973,140,12,2025-03-03,2025-02-10,Follow-up Treatment,Completed,30
+974,281,12,2025-06-11,2025-05-17,Follow-up Treatment,Completed,30
+975,467,2,2025-01-27,2024-12-18,New Consult,Completed,45
+976,451,12,2025-02-10,2025-01-24,Discharge Visit,Completed,30
+977,26,8,2025-01-14,2024-12-17,Testing Review,Completed,30
+978,31,7,2025-04-14,2025-03-24,Annual Visit,Completed,30
+979,269,7,2025-04-17,2025-04-04,Urgent Visit,No-Show,20
+980,28,11,2025-01-06,2024-11-25,Medication Management,Completed,30
+981,300,6,2025-02-25,2025-02-22,Follow-up Treatment,Completed,30
+982,90,6,2025-04-03,2025-03-25,Discharge Visit,Completed,30
+983,102,11,2025-05-30,2025-04-03,Therapy Session,Completed,50
+984,363,12,2025-05-21,2025-05-17,Follow-up Treatment,Completed,30
+985,403,11,2025-02-14,2024-12-12,Therapy Session,Completed,50
+986,337,8,2025-05-02,2025-03-29,Follow-up,Completed,20
+987,172,11,2025-01-16,2024-11-06,Therapy Session,Completed,50
+988,188,7,2025-01-17,2024-12-19,Follow-up,Completed,20
+989,329,11,2025-04-09,2025-03-06,Medication Management,Completed,30
+990,111,1,2025-02-18,2025-01-24,Follow-up,Completed,20
+991,460,1,2025-03-31,2025-03-04,Urgent Visit,Completed,20
+992,2,3,2025-04-18,2025-03-04,Medication Review,Completed,20
+993,120,7,2025-03-07,2025-02-26,Urgent Visit,Completed,20
+994,377,2,2025-06-11,2025-05-03,Testing Review,No-Show,30
+995,85,4,2025-03-05,2025-02-22,New Injury,Cancelled,30
+996,54,2,2025-04-30,2025-04-05,Testing Review,Completed,30
+997,73,5,2025-01-20,2024-11-17,Intake,Completed,60
+998,53,8,2025-06-02,2025-04-21,Testing Review,Completed,30
+999,419,7,2025-03-14,2025-03-09,Follow-up,No-Show,20
+1000,250,7,2025-01-28,2025-01-10,Follow-up,Completed,20
+1001,93,12,2025-01-08,2024-12-25,Discharge Visit,Cancelled,30
+1002,20,10,2025-01-20,2025-01-13,New Injury,Completed,30
+1003,199,1,2025-04-22,2025-04-13,Urgent Visit,Completed,20
+1004,300,6,2025-01-28,2025-01-05,Discharge Visit,Completed,30
+1005,423,6,2025-02-03,2025-01-10,Follow-up Treatment,Completed,30
+1006,294,7,2025-04-14,2025-03-27,Urgent Visit,Completed,20
+1007,481,12,2025-03-14,2025-02-08,Discharge Visit,Completed,30
+1008,274,10,2025-06-26,2025-06-11,Post-op Visit,Completed,30
+1009,414,11,2025-03-10,2025-01-08,Therapy Session,No-Show,50
+1010,194,1,2025-06-27,2025-06-21,Follow-up,Completed,20
+1011,121,12,2025-02-13,2025-01-21,Follow-up Treatment,Cancelled,30
+1012,145,5,2025-01-13,2024-11-30,Medication Management,Completed,30
+1013,447,1,2025-05-12,2025-05-03,Urgent Visit,No-Show,20
+1014,46,8,2025-01-20,2024-12-17,Testing Review,Completed,30
+1015,343,5,2025-04-17,2025-03-16,Intake,Completed,60
+1016,59,9,2025-03-24,2025-01-24,Medication Review,Completed,20
+1017,109,1,2025-05-28,2025-05-01,Annual Visit,Cancelled,30
+1018,442,12,2025-06-17,2025-06-09,Follow-up Treatment,Completed,30
+1019,320,11,2025-05-13,2025-03-22,Intake,Completed,60
+1020,334,12,2025-05-01,2025-04-08,Discharge Visit,Completed,30
+1021,251,7,2025-04-28,2025-04-08,Urgent Visit,Completed,20
+1022,136,2,2025-02-26,2025-02-07,Follow-up,Completed,20
+1023,270,7,2025-06-27,2025-06-17,Follow-up,Completed,20
+1024,268,12,2025-01-17,2024-12-27,Initial Evaluation,Completed,45
+1025,166,12,2025-05-01,2025-04-15,Follow-up Treatment,No-Show,30
+1026,396,5,2025-05-20,2025-03-22,Medication Management,Completed,30
+1027,254,7,2025-02-25,2025-02-15,Annual Visit,Completed,30
+1028,463,11,2025-03-20,2025-01-24,Medication Management,Cancelled,30
+1029,179,5,2025-04-30,2025-04-05,Intake,Cancelled,60
+1030,464,6,2025-03-27,2025-02-24,Discharge Visit,Completed,30
+1031,68,6,2025-04-30,2025-04-23,Follow-up Treatment,Completed,30
+1032,223,4,2025-06-20,2025-06-09,Post-op Visit,Completed,30
+1033,113,6,2025-05-29,2025-05-04,Initial Evaluation,Completed,45
+1034,414,12,2025-05-09,2025-04-17,Initial Evaluation,Completed,45
+1035,77,11,2025-05-29,2025-04-30,Therapy Session,Completed,50
+1036,256,5,2025-01-16,2024-11-26,Medication Management,No-Show,30
+1037,273,4,2025-06-30,2025-05-30,Post-op Visit,Completed,30
+1038,272,12,2025-03-28,2025-03-14,Initial Evaluation,Completed,45
+1039,180,3,2025-03-21,2025-01-31,New Consult,Completed,45
+1040,121,1,2025-02-17,2025-02-09,Annual Visit,Completed,30
+1041,315,5,2025-04-07,2025-02-23,Therapy Session,Completed,50
+1042,83,5,2025-06-30,2025-05-28,Medication Management,Completed,30
+1043,350,1,2025-06-03,2025-05-29,Urgent Visit,Completed,20
+1044,87,10,2025-04-04,2025-03-13,Post-op Visit,Completed,30
+1045,248,11,2025-03-27,2025-02-28,Therapy Session,Completed,50
+1046,246,11,2025-01-27,2024-12-29,Therapy Session,Completed,50
+1047,246,10,2025-04-23,2025-03-30,New Injury,Completed,30
+1048,264,9,2025-01-30,2024-12-26,Diabetes Follow-up,Completed,30
+1049,26,10,2025-05-12,2025-04-12,Follow-up,Completed,20
+1050,363,2,2025-03-17,2025-02-18,Testing Review,Completed,30
+1051,358,11,2025-03-27,2025-01-20,Intake,Completed,60
+1052,192,9,2025-04-22,2025-03-20,Medication Review,No-Show,20
+1053,303,7,2025-01-13,2024-12-11,Follow-up,Completed,20
+1054,342,6,2025-06-10,2025-05-07,Discharge Visit,Completed,30
+1055,255,6,2025-05-15,2025-04-18,Initial Evaluation,Completed,45
+1056,227,11,2025-03-06,2024-12-31,Therapy Session,Completed,50
+1057,352,8,2025-01-29,2024-12-23,Follow-up,Completed,20
+1058,111,12,2025-06-11,2025-05-12,Initial Evaluation,Completed,45
+1059,162,9,2025-06-17,2025-05-25,Medication Review,Completed,20
+1060,464,10,2025-01-02,2024-12-07,New Injury,No-Show,30
+1061,109,5,2025-03-25,2025-01-14,Therapy Session,No-Show,50
+1062,321,7,2025-03-07,2025-02-09,Follow-up,Completed,20
+1063,108,6,2025-03-06,2025-03-02,Initial Evaluation,Completed,45
+1064,160,6,2025-01-15,2025-01-03,Discharge Visit,Completed,30
+1065,17,3,2025-04-04,2025-03-13,Medication Review,Completed,20
+1066,97,7,2025-03-07,2025-02-04,Urgent Visit,Completed,20
+1067,362,11,2025-04-07,2025-03-08,Medication Management,Completed,30
+1068,95,12,2025-05-27,2025-05-20,Initial Evaluation,No-Show,45
+1069,236,10,2025-02-27,2025-02-05,New Injury,Completed,30
+1070,170,5,2025-03-06,2025-02-09,Therapy Session,Completed,50
+1071,454,5,2025-01-27,2024-12-24,Therapy Session,Cancelled,50
+1072,379,2,2025-05-29,2025-05-08,New Consult,Completed,45
+1073,389,7,2025-02-03,2025-01-04,Follow-up,Completed,20
+1074,421,1,2025-03-12,2025-02-22,Annual Visit,Completed,30
+1075,361,5,2025-06-13,2025-04-28,Therapy Session,Completed,50
+1076,115,11,2025-01-17,2024-12-23,Therapy Session,Cancelled,50
+1077,260,2,2025-01-14,2024-12-04,New Consult,No-Show,45
+1078,318,7,2025-04-03,2025-03-18,Annual Visit,Completed,30
+1079,398,8,2025-06-05,2025-05-09,Testing Review,Completed,30
+1080,382,1,2025-04-30,2025-04-09,Urgent Visit,Completed,20
+1081,417,2,2025-06-27,2025-06-11,Testing Review,Completed,30
+1082,291,11,2025-04-25,2025-03-30,Medication Management,Completed,30
+1083,196,1,2025-02-14,2025-01-30,Follow-up,Completed,20
+1084,70,6,2025-02-26,2025-01-30,Follow-up Treatment,Completed,30
+1085,176,4,2025-05-29,2025-05-19,Follow-up,Completed,20
+1086,277,5,2025-06-09,2025-05-07,Medication Management,Completed,30
+1087,494,4,2025-06-24,2025-06-08,New Injury,Completed,30
+1088,316,11,2025-06-23,2025-05-11,Intake,No-Show,60
+1089,115,7,2025-05-06,2025-04-14,Follow-up,Completed,20
+1090,372,10,2025-01-21,2024-12-23,Post-op Visit,Completed,30
+1091,128,1,2025-01-15,2024-12-28,Annual Visit,Cancelled,30
+1092,410,11,2025-04-10,2025-03-16,Intake,Completed,60
+1093,56,5,2025-05-27,2025-05-03,Therapy Session,Completed,50
+1094,484,1,2025-02-21,2025-02-14,Follow-up,Completed,20
+1095,413,8,2025-01-06,2024-12-12,Follow-up,Completed,20
+1096,174,4,2025-01-29,2025-01-11,Post-op Visit,Completed,30
+1097,230,12,2025-04-03,2025-03-16,Initial Evaluation,Completed,45
+1098,475,6,2025-04-10,2025-03-15,Initial Evaluation,Completed,45
+1099,396,10,2025-01-30,2025-01-11,Post-op Visit,Completed,30
+1100,96,7,2025-01-01,2024-12-05,Follow-up,Completed,20
+1101,319,7,2025-04-23,2025-04-13,Urgent Visit,Completed,20
+1102,342,1,2025-01-22,2025-01-18,Annual Visit,Completed,30
+1103,464,1,2025-04-08,2025-03-18,Urgent Visit,Completed,20
+1104,111,2,2025-03-06,2025-02-05,New Consult,Completed,45
+1105,229,4,2025-05-14,2025-04-14,New Injury,Completed,30
+1106,132,4,2025-03-19,2025-02-16,Post-op Visit,No-Show,30
+1107,176,10,2025-05-20,2025-04-16,New Injury,Completed,30
+1108,368,5,2025-05-26,2025-05-05,Medication Management,Completed,30
+1109,187,10,2025-05-30,2025-05-06,Follow-up,Completed,20
+1110,25,6,2025-02-21,2025-01-29,Discharge Visit,No-Show,30
+1111,416,2,2025-05-28,2025-04-17,Testing Review,Completed,30
+1112,204,1,2025-01-10,2024-12-24,Follow-up,Completed,20
+1113,210,6,2025-05-20,2025-04-17,Initial Evaluation,Completed,45
+1114,321,3,2025-04-09,2025-03-16,Medication Review,Completed,20
+1115,181,5,2025-05-21,2025-03-31,Intake,Completed,60
+1116,249,6,2025-06-25,2025-05-27,Follow-up Treatment,Completed,30
+1117,211,12,2025-01-03,2024-12-05,Discharge Visit,Completed,30
+1118,433,11,2025-05-12,2025-03-04,Therapy Session,Completed,50
+1119,345,12,2025-03-17,2025-02-18,Initial Evaluation,Completed,45
+1120,477,11,2025-01-17,2024-12-25,Medication Management,Completed,30
+1121,327,6,2025-03-19,2025-03-10,Follow-up Treatment,Completed,30
+1122,25,11,2025-03-25,2025-02-12,Medication Management,Completed,30
+1123,487,7,2025-03-20,2025-02-21,Urgent Visit,Cancelled,20
+1124,293,7,2025-04-28,2025-04-10,Follow-up,Completed,20
+1125,418,11,2025-04-18,2025-02-09,Intake,Cancelled,60
+1126,105,7,2025-01-20,2024-12-29,Annual Visit,Completed,30
+1127,16,12,2025-05-07,2025-04-11,Initial Evaluation,Completed,45
+1128,219,5,2025-04-23,2025-03-01,Intake,Completed,60
+1129,449,10,2025-04-04,2025-03-07,New Injury,Cancelled,30
+1130,325,9,2025-01-31,2024-12-29,Diabetes Follow-up,Completed,30
+1131,444,1,2025-05-29,2025-05-11,Annual Visit,Cancelled,30
+1132,338,2,2025-03-04,2025-01-24,Testing Review,Completed,30
+1133,461,1,2025-03-07,2025-03-02,Follow-up,Completed,20
+1134,500,1,2025-01-22,2024-12-30,Urgent Visit,Completed,20
+1135,6,4,2025-02-24,2025-02-16,Follow-up,Completed,20
+1136,485,11,2025-04-24,2025-02-09,Medication Management,Cancelled,30
+1137,399,11,2025-01-09,2024-12-06,Medication Management,Completed,30
+1138,287,12,2025-04-17,2025-03-30,Discharge Visit,Completed,30
+1139,459,2,2025-04-28,2025-04-05,New Consult,Completed,45
+1140,116,12,2025-01-17,2025-01-03,Discharge Visit,Cancelled,30
+1141,218,4,2025-05-08,2025-04-23,Follow-up,Cancelled,20
+1142,58,3,2025-02-18,2025-01-21,New Consult,Completed,45
+1143,265,6,2025-03-07,2025-03-02,Initial Evaluation,Completed,45
+1144,220,5,2025-06-16,2025-05-05,Medication Management,Completed,30
+1145,65,3,2025-02-11,2025-01-23,New Consult,No-Show,45
+1146,106,7,2025-04-29,2025-04-01,Urgent Visit,No-Show,20
+1147,149,12,2025-05-12,2025-04-10,Discharge Visit,Completed,30
+1148,356,12,2025-01-21,2025-01-01,Initial Evaluation,Completed,45
+1149,172,1,2025-01-22,2024-12-29,Follow-up,Completed,20
+1150,10,7,2025-03-27,2025-03-04,Follow-up,Completed,20
+1151,18,1,2025-03-21,2025-02-25,Urgent Visit,Completed,20
+1152,109,11,2025-04-14,2025-03-23,Medication Management,Completed,30
+1153,215,5,2025-06-03,2025-04-14,Medication Management,Completed,30
+1154,141,1,2025-04-16,2025-04-05,Urgent Visit,Completed,20
+1155,61,1,2025-04-21,2025-04-01,Urgent Visit,Completed,20
+1156,369,7,2025-03-04,2025-02-06,Annual Visit,Cancelled,30
+1157,418,1,2025-04-23,2025-04-16,Follow-up,Completed,20
+1158,39,7,2025-06-23,2025-05-31,Follow-up,Completed,20
+1159,485,5,2025-01-27,2024-12-24,Medication Management,Completed,30
+1160,275,9,2025-03-31,2025-02-05,Diabetes Follow-up,Completed,30
+1161,458,4,2025-04-03,2025-03-27,Post-op Visit,Cancelled,30
+1162,178,12,2025-02-03,2025-01-08,Initial Evaluation,Completed,45
+1163,262,1,2025-06-16,2025-05-21,Urgent Visit,Completed,20
+1164,421,6,2025-01-31,2025-01-28,Follow-up Treatment,Completed,30
+1165,218,10,2025-02-24,2025-01-27,Post-op Visit,No-Show,30
+1166,36,12,2025-03-03,2025-02-02,Initial Evaluation,Completed,45
+1167,454,4,2025-04-25,2025-04-10,Post-op Visit,Completed,30
+1168,130,11,2025-05-30,2025-04-10,Intake,Completed,60
+1169,397,5,2025-04-23,2025-03-30,Therapy Session,Cancelled,50
+1170,474,1,2025-06-30,2025-06-02,Annual Visit,Completed,30
+1171,306,6,2025-04-18,2025-03-26,Follow-up Treatment,Completed,30
+1172,307,7,2025-01-01,2024-12-22,Urgent Visit,No-Show,20
+1173,376,7,2025-04-30,2025-04-12,Follow-up,Cancelled,20
+1174,61,8,2025-01-24,2024-12-20,New Consult,Completed,45
+1175,397,11,2025-05-21,2025-04-25,Therapy Session,Completed,50
+1176,395,1,2025-03-03,2025-02-15,Annual Visit,Completed,30
+1177,456,4,2025-06-03,2025-05-27,Follow-up,Completed,20
+1178,262,12,2025-03-25,2025-03-19,Discharge Visit,Completed,30
+1179,229,11,2025-01-27,2024-12-20,Intake,Completed,60
+1180,126,6,2025-04-10,2025-04-02,Discharge Visit,Completed,30
+1181,320,7,2025-04-18,2025-03-16,Urgent Visit,Completed,20
+1182,242,3,2025-06-19,2025-05-30,Diabetes Follow-up,Completed,30
+1183,17,1,2025-01-22,2025-01-11,Annual Visit,Cancelled,30
+1184,140,1,2025-06-16,2025-06-05,Urgent Visit,No-Show,20
+1185,480,1,2025-05-19,2025-05-09,Follow-up,No-Show,20
+1186,120,1,2025-04-09,2025-03-07,Follow-up,Completed,20
+1187,379,3,2025-05-20,2025-04-16,New Consult,Completed,45
+1188,377,4,2025-05-08,2025-04-18,New Injury,Completed,30
+1189,257,7,2025-01-23,2024-12-27,Annual Visit,Completed,30
+1190,45,12,2025-01-13,2024-12-12,Follow-up Treatment,No-Show,30
+1191,63,3,2025-04-01,2025-03-01,New Consult,Completed,45
+1192,217,7,2025-02-04,2025-01-23,Urgent Visit,Completed,20
+1193,498,12,2025-02-28,2025-02-01,Follow-up Treatment,Completed,30
+1194,106,7,2025-04-09,2025-03-26,Annual Visit,Completed,30
+1195,79,11,2025-05-14,2025-03-26,Medication Management,No-Show,30
+1196,403,5,2025-06-11,2025-04-01,Medication Management,Completed,30
+1197,240,5,2025-03-19,2025-02-12,Intake,Completed,60
+1198,373,12,2025-05-20,2025-05-04,Initial Evaluation,No-Show,45
+1199,320,7,2025-02-13,2025-01-26,Urgent Visit,Completed,20
+1200,63,11,2025-04-16,2025-03-26,Therapy Session,No-Show,50
+1201,185,5,2025-04-09,2025-03-11,Medication Management,Completed,30
+1202,47,10,2025-04-21,2025-04-13,New Injury,Completed,30
+1203,119,6,2025-05-21,2025-04-24,Initial Evaluation,Completed,45
+1204,382,10,2025-05-23,2025-05-12,New Injury,Completed,30
+1205,397,1,2025-02-25,2025-02-12,Follow-up,Completed,20
+1206,470,7,2025-02-04,2025-01-05,Follow-up,Completed,20
+1207,465,10,2025-05-26,2025-05-22,Follow-up,Completed,20
+1208,179,9,2025-04-22,2025-03-23,Diabetes Follow-up,Completed,30
+1209,87,7,2025-03-07,2025-02-04,Follow-up,Cancelled,20
+1210,80,8,2025-01-22,2024-12-27,Follow-up,Completed,20
+1211,77,1,2025-01-13,2024-12-27,Follow-up,Completed,20
+1212,32,6,2025-03-20,2025-02-24,Follow-up Treatment,Completed,30
+1213,464,5,2025-04-18,2025-03-07,Therapy Session,Completed,50
+1214,160,8,2025-06-06,2025-05-16,New Consult,Completed,45
+1215,16,6,2025-05-16,2025-04-29,Initial Evaluation,No-Show,45
+1216,161,8,2025-05-23,2025-04-22,Testing Review,Cancelled,30
+1217,30,11,2025-03-04,2025-01-27,Intake,No-Show,60
+1218,349,10,2025-02-13,2025-01-18,New Injury,Completed,30
+1219,68,1,2025-02-17,2025-01-18,Follow-up,Completed,20
+1220,179,12,2025-03-06,2025-02-06,Follow-up Treatment,Completed,30
+1221,202,11,2025-02-26,2024-12-16,Intake,Completed,60
+1222,330,12,2025-04-02,2025-03-07,Follow-up Treatment,Completed,30
+1223,487,10,2025-03-26,2025-03-10,New Injury,Completed,30
+1224,386,6,2025-01-21,2025-01-12,Initial Evaluation,Completed,45
+1225,162,1,2025-02-12,2025-01-10,Urgent Visit,Completed,20
+1226,348,6,2025-06-13,2025-05-26,Discharge Visit,Completed,30
+1227,448,11,2025-05-23,2025-03-29,Medication Management,Cancelled,30
+1228,380,12,2025-01-23,2025-01-04,Follow-up Treatment,No-Show,30
+1229,189,3,2025-05-26,2025-03-31,Medication Review,Completed,20
+1230,14,7,2025-06-20,2025-05-30,Urgent Visit,Completed,20
+1231,44,3,2025-04-04,2025-03-07,Diabetes Follow-up,Completed,30
+1232,418,3,2025-01-15,2024-11-28,Medication Review,Completed,20
+1233,21,6,2025-06-03,2025-05-02,Follow-up Treatment,Completed,30
+1234,444,7,2025-04-10,2025-03-16,Follow-up,Completed,20
+1235,87,4,2025-03-31,2025-03-27,New Injury,Cancelled,30
+1236,107,3,2025-04-07,2025-02-16,Diabetes Follow-up,No-Show,30
+1237,108,6,2025-04-01,2025-03-27,Follow-up Treatment,Completed,30
+1238,302,4,2025-06-24,2025-06-19,Post-op Visit,Completed,30
+1239,77,9,2025-03-18,2025-01-23,Diabetes Follow-up,Completed,30
+1240,418,7,2025-05-05,2025-04-15,Urgent Visit,Completed,20
+1241,173,1,2025-01-22,2024-12-29,Annual Visit,Completed,30
+1242,147,2,2025-06-19,2025-05-15,Follow-up,Completed,20
+1243,231,3,2025-02-06,2025-01-13,Medication Review,Completed,20
+1244,409,8,2025-03-25,2025-02-25,Testing Review,Completed,30
+1245,462,11,2025-04-23,2025-03-16,Intake,Completed,60
+1246,436,6,2025-02-13,2025-01-14,Initial Evaluation,Cancelled,45
+1247,74,3,2025-01-23,2024-12-01,New Consult,Completed,45
+1248,397,12,2025-03-20,2025-02-16,Follow-up Treatment,Completed,30
+1249,105,5,2025-04-03,2025-02-08,Therapy Session,Completed,50
+1250,343,12,2025-01-21,2024-12-23,Initial Evaluation,Completed,45
+1251,256,7,2025-01-29,2025-01-19,Urgent Visit,Cancelled,20
+1252,312,10,2025-05-29,2025-04-26,Post-op Visit,No-Show,30
+1253,56,12,2025-02-07,2025-01-04,Discharge Visit,Completed,30
+1254,356,1,2025-02-26,2025-02-20,Annual Visit,Completed,30
+1255,159,12,2025-05-02,2025-04-23,Follow-up Treatment,Completed,30
+1256,172,3,2025-05-09,2025-04-02,Diabetes Follow-up,No-Show,30
+1257,281,8,2025-03-13,2025-02-24,New Consult,No-Show,45
+1258,432,7,2025-03-13,2025-02-15,Annual Visit,Completed,30
+1259,401,5,2025-05-19,2025-03-08,Therapy Session,Completed,50
+1260,278,11,2025-06-20,2025-04-12,Intake,Completed,60
+1261,25,12,2025-05-12,2025-04-25,Discharge Visit,Completed,30
+1262,75,10,2025-05-26,2025-05-18,Follow-up,Completed,20
+1263,273,11,2025-06-13,2025-04-14,Intake,Completed,60
+1264,320,8,2025-05-13,2025-04-05,New Consult,Completed,45
+1265,228,1,2025-01-10,2024-12-19,Annual Visit,Cancelled,30
+1266,155,4,2025-01-27,2025-01-02,Post-op Visit,Completed,30
+1267,372,12,2025-03-12,2025-02-28,Initial Evaluation,Cancelled,45
+1268,231,10,2025-03-10,2025-03-02,Post-op Visit,Completed,30
+1269,62,6,2025-02-21,2025-01-21,Initial Evaluation,Completed,45
+1270,23,4,2025-05-28,2025-05-23,New Injury,Cancelled,30
+1271,373,7,2025-02-10,2025-02-06,Annual Visit,Completed,30
+1272,108,6,2025-01-28,2025-01-06,Initial Evaluation,Completed,45
+1273,227,2,2025-03-04,2025-02-07,Testing Review,Completed,30
+1274,283,5,2025-05-28,2025-04-09,Intake,Completed,60
+1275,409,11,2025-01-13,2024-12-04,Medication Management,No-Show,30
+1276,322,9,2025-04-29,2025-03-10,New Consult,Completed,45
+1277,386,3,2025-03-19,2025-01-31,Diabetes Follow-up,Completed,30
+1278,356,1,2025-01-17,2025-01-08,Annual Visit,Completed,30
+1279,355,9,2025-05-21,2025-03-24,Diabetes Follow-up,Completed,30
+1280,475,11,2025-02-27,2025-01-19,Therapy Session,Completed,50
+1281,282,12,2025-06-11,2025-05-23,Follow-up Treatment,Completed,30
+1282,58,8,2025-04-21,2025-03-16,New Consult,Completed,45
+1283,217,4,2025-04-10,2025-04-03,Follow-up,Completed,20
+1284,87,12,2025-01-15,2024-12-13,Follow-up Treatment,No-Show,30
+1285,450,12,2025-03-14,2025-03-09,Discharge Visit,No-Show,30
+1286,102,11,2025-01-09,2024-12-05,Intake,No-Show,60
+1287,250,7,2025-04-02,2025-03-02,Follow-up,Completed,20
+1288,13,1,2025-05-06,2025-04-22,Follow-up,Completed,20
+1289,309,3,2025-02-25,2025-01-15,Diabetes Follow-up,Completed,30
+1290,23,1,2025-04-17,2025-03-24,Annual Visit,Completed,30
+1291,358,3,2025-06-19,2025-04-24,Diabetes Follow-up,Completed,30
+1292,244,1,2025-03-25,2025-02-25,Annual Visit,Completed,30
+1293,108,4,2025-06-04,2025-05-08,Follow-up,Cancelled,20
+1294,158,4,2025-02-11,2025-02-03,Follow-up,Completed,20
+1295,164,7,2025-03-31,2025-03-12,Follow-up,No-Show,20
+1296,270,7,2025-02-12,2025-02-08,Annual Visit,Completed,30
+1297,409,7,2025-02-04,2025-01-30,Annual Visit,Completed,30
+1298,422,11,2025-01-09,2024-11-20,Medication Management,No-Show,30
+1299,161,9,2025-04-18,2025-02-22,Diabetes Follow-up,No-Show,30
+1300,400,11,2025-06-23,2025-05-13,Intake,Cancelled,60
+1301,108,6,2025-02-28,2025-02-11,Discharge Visit,Completed,30
+1302,115,12,2025-01-02,2024-12-14,Discharge Visit,Completed,30
+1303,171,1,2025-01-29,2025-01-12,Urgent Visit,No-Show,20
+1304,188,1,2025-01-07,2024-12-29,Annual Visit,Completed,30
+1305,500,11,2025-04-14,2025-02-02,Therapy Session,Completed,50
+1306,224,11,2025-02-21,2024-12-19,Therapy Session,Completed,50
+1307,331,7,2025-05-13,2025-04-23,Urgent Visit,Completed,20
+1308,303,7,2025-01-28,2025-01-13,Annual Visit,Completed,30
+1309,36,11,2025-03-04,2025-02-10,Medication Management,Completed,30
+1310,419,12,2025-05-23,2025-05-15,Discharge Visit,Completed,30
+1311,254,5,2025-02-21,2025-01-03,Intake,No-Show,60
+1312,68,1,2025-06-20,2025-06-05,Annual Visit,Completed,30
+1313,398,9,2025-06-17,2025-05-07,Medication Review,Completed,20
+1314,189,5,2025-06-19,2025-04-22,Intake,No-Show,60
+1315,350,9,2025-02-06,2025-01-13,Medication Review,Completed,20
+1316,25,3,2025-04-30,2025-03-26,Medication Review,Completed,20
+1317,222,8,2025-04-14,2025-03-30,Follow-up,Completed,20
+1318,493,5,2025-05-21,2025-04-22,Intake,Completed,60
+1319,111,10,2025-05-14,2025-05-05,Post-op Visit,Completed,30
+1320,302,6,2025-04-25,2025-03-24,Discharge Visit,Completed,30
+1321,156,9,2025-01-27,2024-12-14,New Consult,Completed,45
+1322,171,4,2025-04-07,2025-03-06,New Injury,No-Show,30
+1323,204,7,2025-02-27,2025-02-12,Follow-up,Completed,20
+1324,212,1,2025-05-21,2025-05-16,Follow-up,Completed,20
+1325,173,12,2025-01-31,2025-01-02,Follow-up Treatment,Completed,30
+1326,489,1,2025-06-04,2025-05-05,Annual Visit,Completed,30
+1327,373,5,2025-03-28,2025-02-11,Medication Management,Completed,30
+1328,167,4,2025-04-01,2025-03-25,New Injury,Completed,30
+1329,28,10,2025-02-25,2025-02-08,Follow-up,Cancelled,20
+1330,320,1,2025-02-11,2025-01-22,Urgent Visit,Completed,20
+1331,30,1,2025-02-21,2025-01-29,Follow-up,No-Show,20
+1332,112,5,2025-01-29,2024-12-23,Therapy Session,Completed,50
+1333,316,6,2025-06-06,2025-05-15,Initial Evaluation,Cancelled,45
+1334,405,5,2025-01-31,2025-01-02,Medication Management,Completed,30
+1335,372,11,2025-03-27,2025-02-12,Intake,Completed,60
+1336,27,1,2025-02-17,2025-02-14,Urgent Visit,Cancelled,20
+1337,351,1,2025-02-21,2025-01-28,Annual Visit,Cancelled,30
+1338,79,6,2025-06-27,2025-06-03,Follow-up Treatment,Completed,30
+1339,136,11,2025-01-29,2024-11-24,Intake,Cancelled,60
+1340,198,8,2025-04-28,2025-03-15,New Consult,Completed,45
+1341,401,8,2025-03-13,2025-02-15,New Consult,Completed,45
+1342,355,7,2025-06-23,2025-06-06,Urgent Visit,Completed,20
+1343,419,6,2025-01-17,2024-12-19,Follow-up Treatment,Completed,30
+1344,58,12,2025-02-19,2025-02-09,Initial Evaluation,Completed,45
+1345,333,3,2025-03-11,2025-02-07,Diabetes Follow-up,Completed,30
+1346,47,9,2025-01-20,2024-12-05,Medication Review,Completed,20
+1347,37,1,2025-05-29,2025-04-29,Annual Visit,Cancelled,30
+1348,18,8,2025-05-05,2025-04-19,Follow-up,Completed,20
+1349,212,12,2025-01-21,2025-01-12,Follow-up Treatment,Completed,30
+1350,64,10,2025-01-16,2024-12-27,Follow-up,Completed,20
+1351,197,11,2025-01-02,2024-10-22,Therapy Session,Completed,50
+1352,420,4,2025-03-06,2025-02-21,New Injury,Completed,30
+1353,144,6,2025-06-19,2025-05-20,Follow-up Treatment,Completed,30
+1354,345,2,2025-03-24,2025-03-06,Testing Review,Cancelled,30
+1355,249,2,2025-01-09,2024-11-29,New Consult,Completed,45
+1356,234,1,2025-02-03,2025-01-06,Annual Visit,Completed,30
+1357,17,11,2025-01-02,2024-10-26,Therapy Session,Completed,50
+1358,248,12,2025-06-13,2025-06-02,Follow-up Treatment,Completed,30
+1359,472,2,2025-05-09,2025-04-09,Testing Review,Completed,30
+1360,447,4,2025-04-28,2025-04-14,Post-op Visit,Cancelled,30
+1361,59,6,2025-05-23,2025-05-13,Follow-up Treatment,Cancelled,30
+1362,62,7,2025-01-10,2024-12-22,Annual Visit,Completed,30
+1363,316,7,2025-05-28,2025-05-24,Follow-up,Completed,20
+1364,245,2,2025-03-19,2025-02-22,Testing Review,Completed,30
+1365,36,11,2025-01-01,2024-11-25,Intake,Completed,60
+1366,359,5,2025-06-03,2025-04-10,Intake,Completed,60
+1367,487,1,2025-05-07,2025-04-26,Follow-up,Completed,20
+1368,78,8,2025-01-20,2024-12-24,New Consult,Completed,45
+1369,82,7,2025-04-18,2025-03-21,Annual Visit,Completed,30
+1370,123,9,2025-02-17,2025-01-03,Medication Review,Completed,20
+1371,71,7,2025-05-16,2025-04-16,Urgent Visit,Completed,20
+1372,269,5,2025-06-27,2025-05-14,Intake,Completed,60
+1373,190,6,2025-04-28,2025-04-25,Follow-up Treatment,Completed,30
+1374,339,7,2025-03-03,2025-02-01,Urgent Visit,Completed,20
+1375,470,12,2025-02-27,2025-01-24,Follow-up Treatment,Completed,30
+1376,401,6,2025-02-11,2025-01-14,Initial Evaluation,Completed,45
+1377,273,6,2025-05-26,2025-05-03,Initial Evaluation,Cancelled,45
+1378,147,4,2025-06-23,2025-06-14,New Injury,Completed,30
+1379,130,11,2025-03-24,2025-01-31,Therapy Session,Completed,50
+1380,204,4,2025-05-19,2025-04-17,Follow-up,Completed,20
+1381,333,8,2025-03-03,2025-02-08,Follow-up,Cancelled,20
+1382,9,6,2025-02-27,2025-01-30,Follow-up Treatment,Completed,30
+1383,406,8,2025-03-28,2025-03-06,New Consult,Completed,45
+1384,245,4,2025-05-28,2025-05-25,Follow-up,Completed,20
+1385,261,11,2025-06-06,2025-04-25,Medication Management,Completed,30
+1386,138,6,2025-05-16,2025-04-13,Discharge Visit,Completed,30
+1387,308,10,2025-02-04,2025-01-30,Post-op Visit,No-Show,30
+1388,96,4,2025-06-12,2025-06-02,Follow-up,Completed,20
+1389,20,7,2025-06-19,2025-06-08,Follow-up,Completed,20
+1390,301,1,2025-02-26,2025-02-18,Annual Visit,Cancelled,30
+1391,3,1,2025-02-20,2025-01-28,Follow-up,Completed,20
+1392,263,3,2025-01-21,2024-12-27,Diabetes Follow-up,Completed,30
+1393,115,4,2025-04-22,2025-04-13,Post-op Visit,Cancelled,30
+1394,287,9,2025-03-11,2025-01-12,Diabetes Follow-up,Completed,30
+1395,413,10,2025-01-07,2024-12-19,Follow-up,Completed,20
+1396,278,8,2025-03-19,2025-02-17,New Consult,Completed,45
+1397,210,5,2025-04-18,2025-03-13,Medication Management,Completed,30
+1398,135,6,2025-04-16,2025-04-12,Follow-up Treatment,Completed,30
+1399,44,1,2025-01-24,2024-12-24,Urgent Visit,Completed,20
+1400,483,12,2025-03-12,2025-02-19,Initial Evaluation,Completed,45
+1401,493,1,2025-05-16,2025-04-14,Urgent Visit,Completed,20
+1402,361,6,2025-04-14,2025-03-11,Follow-up Treatment,Completed,30
+1403,79,11,2025-02-27,2025-01-15,Medication Management,Completed,30
+1404,360,1,2025-06-12,2025-06-05,Annual Visit,Completed,30
+1405,188,7,2025-02-04,2025-01-02,Follow-up,No-Show,20
+1406,10,7,2025-03-11,2025-02-25,Follow-up,Completed,20
+1407,82,9,2025-02-12,2025-01-13,New Consult,Completed,45
+1408,230,3,2025-06-10,2025-04-18,New Consult,Completed,45
+1409,315,11,2025-06-27,2025-05-06,Therapy Session,Completed,50
+1410,240,8,2025-05-28,2025-05-11,New Consult,Completed,45
+1411,87,4,2025-06-09,2025-05-27,New Injury,Cancelled,30
+1412,419,2,2025-06-19,2025-05-22,Testing Review,Cancelled,30
+1413,224,7,2025-05-08,2025-04-11,Urgent Visit,Cancelled,20
+1414,458,3,2025-02-27,2025-01-07,Diabetes Follow-up,Completed,30
+1415,450,12,2025-06-26,2025-06-13,Follow-up Treatment,Completed,30
+1416,166,7,2025-02-07,2025-01-26,Follow-up,Completed,20
+1417,465,3,2025-05-14,2025-03-22,Diabetes Follow-up,Completed,30
+1418,277,4,2025-03-31,2025-03-17,New Injury,Completed,30
+1419,260,10,2025-02-12,2025-01-14,Follow-up,Cancelled,20
+1420,115,4,2025-05-07,2025-04-27,New Injury,Completed,30
+1421,224,6,2025-04-10,2025-03-24,Discharge Visit,Completed,30
+1422,211,7,2025-03-20,2025-02-18,Annual Visit,Completed,30
+1423,331,5,2025-04-21,2025-03-22,Intake,No-Show,60
+1424,153,10,2025-05-29,2025-05-07,Follow-up,Completed,20
+1425,487,3,2025-01-14,2024-12-07,Medication Review,Completed,20
+1426,266,7,2025-01-17,2024-12-31,Urgent Visit,Completed,20
+1427,113,7,2025-04-29,2025-04-06,Follow-up,No-Show,20
+1428,198,5,2025-03-28,2025-03-07,Intake,Completed,60
+1429,406,11,2025-04-17,2025-02-28,Medication Management,Completed,30
+1430,236,7,2025-03-13,2025-02-07,Urgent Visit,Completed,20
+1431,41,3,2025-06-18,2025-04-25,New Consult,Completed,45
+1432,18,1,2025-05-14,2025-05-11,Annual Visit,No-Show,30
+1433,382,9,2025-01-07,2024-11-17,New Consult,Completed,45
+1434,125,7,2025-01-30,2025-01-13,Annual Visit,Completed,30
+1435,149,1,2025-05-22,2025-05-18,Urgent Visit,Completed,20
+1436,83,11,2025-01-20,2024-12-16,Medication Management,Completed,30
+1437,333,7,2025-01-13,2024-12-29,Urgent Visit,Completed,20
+1438,482,5,2025-01-27,2024-12-10,Intake,Completed,60
+1439,204,3,2025-03-05,2025-02-01,Medication Review,Completed,20
+1440,8,9,2025-04-07,2025-03-17,Diabetes Follow-up,Completed,30
+1441,313,1,2025-02-12,2025-02-04,Urgent Visit,Completed,20
+1442,412,4,2025-04-14,2025-03-25,New Injury,Completed,30
+1443,484,5,2025-03-03,2025-01-29,Therapy Session,Completed,50
+1444,376,4,2025-05-20,2025-04-27,Post-op Visit,Completed,30
+1445,21,6,2025-05-29,2025-04-27,Initial Evaluation,No-Show,45
+1446,78,11,2025-04-01,2025-02-18,Medication Management,Completed,30
+1447,6,11,2025-01-08,2024-11-29,Therapy Session,Completed,50
+1448,352,8,2025-01-14,2024-12-09,Follow-up,Completed,20
+1449,128,7,2025-04-18,2025-04-11,Urgent Visit,Completed,20
+1450,499,11,2025-01-30,2024-12-10,Intake,No-Show,60
+1451,172,1,2025-03-06,2025-02-14,Urgent Visit,No-Show,20
+1452,463,5,2025-03-04,2025-02-08,Therapy Session,Completed,50
+1453,172,12,2025-05-14,2025-05-02,Follow-up Treatment,Completed,30
+1454,51,1,2025-06-05,2025-05-19,Follow-up,No-Show,20
+1455,332,4,2025-01-14,2024-12-29,Follow-up,Completed,20
+1456,118,5,2025-06-24,2025-05-26,Intake,Completed,60
+1457,437,7,2025-05-06,2025-04-26,Urgent Visit,Completed,20
+1458,55,10,2025-06-19,2025-05-22,Follow-up,Completed,20
+1459,392,1,2025-06-30,2025-05-31,Follow-up,Completed,20
+1460,178,4,2025-02-03,2025-01-17,Follow-up,Completed,20
+1461,1,11,2025-04-30,2025-03-23,Medication Management,Completed,30
+1462,473,11,2025-05-09,2025-03-22,Medication Management,Completed,30
+1463,437,10,2025-06-02,2025-05-04,New Injury,Completed,30
+1464,382,10,2025-01-03,2024-12-15,New Injury,Completed,30
+1465,156,10,2025-03-18,2025-02-14,Follow-up,Completed,20
+1466,151,3,2025-06-04,2025-04-16,Diabetes Follow-up,Completed,30
+1467,443,6,2025-03-04,2025-02-27,Discharge Visit,Completed,30
+1468,214,6,2025-04-24,2025-03-21,Discharge Visit,Completed,30
+1469,28,6,2025-02-21,2025-02-08,Initial Evaluation,Completed,45
+1470,166,11,2025-03-10,2025-02-07,Intake,Cancelled,60
+1471,327,6,2025-06-26,2025-05-25,Initial Evaluation,Completed,45
+1472,392,5,2025-04-07,2025-02-16,Intake,No-Show,60
+1473,439,6,2025-04-21,2025-04-15,Discharge Visit,Completed,30
+1474,438,5,2025-02-11,2024-12-14,Intake,No-Show,60
+1475,368,4,2025-03-04,2025-02-01,Post-op Visit,Completed,30
+1476,446,1,2025-06-03,2025-05-14,Urgent Visit,Completed,20
+1477,360,2,2025-02-13,2025-01-05,Follow-up,Cancelled,20
+1478,52,5,2025-04-30,2025-02-18,Medication Management,Cancelled,30
+1479,299,5,2025-04-24,2025-03-12,Therapy Session,Completed,50
+1480,135,5,2025-03-17,2025-02-24,Medication Management,Completed,30
+1481,360,7,2025-05-05,2025-04-23,Annual Visit,Completed,30
+1482,87,4,2025-01-10,2024-12-08,New Injury,Completed,30
+1483,361,9,2025-02-18,2025-01-17,Medication Review,Completed,20
+1484,369,9,2025-02-12,2024-12-20,New Consult,Cancelled,45
+1485,59,5,2025-01-03,2024-11-27,Medication Management,Completed,30
+1486,112,2,2025-03-26,2025-03-12,New Consult,Completed,45
+1487,315,11,2025-01-24,2024-12-04,Intake,Completed,60
+1488,332,11,2025-01-22,2024-12-21,Intake,Completed,60
+1489,268,3,2025-02-11,2025-01-16,New Consult,Completed,45
+1490,305,10,2025-01-06,2024-12-03,Post-op Visit,Completed,30
+1491,215,10,2025-04-21,2025-03-23,Post-op Visit,Cancelled,30
+1492,247,11,2025-04-24,2025-03-31,Intake,Completed,60
+1493,431,4,2025-02-21,2025-02-18,Follow-up,Cancelled,20
+1494,136,11,2025-03-11,2025-02-03,Medication Management,Completed,30
+1495,140,11,2025-03-10,2025-02-04,Medication Management,No-Show,30
+1496,44,10,2025-01-02,2024-12-04,New Injury,Completed,30
+1497,53,7,2025-01-01,2024-12-06,Annual Visit,Completed,30
+1498,287,2,2025-04-02,2025-03-01,New Consult,Completed,45
+1499,150,6,2025-01-31,2025-01-09,Discharge Visit,Completed,30
+1500,381,10,2025-06-02,2025-05-23,New Injury,Cancelled,30
+1501,198,5,2025-02-20,2025-01-26,Intake,Completed,60
+1502,10,12,2025-04-04,2025-03-27,Follow-up Treatment,Completed,30
+1503,411,11,2025-01-09,2024-12-11,Intake,Completed,60
+1504,335,5,2025-04-29,2025-03-30,Therapy Session,Cancelled,50
+1505,285,12,2025-06-16,2025-06-06,Initial Evaluation,Completed,45
+1506,229,4,2025-03-25,2025-02-23,New Injury,Cancelled,30
+1507,321,5,2025-04-21,2025-02-26,Medication Management,No-Show,30
+1508,389,5,2025-02-17,2024-12-20,Intake,Completed,60
+1509,365,6,2025-05-05,2025-04-09,Discharge Visit,Completed,30
+1510,32,8,2025-05-01,2025-04-11,New Consult,Completed,45
+1511,192,9,2025-02-07,2025-01-07,Diabetes Follow-up,Completed,30
+1512,284,1,2025-05-05,2025-04-01,Annual Visit,Completed,30
+1513,471,3,2025-04-17,2025-03-21,Diabetes Follow-up,No-Show,30
+1514,220,1,2025-04-21,2025-03-22,Annual Visit,Completed,30
+1515,71,5,2025-05-22,2025-04-19,Therapy Session,Completed,50
+1516,117,11,2025-04-15,2025-02-23,Intake,Completed,60
+1517,173,7,2025-04-28,2025-03-28,Follow-up,Cancelled,20
+1518,21,11,2025-06-05,2025-04-03,Medication Management,Completed,30
+1519,161,3,2025-04-18,2025-03-10,New Consult,Completed,45
+1520,143,8,2025-02-19,2025-01-22,Follow-up,Completed,20
+1521,161,7,2025-01-31,2025-01-18,Urgent Visit,Completed,20
+1522,413,2,2025-06-03,2025-04-23,Testing Review,Completed,30
+1523,421,1,2025-06-06,2025-05-09,Urgent Visit,Completed,20
+1524,306,7,2025-06-19,2025-05-18,Urgent Visit,No-Show,20
+1525,209,6,2025-01-14,2024-12-23,Follow-up Treatment,Cancelled,30
+1526,179,7,2025-01-06,2024-12-23,Follow-up,Completed,20
+1527,26,4,2025-02-04,2025-01-29,Post-op Visit,No-Show,30
+1528,372,6,2025-04-25,2025-04-19,Follow-up Treatment,No-Show,30
+1529,423,6,2025-01-13,2024-12-29,Follow-up Treatment,No-Show,30
+1530,178,6,2025-06-26,2025-06-03,Discharge Visit,Completed,30
+1531,314,5,2025-05-13,2025-02-28,Medication Management,No-Show,30
+1532,385,1,2025-01-21,2025-01-04,Annual Visit,No-Show,30
+1533,248,6,2025-02-24,2025-01-25,Discharge Visit,Cancelled,30
+1534,434,1,2025-03-13,2025-02-17,Follow-up,Completed,20
+1535,391,12,2025-05-13,2025-05-06,Discharge Visit,Completed,30
+1536,63,7,2025-02-19,2025-01-21,Annual Visit,Cancelled,30
+1537,369,5,2025-04-07,2025-01-25,Intake,Completed,60
+1538,326,1,2025-01-22,2025-01-05,Annual Visit,Cancelled,30
+1539,484,2,2025-04-11,2025-03-24,Testing Review,Completed,30
+1540,355,1,2025-05-19,2025-04-25,Urgent Visit,Completed,20
+1541,480,7,2025-05-01,2025-04-21,Annual Visit,Completed,30
+1542,442,1,2025-03-05,2025-02-18,Follow-up,Completed,20
+1543,412,12,2025-01-22,2025-01-02,Follow-up Treatment,Completed,30
+1544,1,7,2025-06-24,2025-05-24,Annual Visit,Completed,30
+1545,385,6,2025-02-13,2025-02-03,Follow-up Treatment,Completed,30
+1546,216,8,2025-04-14,2025-03-17,Testing Review,Completed,30
+1547,114,11,2025-06-20,2025-05-21,Intake,Completed,60
+1548,93,7,2025-03-11,2025-02-08,Urgent Visit,Completed,20
+1549,399,5,2025-03-25,2025-01-20,Intake,Cancelled,60
+1550,430,6,2025-03-04,2025-02-02,Follow-up Treatment,Completed,30
+1551,307,4,2025-01-20,2025-01-01,New Injury,Completed,30
+1552,496,1,2025-01-20,2024-12-27,Urgent Visit,Completed,20
+1553,89,12,2025-06-24,2025-06-20,Follow-up Treatment,Completed,30
+1554,21,12,2025-02-04,2025-01-27,Follow-up Treatment,Completed,30
+1555,236,7,2025-03-20,2025-03-13,Annual Visit,No-Show,30
+1556,471,3,2025-05-23,2025-04-07,Medication Review,Completed,20
+1557,350,1,2025-04-29,2025-04-15,Urgent Visit,Completed,20
+1558,87,1,2025-05-12,2025-05-08,Annual Visit,Cancelled,30
+1559,97,3,2025-05-16,2025-03-26,Medication Review,Completed,20
+1560,331,10,2025-05-15,2025-04-18,Post-op Visit,Completed,30
+1561,452,6,2025-02-05,2025-01-08,Initial Evaluation,Completed,45
+1562,274,7,2025-02-06,2025-01-04,Urgent Visit,Completed,20
+1563,487,7,2025-01-24,2025-01-01,Urgent Visit,Completed,20
+1564,25,6,2025-04-17,2025-03-16,Discharge Visit,Completed,30
+1565,422,5,2025-04-25,2025-02-12,Therapy Session,Completed,50
+1566,50,1,2025-03-07,2025-02-26,Annual Visit,Completed,30
+1567,245,8,2025-05-15,2025-04-25,New Consult,Completed,45
+1568,175,2,2025-04-02,2025-03-11,New Consult,Completed,45
+1569,51,2,2025-04-10,2025-03-21,New Consult,Completed,45
+1570,155,7,2025-04-23,2025-04-10,Annual Visit,Completed,30
+1571,304,9,2025-01-07,2024-11-25,Diabetes Follow-up,Completed,30
+1572,241,5,2025-01-28,2024-12-11,Therapy Session,Completed,50
+1573,444,10,2025-03-31,2025-02-27,New Injury,No-Show,30
+1574,275,7,2025-04-09,2025-03-11,Urgent Visit,Completed,20
+1575,106,4,2025-01-02,2024-12-05,New Injury,Completed,30
+1576,424,7,2025-05-09,2025-05-03,Follow-up,Completed,20
+1577,484,4,2025-06-11,2025-06-03,Post-op Visit,Completed,30
+1578,432,10,2025-01-10,2024-12-16,Follow-up,Completed,20
+1579,500,5,2025-05-20,2025-03-13,Medication Management,Completed,30
+1580,85,2,2025-01-17,2024-12-30,Testing Review,Completed,30
+1581,22,3,2025-03-21,2025-02-02,Diabetes Follow-up,Completed,30
+1582,167,9,2025-05-12,2025-03-30,Medication Review,Completed,20
+1583,397,10,2025-01-10,2024-12-29,New Injury,Cancelled,30
+1584,63,10,2025-02-25,2025-02-04,Post-op Visit,No-Show,30
+1585,392,5,2025-06-27,2025-04-20,Intake,No-Show,60
+1586,82,4,2025-01-17,2024-12-22,Follow-up,Completed,20
+1587,89,10,2025-01-01,2024-12-05,Follow-up,No-Show,20
+1588,312,9,2025-05-07,2025-04-16,Medication Review,Completed,20
+1589,148,10,2025-04-03,2025-03-15,New Injury,Completed,30
+1590,236,1,2025-06-30,2025-06-27,Urgent Visit,Completed,20
+1591,186,7,2025-01-06,2024-12-22,Urgent Visit,Completed,20
+1592,289,2,2025-04-28,2025-04-11,New Consult,Completed,45
+1593,88,5,2025-03-18,2025-02-17,Therapy Session,Completed,50
+1594,4,11,2025-01-09,2024-11-24,Intake,Completed,60
+1595,125,3,2025-02-24,2025-01-19,Medication Review,Cancelled,20
+1596,485,4,2025-06-17,2025-05-16,Follow-up,Cancelled,20
+1597,229,12,2025-03-07,2025-02-03,Follow-up Treatment,Completed,30
+1598,48,1,2025-03-28,2025-03-14,Urgent Visit,No-Show,20
+1599,181,2,2025-02-04,2024-12-23,Follow-up,Completed,20
+1600,334,2,2025-03-18,2025-02-09,Follow-up,Completed,20
+1601,408,12,2025-01-09,2024-12-25,Follow-up Treatment,Completed,30
+1602,42,10,2025-06-02,2025-04-30,Follow-up,Completed,20
+1603,91,7,2025-06-24,2025-06-01,Follow-up,Cancelled,20
+1604,187,8,2025-01-20,2024-12-26,New Consult,Completed,45
+1605,144,4,2025-06-03,2025-05-29,New Injury,No-Show,30
+1606,138,2,2025-03-13,2025-01-30,Testing Review,Cancelled,30
+1607,155,3,2025-05-01,2025-03-12,Medication Review,Completed,20
+1608,108,5,2025-03-14,2025-02-12,Therapy Session,Completed,50
+1609,25,5,2025-05-30,2025-05-08,Medication Management,Completed,30
+1610,457,4,2025-06-16,2025-06-06,Post-op Visit,Completed,30
+1611,61,1,2025-01-03,2024-12-27,Annual Visit,No-Show,30
+1612,395,3,2025-06-24,2025-05-23,Diabetes Follow-up,Completed,30
+1613,6,9,2025-03-31,2025-02-03,Diabetes Follow-up,Cancelled,30
+1614,340,11,2025-05-06,2025-04-13,Therapy Session,Completed,50
+1615,69,8,2025-05-13,2025-04-11,New Consult,Cancelled,45
+1616,154,5,2025-01-24,2024-11-17,Therapy Session,Completed,50
+1617,107,1,2025-02-21,2025-02-11,Urgent Visit,Completed,20
+1618,492,2,2025-01-03,2024-12-07,Follow-up,Completed,20
+1619,114,5,2025-06-30,2025-04-27,Intake,Completed,60
+1620,492,1,2025-01-16,2025-01-11,Follow-up,Completed,20
+1621,32,7,2025-06-12,2025-06-03,Urgent Visit,Completed,20
+1622,43,10,2025-04-23,2025-04-05,Post-op Visit,No-Show,30
+1623,296,1,2025-01-24,2025-01-19,Urgent Visit,No-Show,20
+1624,311,10,2025-04-15,2025-03-16,New Injury,Completed,30
+1625,26,7,2025-04-11,2025-03-21,Urgent Visit,Completed,20
+1626,210,4,2025-06-17,2025-06-09,Post-op Visit,Completed,30
+1627,342,5,2025-06-10,2025-04-12,Intake,Completed,60
+1628,88,9,2025-03-27,2025-01-29,New Consult,Completed,45
+1629,391,1,2025-01-23,2024-12-29,Follow-up,Completed,20
+1630,92,1,2025-06-12,2025-05-31,Annual Visit,Completed,30
+1631,307,7,2025-06-16,2025-06-11,Follow-up,No-Show,20
+1632,202,5,2025-01-23,2024-11-28,Medication Management,Completed,30
+1633,402,11,2025-01-01,2024-11-28,Medication Management,Completed,30
+1634,62,8,2025-06-30,2025-05-29,New Consult,Cancelled,45
+1635,175,9,2025-05-20,2025-03-25,Diabetes Follow-up,No-Show,30
+1636,330,3,2025-06-17,2025-05-23,Medication Review,Completed,20
+1637,374,8,2025-04-15,2025-03-27,New Consult,Completed,45
+1638,466,9,2025-05-19,2025-03-26,Medication Review,Completed,20
+1639,22,11,2025-04-04,2025-03-05,Medication Management,Completed,30
+1640,123,1,2025-03-27,2025-02-25,Follow-up,Completed,20
+1641,133,6,2025-05-28,2025-05-16,Follow-up Treatment,Completed,30
+1642,69,1,2025-05-05,2025-04-07,Annual Visit,No-Show,30
+1643,113,10,2025-01-29,2025-01-20,Post-op Visit,Completed,30
+1644,457,8,2025-02-07,2025-01-10,Follow-up,Completed,20
+1645,10,11,2025-06-09,2025-04-17,Intake,Completed,60
+1646,164,1,2025-01-17,2024-12-30,Follow-up,Completed,20
+1647,434,12,2025-02-21,2025-02-12,Discharge Visit,Completed,30
+1648,59,9,2025-04-17,2025-03-05,Medication Review,Completed,20
+1649,388,2,2025-04-29,2025-03-17,Follow-up,Completed,20
+1650,67,5,2025-01-27,2025-01-06,Therapy Session,Completed,50
+1651,151,2,2025-04-09,2025-03-02,Follow-up,Completed,20
+1652,204,1,2025-01-06,2024-12-05,Annual Visit,Completed,30
+1653,235,11,2025-05-09,2025-04-14,Therapy Session,Completed,50
+1654,137,1,2025-03-28,2025-02-22,Urgent Visit,Completed,20
+1655,442,12,2025-01-03,2024-12-13,Discharge Visit,No-Show,30
+1656,50,12,2025-06-19,2025-06-02,Follow-up Treatment,Completed,30
+1657,79,11,2025-05-05,2025-04-09,Medication Management,Completed,30
+1658,383,5,2025-06-05,2025-05-08,Therapy Session,Completed,50
+1659,396,2,2025-06-10,2025-05-24,New Consult,Completed,45
+1660,324,11,2025-04-18,2025-02-11,Medication Management,Completed,30
+1661,74,10,2025-01-09,2025-01-03,Follow-up,Completed,20
+1662,127,1,2025-03-19,2025-03-11,Annual Visit,Completed,30
+1663,447,7,2025-03-20,2025-03-15,Annual Visit,Completed,30
+1664,224,11,2025-02-14,2024-12-08,Medication Management,Completed,30
+1665,439,6,2025-04-14,2025-04-09,Discharge Visit,Completed,30
+1666,321,5,2025-01-14,2024-12-07,Intake,Completed,60
+1667,26,7,2025-05-13,2025-04-21,Urgent Visit,Completed,20
+1668,71,5,2025-04-15,2025-03-03,Intake,Completed,60
+1669,374,10,2025-01-06,2024-12-03,Follow-up,No-Show,20
+1670,99,11,2025-06-19,2025-04-07,Medication Management,Completed,30
+1671,273,3,2025-01-24,2024-12-19,New Consult,Cancelled,45
+1672,431,6,2025-06-20,2025-06-12,Discharge Visit,Cancelled,30
+1673,41,8,2025-05-14,2025-04-27,New Consult,Completed,45
+1674,7,12,2025-03-05,2025-02-01,Follow-up Treatment,Completed,30
+1675,23,1,2025-04-14,2025-04-07,Urgent Visit,Cancelled,20
+1676,405,5,2025-01-02,2024-11-21,Intake,Completed,60
+1677,19,10,2025-06-27,2025-06-02,Follow-up,Completed,20
+1678,52,1,2025-04-24,2025-03-31,Annual Visit,Completed,30
+1679,248,1,2025-01-27,2024-12-25,Annual Visit,Completed,30
+1680,449,5,2025-03-24,2025-01-13,Therapy Session,Completed,50
+1681,12,4,2025-06-16,2025-06-03,New Injury,Completed,30
+1682,199,12,2025-02-12,2025-01-21,Follow-up Treatment,Completed,30
+1683,392,4,2025-04-15,2025-04-04,Post-op Visit,Completed,30
+1684,472,12,2025-05-15,2025-05-04,Initial Evaluation,Completed,45
+1685,261,2,2025-06-24,2025-06-08,New Consult,Completed,45
+1686,479,1,2025-06-11,2025-06-06,Follow-up,Completed,20
+1687,162,2,2025-06-18,2025-05-08,Testing Review,Completed,30
+1688,92,5,2025-06-30,2025-06-09,Therapy Session,Completed,50
+1689,74,3,2025-01-16,2024-11-20,New Consult,Completed,45
+1690,317,7,2025-02-18,2025-01-24,Annual Visit,Completed,30
+1691,252,6,2025-02-27,2025-02-20,Discharge Visit,Cancelled,30
+1692,339,9,2025-02-19,2025-01-21,Diabetes Follow-up,Completed,30
+1693,240,7,2025-05-15,2025-04-26,Follow-up,Completed,20
+1694,5,3,2025-02-03,2024-12-19,Medication Review,Completed,20
+1695,481,11,2025-06-25,2025-05-25,Intake,Completed,60
+1696,217,8,2025-04-02,2025-03-08,Follow-up,Completed,20
+1697,16,1,2025-02-26,2025-01-29,Annual Visit,No-Show,30
+1698,178,7,2025-01-28,2025-01-24,Urgent Visit,Completed,20
+1699,96,12,2025-03-24,2025-03-02,Follow-up Treatment,Completed,30
+1700,131,10,2025-05-09,2025-04-22,Post-op Visit,No-Show,30
+1701,419,9,2025-06-13,2025-05-20,Diabetes Follow-up,Completed,30
+1702,420,5,2025-04-16,2025-03-07,Intake,Completed,60
+1703,95,4,2025-01-24,2025-01-13,Post-op Visit,Completed,30
+1704,143,5,2025-01-30,2024-12-23,Medication Management,Completed,30
+1705,414,10,2025-03-18,2025-03-14,Post-op Visit,No-Show,30
+1706,243,12,2025-03-19,2025-02-25,Follow-up Treatment,Completed,30
+1707,276,1,2025-03-11,2025-02-12,Annual Visit,Completed,30
+1708,427,10,2025-06-05,2025-05-29,Post-op Visit,Completed,30
+1709,495,9,2025-03-04,2025-01-04,Medication Review,Cancelled,20
+1710,191,1,2025-04-18,2025-03-24,Annual Visit,Completed,30
+1711,4,2,2025-03-26,2025-02-26,Follow-up,Completed,20
+1712,493,5,2025-02-12,2024-12-24,Therapy Session,Completed,50
+1713,453,7,2025-02-26,2025-02-11,Follow-up,Completed,20
+1714,85,11,2025-05-26,2025-03-22,Intake,Completed,60
+1715,133,2,2025-06-23,2025-06-04,Follow-up,Completed,20
+1716,25,4,2025-01-28,2025-01-03,New Injury,Completed,30
+1717,463,7,2025-02-05,2025-01-12,Follow-up,Completed,20
+1718,27,6,2025-05-12,2025-04-21,Follow-up Treatment,Completed,30
+1719,387,5,2025-03-13,2025-01-22,Medication Management,Completed,30
+1720,206,8,2025-01-10,2024-12-20,Testing Review,Completed,30
+1721,301,1,2025-01-17,2024-12-19,Urgent Visit,Completed,20
+1722,137,7,2025-01-03,2024-12-13,Annual Visit,Completed,30
+1723,269,10,2025-04-10,2025-03-20,Follow-up,Completed,20
+1724,82,7,2025-03-20,2025-03-11,Follow-up,Completed,20
+1725,33,12,2025-06-10,2025-05-07,Discharge Visit,Completed,30
+1726,9,11,2025-03-12,2025-02-03,Therapy Session,No-Show,50
+1727,27,8,2025-02-28,2025-02-12,Follow-up,Completed,20
+1728,369,7,2025-01-29,2025-01-20,Annual Visit,Completed,30
+1729,148,6,2025-02-19,2025-02-07,Follow-up Treatment,Completed,30
+1730,457,5,2025-02-20,2024-12-24,Intake,Completed,60
+1731,84,1,2025-02-28,2025-02-14,Annual Visit,Completed,30
+1732,216,4,2025-04-11,2025-03-30,Follow-up,Completed,20
+1733,14,4,2025-06-06,2025-05-22,Post-op Visit,No-Show,30
+1734,448,1,2025-03-31,2025-03-21,Follow-up,Completed,20
+1735,437,7,2025-03-13,2025-02-08,Follow-up,Completed,20
+1736,223,4,2025-01-14,2024-12-28,Follow-up,Completed,20
+1737,125,12,2025-02-28,2025-02-09,Initial Evaluation,Completed,45
+1738,162,1,2025-06-27,2025-05-25,Follow-up,Completed,20
+1739,12,8,2025-02-18,2025-01-30,Follow-up,No-Show,20
+1740,317,7,2025-03-07,2025-02-18,Urgent Visit,No-Show,20
+1741,68,1,2025-01-30,2024-12-27,Urgent Visit,Completed,20
+1742,300,10,2025-06-10,2025-05-17,Follow-up,Completed,20
+1743,228,8,2025-04-11,2025-03-14,Follow-up,Completed,20
+1744,371,11,2025-01-27,2024-12-22,Intake,No-Show,60
+1745,18,7,2025-02-28,2025-02-08,Urgent Visit,No-Show,20
+1746,64,11,2025-04-08,2025-01-31,Medication Management,Completed,30
+1747,362,5,2025-04-23,2025-02-11,Therapy Session,Completed,50
+1748,204,10,2025-02-04,2025-01-04,New Injury,Completed,30
+1749,441,1,2025-02-12,2025-02-07,Annual Visit,No-Show,30
+1750,202,8,2025-04-02,2025-02-24,Testing Review,Completed,30
+1751,482,6,2025-05-27,2025-05-06,Follow-up Treatment,Completed,30
+1752,85,7,2025-05-02,2025-04-23,Follow-up,Completed,20
+1753,145,4,2025-06-03,2025-05-22,Follow-up,Completed,20
+1754,452,10,2025-06-30,2025-06-13,Post-op Visit,No-Show,30
+1755,119,2,2025-04-07,2025-03-20,New Consult,Completed,45
+1756,392,4,2025-05-26,2025-05-23,New Injury,No-Show,30
+1757,309,5,2025-06-23,2025-04-12,Intake,Completed,60
+1758,127,3,2025-04-09,2025-03-06,Medication Review,Completed,20
+1759,363,8,2025-04-07,2025-02-23,Testing Review,Completed,30
+1760,303,7,2025-01-28,2025-01-03,Annual Visit,Completed,30
+1761,447,4,2025-01-20,2024-12-22,Post-op Visit,Completed,30
+1762,49,6,2025-01-08,2024-12-16,Follow-up Treatment,Cancelled,30
+1763,374,5,2025-06-30,2025-05-28,Intake,Completed,60
+1764,345,11,2025-05-15,2025-03-16,Therapy Session,Completed,50
+1765,438,7,2025-02-10,2025-02-02,Urgent Visit,Completed,20
+1766,45,12,2025-06-09,2025-05-15,Discharge Visit,Completed,30
+1767,292,6,2025-06-16,2025-06-09,Follow-up Treatment,Cancelled,30
+1768,394,5,2025-06-13,2025-04-22,Intake,Completed,60
+1769,41,11,2025-03-11,2024-12-29,Medication Management,Completed,30
+1770,109,7,2025-06-13,2025-05-29,Urgent Visit,Completed,20
+1771,323,12,2025-01-24,2024-12-26,Discharge Visit,Completed,30
+1772,271,6,2025-04-11,2025-04-05,Discharge Visit,Completed,30
+1773,385,6,2025-03-14,2025-02-09,Follow-up Treatment,Completed,30
+1774,495,6,2025-01-09,2024-12-10,Initial Evaluation,Completed,45
+1775,358,5,2025-01-21,2024-12-25,Intake,Completed,60
+1776,406,12,2025-03-26,2025-02-28,Initial Evaluation,Completed,45
+1777,344,11,2025-06-11,2025-05-14,Therapy Session,Completed,50
+1778,247,6,2025-02-06,2025-01-26,Initial Evaluation,Completed,45
+1779,299,7,2025-02-12,2025-01-20,Annual Visit,Cancelled,30
+1780,498,12,2025-04-22,2025-04-16,Follow-up Treatment,No-Show,30
+1781,386,4,2025-01-23,2024-12-26,Post-op Visit,Completed,30
+1782,318,11,2025-01-27,2024-12-21,Intake,Completed,60
+1783,230,11,2025-06-05,2025-04-18,Intake,Completed,60
+1784,3,12,2025-01-29,2025-01-22,Discharge Visit,Completed,30
+1785,137,7,2025-03-03,2025-02-22,Annual Visit,No-Show,30
+1786,320,10,2025-05-05,2025-04-17,New Injury,Cancelled,30
+1787,346,7,2025-03-25,2025-02-20,Urgent Visit,Completed,20
+1788,303,3,2025-04-18,2025-03-30,Diabetes Follow-up,Completed,30
+1789,216,5,2025-04-28,2025-02-20,Intake,Completed,60
+1790,64,12,2025-06-16,2025-05-14,Follow-up Treatment,Completed,30
+1791,59,11,2025-06-24,2025-04-27,Therapy Session,Completed,50
+1792,44,7,2025-01-21,2025-01-07,Annual Visit,No-Show,30
+1793,77,4,2025-06-20,2025-06-05,Follow-up,No-Show,20
+1794,241,12,2025-05-06,2025-04-19,Initial Evaluation,No-Show,45
+1795,335,5,2025-06-05,2025-03-24,Therapy Session,Completed,50
+1796,343,1,2025-05-12,2025-04-09,Urgent Visit,Cancelled,20
+1797,257,2,2025-05-27,2025-04-22,New Consult,Completed,45
+1798,224,5,2025-04-01,2025-02-19,Therapy Session,Completed,50
+1799,418,5,2025-01-28,2024-12-16,Medication Management,Completed,30
+1800,422,2,2025-03-20,2025-02-20,Testing Review,Cancelled,30
+1801,14,12,2025-05-19,2025-05-16,Initial Evaluation,Cancelled,45
+1802,164,10,2025-04-17,2025-03-20,New Injury,Cancelled,30
+1803,404,7,2025-06-17,2025-05-20,Follow-up,Completed,20
+1804,473,3,2025-02-13,2025-01-24,Diabetes Follow-up,Completed,30
+1805,494,3,2025-01-27,2024-12-02,Diabetes Follow-up,Completed,30
+1806,31,9,2025-04-14,2025-03-10,Medication Review,Completed,20
+1807,86,6,2025-03-03,2025-02-11,Follow-up Treatment,Completed,30
+1808,373,7,2025-06-30,2025-05-27,Follow-up,Completed,20
+1809,401,5,2025-05-19,2025-03-12,Therapy Session,Completed,50
+1810,260,6,2025-05-01,2025-04-18,Initial Evaluation,Cancelled,45
+1811,76,2,2025-06-30,2025-06-02,New Consult,Completed,45
+1812,437,9,2025-02-05,2024-12-10,Medication Review,Completed,20
+1813,492,1,2025-05-30,2025-05-13,Urgent Visit,Completed,20
+1814,304,12,2025-02-05,2025-01-03,Initial Evaluation,Completed,45
+1815,405,9,2025-01-21,2024-12-20,Diabetes Follow-up,Completed,30
+1816,405,3,2025-06-17,2025-05-07,Diabetes Follow-up,Completed,30
+1817,303,3,2025-02-17,2025-01-29,Diabetes Follow-up,Completed,30
+1818,204,1,2025-05-06,2025-04-06,Follow-up,Completed,20
+1819,398,1,2025-03-11,2025-02-08,Follow-up,Completed,20
+1820,334,7,2025-01-28,2025-01-13,Urgent Visit,Completed,20
+1821,2,8,2025-05-27,2025-05-01,New Consult,Completed,45
+1822,84,7,2025-03-10,2025-02-04,Annual Visit,Completed,30
+1823,307,5,2025-03-04,2025-01-30,Therapy Session,Completed,50
+1824,238,6,2025-02-03,2025-01-31,Follow-up Treatment,Completed,30
+1825,138,11,2025-05-19,2025-04-22,Medication Management,Completed,30
+1826,337,3,2025-06-25,2025-04-30,Diabetes Follow-up,No-Show,30
+1827,151,11,2025-01-29,2024-12-14,Medication Management,Completed,30
+1828,246,1,2025-04-04,2025-03-27,Urgent Visit,Completed,20
+1829,328,2,2025-05-23,2025-04-27,New Consult,Completed,45
+1830,79,3,2025-06-25,2025-05-05,Diabetes Follow-up,Completed,30
+1831,88,4,2025-04-04,2025-03-21,New Injury,Completed,30
+1832,498,7,2025-03-13,2025-02-24,Annual Visit,Completed,30
+1833,51,6,2025-03-21,2025-03-02,Initial Evaluation,No-Show,45
+1834,287,12,2025-05-08,2025-04-26,Initial Evaluation,Completed,45
+1835,115,4,2025-03-20,2025-02-16,New Injury,No-Show,30
+1836,183,4,2025-04-17,2025-04-10,Follow-up,Completed,20
+1837,424,1,2025-06-24,2025-06-17,Annual Visit,Completed,30
+1838,38,11,2025-04-11,2025-02-12,Intake,Completed,60
+1839,272,6,2025-01-21,2025-01-17,Initial Evaluation,Completed,45
+1840,381,1,2025-06-06,2025-05-15,Follow-up,Completed,20
+1841,359,6,2025-01-27,2025-01-05,Follow-up Treatment,No-Show,30
+1842,340,1,2025-05-06,2025-04-07,Annual Visit,No-Show,30
+1843,6,12,2025-02-26,2025-02-05,Follow-up Treatment,No-Show,30
+1844,85,11,2025-01-14,2024-12-15,Medication Management,No-Show,30
+1845,225,5,2025-04-04,2025-03-12,Medication Management,Completed,30
+1846,309,7,2025-05-16,2025-05-04,Follow-up,Completed,20
+1847,168,7,2025-05-02,2025-04-13,Annual Visit,Completed,30
+1848,177,3,2025-03-05,2025-01-30,Diabetes Follow-up,Completed,30
+1849,125,10,2025-06-05,2025-05-18,New Injury,Completed,30
+1850,328,12,2025-05-14,2025-05-01,Discharge Visit,No-Show,30
+1851,220,2,2025-06-11,2025-05-20,Follow-up,Completed,20
+1852,452,4,2025-02-12,2025-02-04,Post-op Visit,Completed,30
+1853,140,7,2025-03-05,2025-02-01,Follow-up,Completed,20
+1854,303,5,2025-05-02,2025-03-17,Intake,Completed,60
+1855,124,12,2025-01-17,2024-12-16,Initial Evaluation,Completed,45
+1856,346,5,2025-04-18,2025-02-12,Medication Management,Completed,30
+1857,243,1,2025-03-12,2025-03-02,Urgent Visit,Completed,20
+1858,489,7,2025-06-24,2025-06-14,Annual Visit,Completed,30
+1859,21,8,2025-01-14,2024-12-07,New Consult,Completed,45
+1860,112,6,2025-03-17,2025-03-01,Follow-up Treatment,Cancelled,30
+1861,213,9,2025-06-23,2025-05-16,New Consult,Completed,45
+1862,243,12,2025-03-04,2025-02-12,Initial Evaluation,Completed,45
+1863,442,10,2025-02-27,2025-02-22,Follow-up,Completed,20
+1864,360,11,2025-04-30,2025-04-02,Intake,Completed,60
+1865,401,12,2025-06-19,2025-06-04,Initial Evaluation,Cancelled,45
+1866,459,11,2025-04-11,2025-02-12,Therapy Session,No-Show,50
+1867,195,9,2025-01-17,2024-12-12,Diabetes Follow-up,Completed,30
+1868,462,11,2025-04-02,2025-02-28,Intake,No-Show,60
+1869,271,6,2025-06-18,2025-05-17,Initial Evaluation,Cancelled,45
+1870,114,8,2025-05-21,2025-04-25,Follow-up,Completed,20
+1871,24,5,2025-06-05,2025-04-08,Medication Management,No-Show,30
+1872,442,5,2025-02-19,2025-01-28,Intake,Completed,60
+1873,15,8,2025-01-31,2025-01-16,Follow-up,Completed,20
+1874,290,10,2025-01-24,2024-12-21,Follow-up,Completed,20
+1875,443,6,2025-03-13,2025-02-11,Follow-up Treatment,Completed,30
+1876,351,7,2025-05-01,2025-04-22,Follow-up,Completed,20
+1877,19,9,2025-04-14,2025-03-11,Diabetes Follow-up,Completed,30
+1878,335,10,2025-01-21,2024-12-22,Post-op Visit,Completed,30
+1879,303,12,2025-04-23,2025-04-14,Follow-up Treatment,Completed,30
+1880,282,2,2025-05-15,2025-05-01,New Consult,Cancelled,45
+1881,251,5,2025-06-20,2025-05-26,Medication Management,Completed,30
+1882,204,5,2025-04-07,2025-03-16,Intake,Completed,60
+1883,266,2,2025-01-21,2024-12-25,New Consult,Completed,45
+1884,77,1,2025-06-03,2025-05-31,Annual Visit,Completed,30
+1885,190,10,2025-04-11,2025-03-27,Post-op Visit,Completed,30
+1886,198,1,2025-02-13,2025-02-03,Urgent Visit,Completed,20
+1887,410,12,2025-03-03,2025-01-28,Discharge Visit,Completed,30
+1888,333,8,2025-01-24,2025-01-04,Follow-up,Completed,20
+1889,353,7,2025-02-18,2025-02-11,Follow-up,Completed,20
+1890,408,4,2025-01-23,2025-01-03,Follow-up,Completed,20
+1891,92,7,2025-04-15,2025-03-31,Urgent Visit,Completed,20
+1892,65,11,2025-06-12,2025-04-28,Medication Management,Completed,30
+1893,95,8,2025-03-07,2025-02-03,Follow-up,No-Show,20
+1894,172,6,2025-03-28,2025-03-12,Discharge Visit,Completed,30
+1895,366,5,2025-03-28,2025-01-26,Therapy Session,No-Show,50
+1896,204,1,2025-04-24,2025-04-14,Annual Visit,Cancelled,30
+1897,247,10,2025-05-27,2025-05-17,Post-op Visit,Completed,30
+1898,66,1,2025-02-06,2025-01-07,Follow-up,Completed,20
+1899,19,7,2025-05-07,2025-04-22,Annual Visit,Completed,30
+1900,98,6,2025-01-27,2025-01-16,Follow-up Treatment,Cancelled,30
+1901,51,7,2025-05-22,2025-05-04,Follow-up,Completed,20
+1902,378,4,2025-03-31,2025-03-01,Post-op Visit,Completed,30
+1903,89,9,2025-05-08,2025-03-10,New Consult,Completed,45
+1904,107,7,2025-06-04,2025-05-12,Follow-up,Completed,20
+1905,306,7,2025-06-10,2025-06-07,Annual Visit,Completed,30
+1906,48,4,2025-05-01,2025-04-28,Post-op Visit,Cancelled,30
+1907,145,5,2025-05-08,2025-03-31,Therapy Session,Completed,50
+1908,485,2,2025-03-25,2025-02-27,Testing Review,Completed,30
+1909,409,12,2025-04-29,2025-04-13,Follow-up Treatment,Completed,30
+1910,199,6,2025-01-09,2024-12-14,Follow-up Treatment,No-Show,30
+1911,283,1,2025-03-12,2025-02-27,Urgent Visit,Completed,20
+1912,323,12,2025-05-22,2025-05-04,Initial Evaluation,Completed,45
+1913,78,7,2025-01-02,2024-12-30,Follow-up,Cancelled,20
+1914,23,1,2025-02-21,2025-02-07,Urgent Visit,Completed,20
+1915,193,3,2025-06-13,2025-05-21,Medication Review,Completed,20
+1916,51,11,2025-05-09,2025-03-12,Therapy Session,Completed,50
+1917,83,5,2025-02-12,2025-01-02,Intake,Completed,60
+1918,144,5,2025-03-04,2024-12-23,Intake,Cancelled,60
+1919,396,3,2025-02-14,2025-01-08,New Consult,Completed,45
+1920,233,1,2025-06-20,2025-06-08,Follow-up,No-Show,20
+1921,218,10,2025-05-02,2025-04-06,Post-op Visit,Completed,30
+1922,21,12,2025-05-13,2025-04-25,Discharge Visit,Completed,30
+1923,16,2,2025-05-29,2025-04-20,New Consult,Completed,45
+1924,70,6,2025-03-07,2025-02-18,Discharge Visit,Completed,30
+1925,2,7,2025-04-22,2025-04-01,Follow-up,Completed,20
+1926,96,9,2025-06-02,2025-05-07,New Consult,Completed,45
+1927,283,5,2025-01-09,2024-11-01,Medication Management,Completed,30
+1928,458,10,2025-04-11,2025-03-11,New Injury,Cancelled,30
+1929,137,1,2025-01-03,2024-12-18,Annual Visit,Completed,30
+1930,186,12,2025-01-13,2024-12-23,Follow-up Treatment,Completed,30
+1931,147,10,2025-02-24,2025-02-04,New Injury,No-Show,30
+1932,88,7,2025-06-05,2025-05-19,Follow-up,No-Show,20
+1933,318,5,2025-03-06,2024-12-30,Medication Management,Completed,30
+1934,382,7,2025-01-07,2024-12-05,Annual Visit,Completed,30
+1935,476,3,2025-02-28,2025-02-05,Medication Review,Completed,20
+1936,343,1,2025-04-11,2025-03-25,Follow-up,Completed,20
+1937,158,7,2025-06-02,2025-05-22,Annual Visit,Completed,30
+1938,379,5,2025-05-07,2025-03-30,Medication Management,Completed,30
+1939,438,2,2025-05-20,2025-05-03,New Consult,Cancelled,45
+1940,430,9,2025-06-25,2025-05-25,New Consult,Completed,45
+1941,190,5,2025-04-23,2025-02-16,Medication Management,Completed,30
+1942,463,2,2025-01-31,2024-12-20,Testing Review,Completed,30
+1943,263,12,2025-02-07,2025-01-04,Discharge Visit,Completed,30
+1944,230,1,2025-01-01,2024-12-19,Follow-up,Completed,20
+1945,385,9,2025-03-12,2025-02-07,Diabetes Follow-up,Completed,30
+1946,309,1,2025-05-05,2025-04-09,Follow-up,Completed,20
+1947,414,7,2025-04-07,2025-03-24,Urgent Visit,Completed,20
+1948,234,12,2025-01-03,2024-12-20,Initial Evaluation,No-Show,45
+1949,200,3,2025-02-13,2025-01-07,Medication Review,Completed,20
+1950,234,9,2025-03-11,2025-01-14,New Consult,Completed,45
+1951,385,4,2025-04-29,2025-03-31,New Injury,Completed,30
+1952,57,7,2025-04-02,2025-03-08,Urgent Visit,No-Show,20
+1953,374,9,2025-06-09,2025-05-21,Diabetes Follow-up,No-Show,30
+1954,255,7,2025-01-16,2024-12-15,Annual Visit,Completed,30
+1955,368,5,2025-02-28,2025-01-01,Medication Management,Completed,30
+1956,400,8,2025-04-25,2025-03-13,New Consult,Completed,45
+1957,4,7,2025-01-24,2025-01-07,Follow-up,Completed,20
+1958,348,12,2025-03-31,2025-03-14,Follow-up Treatment,Completed,30
+1959,412,7,2025-05-20,2025-04-18,Urgent Visit,Completed,20
+1960,46,4,2025-03-10,2025-03-07,Follow-up,Completed,20
+1961,467,7,2025-05-02,2025-04-05,Urgent Visit,Completed,20
+1962,242,6,2025-02-13,2025-02-04,Discharge Visit,Completed,30
+1963,469,8,2025-06-05,2025-05-07,Testing Review,Completed,30
+1964,331,1,2025-04-14,2025-03-18,Annual Visit,Completed,30
+1965,289,7,2025-02-17,2025-01-16,Urgent Visit,No-Show,20
+1966,10,4,2025-06-17,2025-05-19,Post-op Visit,Completed,30
+1967,58,12,2025-03-24,2025-03-10,Discharge Visit,Completed,30
+1968,129,6,2025-02-21,2025-01-19,Discharge Visit,Completed,30
+1969,314,1,2025-06-27,2025-06-17,Follow-up,Completed,20
+1970,156,7,2025-01-10,2025-01-03,Follow-up,Cancelled,20
+1971,265,10,2025-04-18,2025-04-02,Follow-up,Completed,20
+1972,464,4,2025-05-16,2025-04-28,New Injury,Completed,30
+1973,192,11,2025-03-06,2025-01-04,Therapy Session,No-Show,50
+1974,221,6,2025-06-23,2025-05-26,Discharge Visit,Cancelled,30
+1975,258,7,2025-04-01,2025-02-28,Urgent Visit,Completed,20
+1976,49,12,2025-04-07,2025-03-30,Initial Evaluation,Completed,45
+1977,159,9,2025-06-06,2025-05-05,Diabetes Follow-up,Completed,30
+1978,304,5,2025-02-12,2024-12-17,Intake,Completed,60
+1979,25,11,2025-04-02,2025-02-03,Therapy Session,Completed,50
+1980,320,1,2025-05-05,2025-04-29,Annual Visit,No-Show,30
+1981,354,1,2025-01-01,2024-12-17,Follow-up,Completed,20
+1982,71,9,2025-03-11,2025-02-15,New Consult,No-Show,45
+1983,60,4,2025-02-14,2025-01-22,Post-op Visit,Cancelled,30
+1984,275,4,2025-02-26,2025-02-03,New Injury,Completed,30
+1985,276,1,2025-05-06,2025-04-26,Annual Visit,Completed,30
+1986,91,12,2025-04-07,2025-03-18,Discharge Visit,Completed,30
+1987,146,10,2025-06-10,2025-05-13,Follow-up,Completed,20
+1988,78,5,2025-05-13,2025-04-13,Intake,No-Show,60
+1989,31,7,2025-02-17,2025-01-23,Annual Visit,Completed,30
+1990,206,8,2025-06-30,2025-05-19,New Consult,Completed,45
+1991,399,6,2025-05-20,2025-04-27,Discharge Visit,Completed,30
+1992,90,7,2025-05-05,2025-04-23,Follow-up,Completed,20
+1993,407,7,2025-02-25,2025-01-28,Annual Visit,Cancelled,30
+1994,77,5,2025-06-18,2025-05-17,Intake,Cancelled,60
+1995,129,9,2025-02-26,2024-12-29,Medication Review,Completed,20
+1996,159,3,2025-02-05,2024-12-20,Diabetes Follow-up,No-Show,30
+1997,211,1,2025-03-26,2025-03-14,Urgent Visit,Completed,20
+1998,161,11,2025-06-18,2025-05-10,Medication Management,Completed,30
+1999,358,5,2025-04-07,2025-01-31,Medication Management,Completed,30
+2000,29,11,2025-06-20,2025-05-22,Medication Management,Completed,30
+2001,20,9,2025-06-06,2025-04-27,New Consult,Completed,45
+2002,248,6,2025-03-04,2025-03-01,Initial Evaluation,Completed,45
+2003,15,7,2025-01-29,2024-12-28,Annual Visit,Completed,30
+2004,378,9,2025-03-11,2025-02-03,Medication Review,Completed,20
+2005,203,8,2025-05-27,2025-04-21,New Consult,Completed,45
+2006,447,12,2025-03-11,2025-02-20,Discharge Visit,Completed,30
+2007,211,11,2025-04-28,2025-03-09,Therapy Session,No-Show,50
+2008,90,9,2025-05-28,2025-04-03,New Consult,Completed,45
+2009,353,7,2025-05-08,2025-04-04,Annual Visit,Completed,30
+2010,46,9,2025-01-15,2024-12-17,New Consult,Cancelled,45
+2011,386,10,2025-04-18,2025-04-03,Follow-up,Completed,20
+2012,452,5,2025-05-01,2025-04-06,Medication Management,Completed,30
+2013,149,8,2025-06-23,2025-05-30,New Consult,Completed,45
+2014,150,6,2025-04-25,2025-04-10,Follow-up Treatment,Completed,30
+2015,322,11,2025-02-14,2024-12-13,Intake,Completed,60
+2016,100,6,2025-01-31,2025-01-25,Discharge Visit,Completed,30
+2017,237,1,2025-01-30,2025-01-11,Follow-up,Completed,20
+2018,365,11,2025-05-12,2025-03-31,Medication Management,Completed,30
+2019,483,10,2025-02-05,2025-01-29,Post-op Visit,Completed,30
+2020,83,12,2025-03-19,2025-03-08,Discharge Visit,Completed,30
+2021,73,7,2025-01-14,2024-12-12,Annual Visit,No-Show,30
+2022,319,12,2025-01-27,2025-01-08,Discharge Visit,Completed,30
+2023,145,5,2025-04-23,2025-04-01,Intake,Cancelled,60
+2024,176,1,2025-06-17,2025-06-10,Urgent Visit,No-Show,20
+2025,243,9,2025-01-21,2024-12-19,New Consult,Completed,45
+2026,185,2,2025-03-18,2025-02-13,Testing Review,Cancelled,30
+2027,478,11,2025-05-23,2025-04-26,Intake,Completed,60
+2028,49,9,2025-05-14,2025-03-19,New Consult,Completed,45
+2029,483,11,2025-02-28,2025-01-04,Therapy Session,Completed,50
+2030,301,1,2025-05-02,2025-04-15,Urgent Visit,No-Show,20
+2031,346,4,2025-04-18,2025-04-04,Follow-up,Completed,20
+2032,397,2,2025-03-20,2025-02-05,Testing Review,Cancelled,30
+2033,428,1,2025-06-04,2025-05-22,Follow-up,Completed,20
+2034,331,1,2025-03-26,2025-02-24,Urgent Visit,Completed,20
+2035,39,6,2025-04-25,2025-04-20,Follow-up Treatment,Completed,30
+2036,283,7,2025-02-12,2025-01-14,Annual Visit,No-Show,30
+2037,426,3,2025-01-14,2024-11-18,Diabetes Follow-up,Completed,30
+2038,204,2,2025-01-08,2024-11-28,New Consult,Completed,45
+2039,77,7,2025-01-27,2024-12-26,Urgent Visit,Completed,20
+2040,127,5,2025-03-21,2025-02-04,Therapy Session,No-Show,50
+2041,332,8,2025-04-08,2025-02-26,Follow-up,Completed,20
+2042,488,1,2025-05-01,2025-04-13,Urgent Visit,Completed,20
+2043,343,4,2025-01-09,2024-12-11,New Injury,Cancelled,30
+2044,124,5,2025-06-24,2025-05-23,Intake,Completed,60
+2045,251,10,2025-06-04,2025-05-01,Post-op Visit,No-Show,30
+2046,500,12,2025-06-10,2025-06-01,Initial Evaluation,Completed,45
+2047,88,12,2025-04-21,2025-04-02,Initial Evaluation,Completed,45
+2048,151,1,2025-05-01,2025-04-03,Annual Visit,Completed,30
+2049,65,10,2025-04-07,2025-04-02,New Injury,No-Show,30
+2050,374,1,2025-03-20,2025-02-24,Follow-up,Completed,20
+2051,80,5,2025-02-28,2025-01-31,Medication Management,Completed,30
+2052,137,7,2025-04-11,2025-03-24,Follow-up,Completed,20
+2053,446,4,2025-04-28,2025-04-07,Follow-up,Completed,20
+2054,174,11,2025-04-09,2025-01-28,Medication Management,No-Show,30
+2055,152,11,2025-06-16,2025-04-26,Medication Management,Completed,30
+2056,383,1,2025-06-18,2025-06-15,Urgent Visit,Completed,20
+2057,417,10,2025-06-11,2025-06-03,Follow-up,Cancelled,20
+2058,304,1,2025-05-02,2025-04-20,Follow-up,Completed,20
+2059,144,7,2025-04-21,2025-04-01,Urgent Visit,Completed,20
+2060,424,1,2025-04-07,2025-03-18,Annual Visit,Completed,30
+2061,491,1,2025-06-05,2025-05-02,Follow-up,Completed,20
+2062,255,11,2025-06-23,2025-04-11,Intake,Cancelled,60
+2063,120,3,2025-05-21,2025-03-26,Diabetes Follow-up,Cancelled,30
+2064,179,8,2025-01-15,2024-12-06,New Consult,Completed,45
+2065,168,3,2025-01-09,2024-12-18,Medication Review,Completed,20
+2066,11,6,2025-02-26,2025-02-21,Follow-up Treatment,Completed,30
+2067,327,8,2025-05-05,2025-04-09,Testing Review,Completed,30
+2068,112,12,2025-02-24,2025-02-18,Initial Evaluation,Completed,45
+2069,258,5,2025-06-19,2025-05-19,Therapy Session,Completed,50
+2070,28,1,2025-04-22,2025-03-20,Urgent Visit,Completed,20
+2071,469,6,2025-04-22,2025-03-30,Discharge Visit,Completed,30
+2072,150,1,2025-05-05,2025-04-19,Urgent Visit,Completed,20
+2073,343,1,2025-03-26,2025-03-12,Annual Visit,Completed,30
+2074,232,6,2025-06-05,2025-06-01,Follow-up Treatment,Completed,30
+2075,286,11,2025-05-27,2025-03-18,Intake,No-Show,60
+2076,491,11,2025-01-17,2024-11-22,Intake,No-Show,60
+2077,357,11,2025-04-03,2025-02-26,Medication Management,Completed,30
+2078,399,12,2025-02-13,2025-01-25,Initial Evaluation,Completed,45
+2079,479,1,2025-01-16,2024-12-24,Follow-up,Completed,20
+2080,381,12,2025-03-28,2025-03-04,Follow-up Treatment,Completed,30
+2081,475,8,2025-01-22,2024-12-19,New Consult,Completed,45
+2082,382,2,2025-01-30,2025-01-03,New Consult,Completed,45
+2083,454,7,2025-03-21,2025-03-16,Follow-up,Completed,20
+2084,143,2,2025-05-14,2025-04-10,New Consult,Completed,45
+2085,23,7,2025-05-19,2025-05-12,Urgent Visit,Cancelled,20
+2086,110,4,2025-02-20,2025-02-10,New Injury,Cancelled,30
+2087,354,10,2025-01-27,2024-12-29,New Injury,Completed,30
+2088,158,4,2025-03-07,2025-02-17,Post-op Visit,Completed,30
+2089,131,1,2025-02-04,2025-01-12,Annual Visit,No-Show,30
+2090,401,5,2025-06-04,2025-04-04,Therapy Session,Completed,50
+2091,180,7,2025-05-08,2025-05-05,Urgent Visit,Completed,20
+2092,469,9,2025-06-13,2025-04-20,Medication Review,Completed,20
+2093,374,5,2025-06-11,2025-05-19,Therapy Session,Completed,50
+2094,244,4,2025-04-29,2025-04-20,New Injury,Completed,30
+2095,331,6,2025-04-17,2025-03-14,Initial Evaluation,Completed,45
+2096,135,3,2025-03-07,2025-02-12,Diabetes Follow-up,Completed,30
+2097,443,12,2025-04-08,2025-03-29,Discharge Visit,Completed,30
+2098,265,1,2025-03-28,2025-03-14,Follow-up,Completed,20
+2099,432,11,2025-01-08,2024-11-25,Therapy Session,Completed,50
+2100,111,2,2025-05-27,2025-04-14,Follow-up,Completed,20
+2101,360,4,2025-05-05,2025-04-27,New Injury,Completed,30
+2102,413,9,2025-06-26,2025-06-01,Medication Review,Completed,20
+2103,274,7,2025-04-17,2025-03-24,Follow-up,Completed,20
+2104,214,6,2025-01-23,2025-01-02,Follow-up Treatment,Completed,30
+2105,441,12,2025-06-02,2025-05-23,Follow-up Treatment,No-Show,30
+2106,8,4,2025-06-09,2025-05-11,New Injury,Completed,30
+2107,99,7,2025-04-28,2025-04-01,Annual Visit,Completed,30
+2108,256,10,2025-03-07,2025-02-10,Follow-up,Cancelled,20
+2109,232,12,2025-05-28,2025-05-12,Discharge Visit,Completed,30
+2110,308,10,2025-04-10,2025-03-23,Follow-up,Completed,20
+2111,31,6,2025-04-17,2025-04-03,Discharge Visit,Completed,30
+2112,489,12,2025-06-18,2025-05-20,Initial Evaluation,Completed,45
+2113,207,8,2025-05-02,2025-04-06,New Consult,Completed,45
+2114,23,1,2025-06-03,2025-05-21,Follow-up,Completed,20
+2115,290,1,2025-06-05,2025-05-12,Follow-up,Cancelled,20
+2116,346,4,2025-01-17,2024-12-30,Follow-up,Completed,20
+2117,201,1,2025-02-25,2025-02-10,Annual Visit,Completed,30
+2118,492,1,2025-01-21,2024-12-26,Follow-up,Completed,20
+2119,493,9,2025-06-16,2025-05-24,Diabetes Follow-up,Completed,30
+2120,356,7,2025-01-08,2024-12-18,Urgent Visit,Completed,20
+2121,324,8,2025-06-09,2025-05-11,New Consult,Completed,45
+2122,385,10,2025-02-24,2025-01-30,Follow-up,Completed,20
+2123,344,4,2025-03-25,2025-03-19,Post-op Visit,No-Show,30
+2124,275,9,2025-03-27,2025-03-03,Medication Review,No-Show,20
+2125,189,12,2025-05-20,2025-05-11,Discharge Visit,Completed,30
+2126,76,12,2025-04-14,2025-03-12,Follow-up Treatment,Completed,30
+2127,193,5,2025-03-27,2025-02-15,Therapy Session,Completed,50
+2128,62,8,2025-05-29,2025-04-17,New Consult,Completed,45
+2129,344,11,2025-03-05,2024-12-27,Therapy Session,No-Show,50
+2130,261,1,2025-02-10,2025-01-23,Follow-up,Completed,20
+2131,285,12,2025-03-05,2025-02-06,Follow-up Treatment,Completed,30
+2132,245,12,2025-02-17,2025-01-14,Initial Evaluation,Completed,45
+2133,135,4,2025-06-03,2025-05-27,Post-op Visit,Completed,30
+2134,177,7,2025-05-27,2025-05-12,Annual Visit,Cancelled,30
+2135,136,1,2025-06-04,2025-05-12,Follow-up,Completed,20
+2136,232,7,2025-03-12,2025-03-01,Follow-up,Completed,20
+2137,399,2,2025-04-08,2025-02-24,New Consult,Completed,45
+2138,333,4,2025-06-25,2025-06-01,Post-op Visit,Completed,30
+2139,483,3,2025-04-18,2025-03-01,New Consult,Completed,45
+2140,142,1,2025-03-28,2025-03-19,Follow-up,Cancelled,20
+2141,383,8,2025-01-23,2024-12-14,New Consult,No-Show,45
+2142,105,3,2025-02-03,2025-01-09,Medication Review,Completed,20
+2143,138,3,2025-04-23,2025-04-01,New Consult,Completed,45
+2144,308,5,2025-01-31,2024-12-12,Intake,Completed,60
+2145,135,1,2025-01-22,2024-12-28,Follow-up,Completed,20
+2146,371,9,2025-03-24,2025-02-07,Diabetes Follow-up,Completed,30
+2147,293,1,2025-04-30,2025-04-12,Follow-up,Completed,20
+2148,188,12,2025-05-26,2025-05-11,Discharge Visit,Cancelled,30
+2149,371,11,2025-04-04,2025-02-15,Therapy Session,Completed,50
+2150,49,11,2025-03-27,2025-02-15,Medication Management,Completed,30
+2151,73,10,2025-04-07,2025-03-19,New Injury,Completed,30
+2152,255,4,2025-04-15,2025-03-13,Follow-up,Completed,20
+2153,184,6,2025-04-21,2025-04-02,Discharge Visit,Completed,30
+2154,61,10,2025-06-02,2025-05-15,New Injury,Completed,30
+2155,235,12,2025-06-18,2025-05-28,Follow-up Treatment,Completed,30
+2156,182,2,2025-01-07,2024-12-08,New Consult,Completed,45
+2157,209,6,2025-01-30,2025-01-15,Initial Evaluation,Completed,45
+2158,464,10,2025-03-10,2025-03-01,Follow-up,Completed,20
+2159,209,11,2025-01-29,2024-12-14,Therapy Session,Completed,50
+2160,211,8,2025-02-10,2025-01-08,Testing Review,Completed,30
+2161,120,4,2025-02-04,2025-01-08,New Injury,Completed,30
+2162,282,11,2025-04-21,2025-03-06,Intake,Completed,60
+2163,32,3,2025-01-13,2024-12-13,New Consult,Completed,45
+2164,339,12,2025-01-24,2025-01-09,Initial Evaluation,Cancelled,45
+2165,477,11,2025-05-20,2025-04-29,Intake,Completed,60
+2166,176,7,2025-06-03,2025-05-12,Follow-up,Completed,20
+2167,407,4,2025-05-15,2025-04-22,New Injury,Completed,30
+2168,364,4,2025-02-20,2025-02-11,Post-op Visit,Completed,30
+2169,202,7,2025-05-12,2025-04-10,Urgent Visit,Completed,20
+2170,78,12,2025-04-02,2025-03-09,Initial Evaluation,Completed,45
+2171,277,9,2025-03-14,2025-02-06,Medication Review,Completed,20
+2172,239,9,2025-06-13,2025-05-07,New Consult,Completed,45
+2173,167,11,2025-05-12,2025-04-18,Intake,Completed,60
+2174,24,11,2025-06-04,2025-03-23,Intake,No-Show,60
+2175,434,12,2025-06-23,2025-06-09,Discharge Visit,Cancelled,30
+2176,453,6,2025-01-08,2024-12-14,Discharge Visit,Completed,30
+2177,340,5,2025-06-04,2025-04-28,Therapy Session,Completed,50
+2178,354,11,2025-01-17,2024-11-20,Therapy Session,No-Show,50
+2179,182,1,2025-03-28,2025-02-24,Urgent Visit,Completed,20
+2180,416,2,2025-01-09,2024-12-19,New Consult,Completed,45
+2181,299,11,2025-05-15,2025-03-10,Therapy Session,Completed,50
+2182,458,6,2025-03-17,2025-03-13,Discharge Visit,Completed,30
+2183,356,4,2025-05-20,2025-04-18,Post-op Visit,Completed,30
+2184,211,6,2025-02-14,2025-01-24,Discharge Visit,Cancelled,30
+2185,228,1,2025-06-17,2025-06-14,Urgent Visit,No-Show,20
+2186,41,6,2025-03-19,2025-02-16,Discharge Visit,Completed,30
+2187,436,10,2025-02-25,2025-02-22,Post-op Visit,Completed,30
+2188,235,12,2025-04-07,2025-03-27,Initial Evaluation,Cancelled,45
+2189,74,7,2025-05-23,2025-05-20,Urgent Visit,Completed,20
+2190,161,1,2025-01-27,2025-01-23,Urgent Visit,Completed,20
+2191,387,1,2025-04-30,2025-04-25,Annual Visit,Completed,30
+2192,404,5,2025-06-16,2025-05-21,Intake,Completed,60
+2193,430,6,2025-05-20,2025-05-10,Follow-up Treatment,Completed,30
+2194,192,5,2025-01-02,2024-12-12,Medication Management,Completed,30
+2195,197,7,2025-05-08,2025-04-18,Follow-up,Completed,20
+2196,433,4,2025-02-07,2025-01-13,New Injury,Completed,30
+2197,138,1,2025-01-20,2025-01-11,Follow-up,Completed,20
+2198,41,1,2025-02-04,2025-01-03,Follow-up,Completed,20
+2199,228,7,2025-04-03,2025-03-14,Urgent Visit,Completed,20
+2200,390,1,2025-06-13,2025-05-16,Follow-up,Completed,20
+2201,32,1,2025-03-31,2025-03-22,Follow-up,Completed,20
+2202,35,1,2025-02-05,2025-01-11,Annual Visit,Completed,30
+2203,156,12,2025-06-06,2025-05-29,Discharge Visit,Completed,30
+2204,364,4,2025-04-30,2025-03-30,Follow-up,Completed,20
+2205,265,2,2025-06-25,2025-05-22,New Consult,Completed,45
+2206,494,7,2025-06-06,2025-05-15,Follow-up,Cancelled,20
+2207,200,1,2025-05-15,2025-05-05,Follow-up,Cancelled,20
+2208,71,7,2025-04-17,2025-03-24,Annual Visit,Completed,30
+2209,459,11,2025-01-02,2024-11-09,Therapy Session,Cancelled,50
+2210,304,4,2025-05-07,2025-04-27,New Injury,Completed,30
+2211,282,10,2025-02-20,2025-02-12,New Injury,No-Show,30
+2212,499,9,2025-02-26,2025-01-26,New Consult,Completed,45
+2213,118,5,2025-06-02,2025-04-12,Medication Management,Completed,30
+2214,45,11,2025-01-24,2024-11-30,Therapy Session,Completed,50
+2215,50,5,2025-02-04,2024-12-08,Intake,Completed,60
+2216,39,7,2025-03-28,2025-02-22,Urgent Visit,Cancelled,20
+2217,304,1,2025-02-19,2025-01-16,Annual Visit,Completed,30
+2218,442,10,2025-04-02,2025-03-15,Post-op Visit,Completed,30
+2219,447,4,2025-06-26,2025-06-03,Follow-up,Completed,20
+2220,381,5,2025-03-20,2025-02-03,Intake,No-Show,60
+2221,87,9,2025-06-13,2025-05-19,Diabetes Follow-up,Completed,30
+2222,285,5,2025-05-27,2025-04-28,Intake,Completed,60
+2223,76,1,2025-06-11,2025-05-29,Annual Visit,Completed,30
+2224,464,12,2025-02-12,2025-01-10,Follow-up Treatment,Completed,30
+2225,201,8,2025-04-21,2025-03-30,Testing Review,Completed,30
+2226,376,9,2025-04-18,2025-03-10,New Consult,Completed,45
+2227,352,5,2025-06-16,2025-04-04,Intake,Cancelled,60
+2228,42,3,2025-04-17,2025-02-18,Diabetes Follow-up,Completed,30
+2229,435,1,2025-01-08,2024-12-10,Annual Visit,Cancelled,30
+2230,261,1,2025-06-18,2025-05-21,Annual Visit,Completed,30
+2231,422,1,2025-03-14,2025-02-17,Annual Visit,Completed,30
+2232,354,12,2025-03-24,2025-03-04,Initial Evaluation,Completed,45
+2233,62,1,2025-04-28,2025-04-21,Follow-up,Cancelled,20
+2234,414,5,2025-01-20,2024-12-09,Intake,Completed,60
+2235,20,7,2025-04-21,2025-04-08,Follow-up,Completed,20
+2236,156,4,2025-03-11,2025-02-06,Post-op Visit,Completed,30
+2237,351,11,2025-05-29,2025-03-27,Intake,Completed,60
+2238,129,7,2025-03-27,2025-02-21,Urgent Visit,Cancelled,20
+2239,278,5,2025-01-06,2024-12-16,Intake,No-Show,60
+2240,285,7,2025-04-07,2025-03-07,Urgent Visit,Completed,20
+2241,356,9,2025-02-26,2025-02-08,New Consult,Completed,45
+2242,240,1,2025-03-07,2025-02-15,Follow-up,Completed,20
+2243,111,6,2025-03-27,2025-03-14,Follow-up Treatment,Completed,30
+2244,89,2,2025-04-18,2025-03-12,Testing Review,Completed,30
+2245,266,10,2025-06-06,2025-05-31,Post-op Visit,Cancelled,30
+2246,391,9,2025-05-22,2025-04-23,New Consult,Completed,45
+2247,465,5,2025-02-14,2025-01-02,Therapy Session,Completed,50
+2248,323,5,2025-05-09,2025-03-06,Intake,Completed,60
+2249,452,5,2025-05-23,2025-04-26,Medication Management,Completed,30
+2250,298,6,2025-02-21,2025-01-28,Initial Evaluation,Completed,45
+2251,326,10,2025-02-21,2025-02-18,Post-op Visit,Completed,30
+2252,252,6,2025-02-19,2025-01-23,Discharge Visit,Completed,30
+2253,465,8,2025-02-17,2025-01-20,Follow-up,Completed,20
+2254,29,10,2025-03-07,2025-02-03,Post-op Visit,No-Show,30
+2255,138,6,2025-04-03,2025-03-28,Discharge Visit,No-Show,30
+2256,255,5,2025-01-13,2024-12-13,Medication Management,Completed,30
+2257,150,7,2025-05-26,2025-05-08,Annual Visit,Completed,30
+2258,53,6,2025-02-25,2025-02-13,Follow-up Treatment,Cancelled,30
+2259,74,11,2025-05-14,2025-03-14,Therapy Session,Completed,50
+2260,289,1,2025-01-02,2024-12-20,Follow-up,Completed,20
+2261,186,3,2025-02-05,2025-01-08,Diabetes Follow-up,Completed,30
+2262,202,4,2025-01-29,2025-01-12,Follow-up,Completed,20
+2263,55,1,2025-02-19,2025-02-11,Annual Visit,Completed,30
+2264,211,11,2025-03-11,2025-01-20,Therapy Session,Completed,50
+2265,76,6,2025-03-07,2025-02-19,Initial Evaluation,Completed,45
+2266,393,2,2025-01-29,2025-01-07,New Consult,Completed,45
+2267,440,6,2025-04-22,2025-03-26,Follow-up Treatment,No-Show,30
+2268,166,7,2025-04-28,2025-04-13,Urgent Visit,Completed,20
+2269,67,5,2025-04-14,2025-03-05,Medication Management,Completed,30
+2270,145,9,2025-06-13,2025-04-24,Diabetes Follow-up,No-Show,30
+2271,345,7,2025-02-27,2025-01-27,Annual Visit,Completed,30
+2272,303,2,2025-01-17,2024-12-19,Follow-up,No-Show,20
+2273,272,6,2025-06-16,2025-06-09,Initial Evaluation,No-Show,45
+2274,74,6,2025-06-06,2025-06-02,Discharge Visit,Completed,30
+2275,13,6,2025-01-16,2024-12-27,Initial Evaluation,Completed,45
+2276,450,7,2025-01-10,2024-12-29,Urgent Visit,No-Show,20
+2277,72,1,2025-01-17,2025-01-06,Urgent Visit,Completed,20
+2278,365,5,2025-01-10,2024-11-04,Intake,Completed,60
+2279,319,6,2025-05-13,2025-04-24,Discharge Visit,Completed,30
+2280,94,11,2025-06-06,2025-04-18,Medication Management,Completed,30
+2281,329,6,2025-06-13,2025-05-18,Initial Evaluation,Completed,45
+2282,395,12,2025-06-06,2025-05-29,Follow-up Treatment,Completed,30
+2283,107,11,2025-01-13,2024-11-13,Intake,Completed,60
+2284,228,2,2025-03-14,2025-02-01,Follow-up,Completed,20
+2285,70,12,2025-03-06,2025-02-25,Initial Evaluation,Completed,45
+2286,470,7,2025-02-19,2025-02-12,Urgent Visit,Completed,20
+2287,168,12,2025-06-03,2025-05-18,Discharge Visit,Completed,30
+2288,22,4,2025-04-08,2025-03-14,New Injury,No-Show,30
+2289,65,9,2025-02-28,2025-01-13,New Consult,No-Show,45
+2290,461,9,2025-01-09,2024-11-25,Diabetes Follow-up,Completed,30
+2291,347,1,2025-03-26,2025-03-18,Urgent Visit,Completed,20
+2292,13,2,2025-05-02,2025-04-18,Testing Review,Completed,30
+2293,146,4,2025-02-27,2025-02-16,Follow-up,Completed,20
+2294,310,6,2025-05-15,2025-04-22,Follow-up Treatment,Completed,30
+2295,44,1,2025-01-27,2025-01-09,Urgent Visit,Completed,20
+2296,27,8,2025-01-02,2024-11-24,Follow-up,No-Show,20
+2297,141,7,2025-06-09,2025-05-14,Follow-up,Completed,20
+2298,405,4,2025-03-20,2025-02-28,Follow-up,Completed,20
+2299,428,2,2025-05-07,2025-04-19,Testing Review,Cancelled,30
+2300,92,11,2025-02-19,2025-01-20,Medication Management,Completed,30
+2301,148,8,2025-01-17,2024-12-24,Follow-up,No-Show,20
+2302,301,8,2025-03-25,2025-03-08,New Consult,Completed,45
+2303,270,6,2025-05-13,2025-04-13,Follow-up Treatment,Completed,30
+2304,448,5,2025-02-07,2024-12-01,Therapy Session,Completed,50
+2305,47,5,2025-06-10,2025-04-12,Therapy Session,No-Show,50
+2306,281,7,2025-05-19,2025-05-16,Annual Visit,Completed,30
+2307,338,2,2025-06-20,2025-05-29,New Consult,Cancelled,45
+2308,350,2,2025-03-19,2025-02-21,New Consult,Completed,45
+2309,409,12,2025-06-11,2025-05-20,Discharge Visit,Completed,30
+2310,199,7,2025-03-24,2025-03-12,Urgent Visit,Completed,20
+2311,337,11,2025-01-13,2024-11-17,Intake,Completed,60
+2312,266,12,2025-06-12,2025-05-17,Discharge Visit,Completed,30
+2313,160,7,2025-02-24,2025-02-06,Annual Visit,Cancelled,30
+2314,184,1,2025-02-18,2025-02-10,Annual Visit,Completed,30
+2315,70,7,2025-01-15,2024-12-28,Urgent Visit,Completed,20
+2316,55,7,2025-06-17,2025-06-06,Annual Visit,Completed,30
+2317,58,1,2025-03-17,2025-02-25,Urgent Visit,Completed,20
+2318,371,9,2025-06-20,2025-05-26,New Consult,Completed,45
+2319,302,7,2025-06-17,2025-05-22,Annual Visit,Completed,30
+2320,162,7,2025-02-28,2025-02-16,Follow-up,Completed,20
+2321,366,4,2025-05-29,2025-05-18,Post-op Visit,Completed,30
+2322,302,4,2025-02-05,2025-01-24,Follow-up,Completed,20
+2323,185,11,2025-06-09,2025-05-05,Therapy Session,Completed,50
+2324,258,4,2025-05-13,2025-04-11,Follow-up,Completed,20
+2325,15,9,2025-01-20,2024-12-03,New Consult,Completed,45
+2326,186,2,2025-04-21,2025-03-15,New Consult,Completed,45
+2327,392,2,2025-04-03,2025-03-02,Follow-up,Completed,20
+2328,164,9,2025-01-15,2024-12-13,Medication Review,Completed,20
+2329,401,11,2025-03-07,2025-01-26,Medication Management,No-Show,30
+2330,110,11,2025-06-27,2025-05-18,Medication Management,Completed,30
+2331,249,1,2025-06-26,2025-05-25,Urgent Visit,Completed,20
+2332,327,9,2025-01-20,2024-12-05,Diabetes Follow-up,Completed,30
+2333,473,6,2025-02-06,2025-01-20,Initial Evaluation,Completed,45
+2334,483,11,2025-04-23,2025-03-11,Medication Management,Completed,30
+2335,377,1,2025-05-14,2025-04-13,Urgent Visit,Completed,20
+2336,371,8,2025-03-10,2025-02-20,New Consult,Completed,45
+2337,62,8,2025-02-12,2024-12-31,Testing Review,Completed,30
+2338,406,2,2025-05-07,2025-03-31,New Consult,Completed,45
+2339,140,12,2025-01-24,2024-12-31,Initial Evaluation,Completed,45
+2340,409,7,2025-05-02,2025-04-24,Follow-up,Completed,20
+2341,54,8,2025-02-24,2025-02-05,New Consult,Completed,45
+2342,321,8,2025-02-20,2025-02-04,Testing Review,Completed,30
+2343,461,5,2025-03-06,2025-01-18,Intake,Completed,60
+2344,300,3,2025-06-24,2025-04-27,Medication Review,Completed,20
+2345,49,1,2025-06-23,2025-05-26,Annual Visit,Completed,30
+2346,105,4,2025-06-17,2025-05-15,Follow-up,Completed,20
+2347,461,8,2025-03-03,2025-01-19,Testing Review,Cancelled,30
+2348,206,11,2025-02-25,2024-12-19,Therapy Session,Completed,50
+2349,114,7,2025-01-07,2024-12-26,Follow-up,Cancelled,20
+2350,140,8,2025-03-27,2025-02-15,Follow-up,Completed,20
+2351,436,8,2025-02-05,2025-01-15,New Consult,Completed,45
+2352,401,2,2025-05-23,2025-04-12,New Consult,Completed,45
+2353,269,4,2025-05-09,2025-05-05,Post-op Visit,Completed,30
+2354,103,1,2025-02-03,2025-01-18,Urgent Visit,Completed,20
+2355,98,7,2025-06-09,2025-05-07,Follow-up,Completed,20
+2356,412,5,2025-05-28,2025-04-12,Medication Management,Completed,30
+2357,253,7,2025-05-09,2025-04-20,Follow-up,Completed,20
+2358,4,7,2025-06-16,2025-05-25,Annual Visit,No-Show,30
+2359,156,7,2025-01-08,2024-12-24,Urgent Visit,Completed,20
+2360,134,2,2025-02-03,2025-01-16,New Consult,Completed,45
+2361,63,5,2025-02-10,2024-12-15,Therapy Session,Completed,50
+2362,153,2,2025-05-14,2025-04-04,Follow-up,Completed,20
+2363,65,1,2025-04-24,2025-04-13,Annual Visit,Completed,30
+2364,28,1,2025-01-22,2024-12-30,Annual Visit,Completed,30
+2365,38,11,2025-06-09,2025-04-12,Medication Management,Cancelled,30
+2366,359,3,2025-04-17,2025-03-19,New Consult,Completed,45
+2367,210,1,2025-03-17,2025-03-07,Follow-up,Completed,20
+2368,218,3,2025-02-27,2025-01-07,Diabetes Follow-up,Completed,30
+2369,215,11,2025-06-23,2025-06-01,Intake,Completed,60
+2370,404,7,2025-01-22,2025-01-14,Annual Visit,Completed,30
+2371,390,9,2025-06-11,2025-05-03,Diabetes Follow-up,Completed,30
+2372,293,2,2025-03-26,2025-02-28,Testing Review,Completed,30
+2373,262,1,2025-01-03,2024-12-23,Urgent Visit,Completed,20
+2374,426,8,2025-01-31,2025-01-15,New Consult,Completed,45
+2375,228,4,2025-04-03,2025-03-09,Post-op Visit,Completed,30
+2376,373,6,2025-04-02,2025-02-28,Discharge Visit,No-Show,30
+2377,225,11,2025-04-25,2025-02-18,Therapy Session,Completed,50
+2378,257,9,2025-05-14,2025-04-02,New Consult,No-Show,45
+2379,230,6,2025-04-02,2025-02-27,Follow-up Treatment,Completed,30
+2380,466,1,2025-06-13,2025-05-19,Follow-up,Completed,20
+2381,54,7,2025-02-17,2025-01-31,Urgent Visit,Completed,20
+2382,305,8,2025-02-17,2025-01-19,Testing Review,Completed,30
+2383,290,5,2025-03-12,2025-01-10,Therapy Session,Completed,50
+2384,359,2,2025-04-25,2025-03-16,Testing Review,Completed,30
+2385,442,10,2025-02-21,2025-01-25,Follow-up,Completed,20
+2386,469,2,2025-06-24,2025-05-14,New Consult,Cancelled,45
+2387,241,11,2025-02-13,2024-12-22,Medication Management,Cancelled,30
+2388,441,5,2025-05-19,2025-03-26,Medication Management,Completed,30
+2389,412,6,2025-03-07,2025-03-03,Discharge Visit,No-Show,30
+2390,376,1,2025-02-21,2025-01-25,Urgent Visit,Cancelled,20
+2391,10,11,2025-02-14,2025-01-20,Intake,No-Show,60
+2392,390,6,2025-03-14,2025-02-22,Follow-up Treatment,No-Show,30
+2393,11,8,2025-04-25,2025-03-18,New Consult,Completed,45
+2394,144,1,2025-05-23,2025-05-09,Annual Visit,Completed,30
+2395,449,6,2025-02-10,2025-01-18,Discharge Visit,Completed,30
+2396,475,8,2025-03-12,2025-02-19,Testing Review,Completed,30
+2397,240,7,2025-03-19,2025-03-13,Annual Visit,Completed,30
+2398,245,5,2025-05-01,2025-03-17,Therapy Session,Completed,50
+2399,180,7,2025-01-28,2025-01-17,Follow-up,Completed,20
+2400,394,1,2025-06-06,2025-05-11,Annual Visit,Completed,30
+2401,299,1,2025-04-14,2025-03-19,Annual Visit,Completed,30
+2402,405,5,2025-05-14,2025-04-21,Medication Management,Completed,30
+2403,64,7,2025-01-13,2024-12-17,Urgent Visit,No-Show,20
+2404,182,3,2025-04-24,2025-03-01,Diabetes Follow-up,Completed,30
+2405,51,1,2025-01-07,2024-12-30,Annual Visit,Completed,30
+2406,68,7,2025-05-14,2025-04-30,Urgent Visit,Completed,20
+2407,194,2,2025-03-21,2025-02-10,New Consult,Completed,45
+2408,186,7,2025-01-17,2025-01-06,Follow-up,Completed,20
+2409,442,8,2025-01-23,2025-01-01,Follow-up,Completed,20
+2410,70,7,2025-05-30,2025-05-19,Annual Visit,Completed,30
+2411,303,7,2025-03-31,2025-03-19,Urgent Visit,Completed,20
+2412,233,1,2025-01-02,2024-12-12,Annual Visit,Completed,30
+2413,430,1,2025-06-24,2025-05-21,Urgent Visit,Completed,20
+2414,377,7,2025-03-06,2025-02-06,Annual Visit,Completed,30
+2415,489,7,2025-02-26,2025-02-03,Annual Visit,Completed,30
+2416,492,8,2025-03-28,2025-02-20,Follow-up,Cancelled,20
+2417,120,2,2025-04-08,2025-03-09,New Consult,Completed,45
+2418,401,5,2025-02-05,2025-01-13,Medication Management,No-Show,30
+2419,497,9,2025-02-21,2024-12-27,Diabetes Follow-up,Completed,30
+2420,410,7,2025-02-19,2025-01-22,Annual Visit,Cancelled,30
+2421,353,2,2025-01-07,2024-12-20,Follow-up,Completed,20
+2422,51,5,2025-03-04,2025-01-15,Intake,Completed,60
+2423,82,1,2025-05-05,2025-04-28,Urgent Visit,Completed,20
+2424,95,5,2025-01-23,2024-11-16,Intake,Completed,60
+2425,437,11,2025-05-26,2025-03-30,Medication Management,No-Show,30
+2426,25,11,2025-06-10,2025-05-08,Intake,No-Show,60
+2427,389,7,2025-01-15,2024-12-20,Follow-up,Completed,20
+2428,483,11,2025-04-07,2025-02-08,Medication Management,Completed,30
+2429,482,8,2025-04-15,2025-03-29,Testing Review,Completed,30
+2430,111,11,2025-05-14,2025-04-12,Therapy Session,Cancelled,50
+2431,43,1,2025-06-05,2025-05-23,Annual Visit,Completed,30
+2432,125,11,2025-01-28,2024-11-30,Intake,Completed,60
+2433,314,2,2025-03-07,2025-02-15,Testing Review,Completed,30
+2434,156,4,2025-03-31,2025-02-27,Post-op Visit,Completed,30
+2435,472,1,2025-04-29,2025-04-01,Urgent Visit,Completed,20
+2436,36,7,2025-02-14,2025-01-16,Annual Visit,Cancelled,30
+2437,55,11,2025-06-03,2025-04-23,Medication Management,Completed,30
+2438,129,11,2025-05-30,2025-05-05,Therapy Session,Completed,50
+2439,144,11,2025-03-14,2025-01-31,Intake,Completed,60
+2440,447,10,2025-03-27,2025-03-07,New Injury,Completed,30
+2441,381,10,2025-06-26,2025-06-23,Follow-up,Completed,20
+2442,465,6,2025-04-16,2025-03-21,Follow-up Treatment,Cancelled,30
+2443,106,1,2025-03-11,2025-02-06,Follow-up,No-Show,20
+2444,12,8,2025-04-24,2025-03-28,Testing Review,Completed,30
+2445,80,12,2025-03-17,2025-03-12,Initial Evaluation,Completed,45
+2446,225,10,2025-03-26,2025-02-26,New Injury,Completed,30
+2447,41,1,2025-04-02,2025-03-18,Urgent Visit,Completed,20
+2448,325,12,2025-03-24,2025-02-26,Follow-up Treatment,Completed,30
+2449,68,6,2025-04-11,2025-03-30,Discharge Visit,Completed,30
+2450,181,7,2025-01-08,2025-01-05,Annual Visit,Completed,30
+2451,350,12,2025-05-20,2025-04-25,Follow-up Treatment,Completed,30
+2452,244,10,2025-03-25,2025-03-15,Post-op Visit,Cancelled,30
+2453,18,6,2025-01-30,2025-01-04,Initial Evaluation,Cancelled,45
+2454,186,5,2025-01-15,2024-12-13,Therapy Session,Completed,50
+2455,27,6,2025-02-19,2025-01-16,Initial Evaluation,Completed,45
+2456,497,3,2025-02-12,2024-12-21,New Consult,Completed,45
+2457,171,1,2025-01-01,2024-12-18,Annual Visit,Completed,30
+2458,173,4,2025-02-03,2025-01-19,Post-op Visit,Cancelled,30
+2459,86,10,2025-06-11,2025-06-02,Follow-up,Completed,20
+2460,156,10,2025-01-08,2024-12-17,Post-op Visit,Completed,30
+2461,55,8,2025-01-21,2025-01-04,New Consult,Completed,45
+2462,116,9,2025-04-14,2025-02-26,Medication Review,Completed,20
+2463,5,10,2025-02-07,2025-01-06,Follow-up,No-Show,20
+2464,332,8,2025-01-21,2024-12-20,Testing Review,Completed,30
+2465,94,5,2025-04-24,2025-03-11,Medication Management,No-Show,30
+2466,433,1,2025-06-13,2025-05-23,Urgent Visit,Completed,20
+2467,307,9,2025-02-21,2025-01-24,New Consult,Completed,45
+2468,370,5,2025-01-20,2024-11-25,Intake,Cancelled,60
+2469,328,5,2025-06-19,2025-05-21,Intake,Completed,60
+2470,323,9,2025-04-29,2025-04-04,Diabetes Follow-up,Completed,30
+2471,75,5,2025-05-22,2025-04-12,Therapy Session,Completed,50
+2472,479,7,2025-06-09,2025-06-06,Follow-up,Completed,20
+2473,100,8,2025-01-24,2024-12-27,Testing Review,Completed,30
+2474,431,6,2025-05-26,2025-05-02,Initial Evaluation,Completed,45
+2475,109,1,2025-02-28,2025-02-22,Urgent Visit,Completed,20
+2476,44,9,2025-01-22,2024-12-30,Diabetes Follow-up,Completed,30
+2477,228,3,2025-06-17,2025-04-26,Diabetes Follow-up,No-Show,30
+2478,300,12,2025-04-09,2025-03-20,Discharge Visit,Completed,30
+2479,167,5,2025-02-27,2024-12-15,Medication Management,Completed,30
+2480,345,12,2025-05-01,2025-04-24,Follow-up Treatment,Completed,30
+2481,219,1,2025-03-12,2025-02-28,Annual Visit,Completed,30
+2482,355,12,2025-05-14,2025-05-02,Discharge Visit,Completed,30
+2483,344,7,2025-01-30,2025-01-25,Follow-up,Completed,20
+2484,225,11,2025-03-05,2025-01-02,Medication Management,Completed,30
+2485,110,1,2025-02-26,2025-02-17,Annual Visit,Completed,30
+2486,63,7,2025-02-24,2025-02-12,Annual Visit,No-Show,30
+2487,206,5,2025-02-06,2025-01-08,Intake,Completed,60
+2488,444,5,2025-02-19,2025-01-09,Intake,Completed,60
+2489,184,12,2025-05-19,2025-05-04,Discharge Visit,Completed,30
+2490,23,5,2025-06-16,2025-05-21,Medication Management,Cancelled,30
+2491,153,1,2025-01-23,2025-01-14,Annual Visit,Completed,30
+2492,422,11,2025-05-02,2025-03-10,Therapy Session,Completed,50
+2493,378,7,2025-06-23,2025-06-05,Annual Visit,Completed,30
+2494,180,4,2025-02-12,2025-01-20,New Injury,Completed,30
+2495,40,1,2025-02-26,2025-01-30,Annual Visit,No-Show,30
+2496,57,11,2025-04-02,2025-02-24,Medication Management,Completed,30
+2497,500,1,2025-02-19,2025-01-26,Annual Visit,Completed,30
+2498,367,8,2025-05-07,2025-03-30,Testing Review,Completed,30
+2499,337,5,2025-03-24,2025-01-09,Therapy Session,Completed,50
+2500,351,2,2025-04-21,2025-03-26,Testing Review,Completed,30
+2501,266,6,2025-02-28,2025-02-17,Discharge Visit,Completed,30
+2502,250,10,2025-03-12,2025-02-24,Post-op Visit,Completed,30
+2503,130,12,2025-06-13,2025-05-30,Discharge Visit,Completed,30
+2504,204,3,2025-06-20,2025-05-18,Medication Review,Completed,20
+2505,104,11,2025-06-25,2025-05-29,Therapy Session,Completed,50
+2506,274,3,2025-06-06,2025-05-09,Medication Review,Completed,20
+2507,337,12,2025-05-28,2025-04-28,Discharge Visit,No-Show,30
+2508,152,4,2025-04-02,2025-02-28,Follow-up,Completed,20
+2509,484,5,2025-05-20,2025-03-20,Intake,Completed,60
+2510,106,4,2025-03-17,2025-02-13,Follow-up,Completed,20
+2511,15,6,2025-03-07,2025-02-22,Follow-up Treatment,Cancelled,30
+2512,19,9,2025-04-08,2025-02-17,Medication Review,Completed,20
+2513,154,5,2025-05-09,2025-04-14,Medication Management,Completed,30
+2514,268,7,2025-04-28,2025-03-28,Annual Visit,Completed,30
+2515,133,5,2025-03-13,2025-01-07,Therapy Session,Completed,50
+2516,306,8,2025-01-02,2024-11-27,Testing Review,Completed,30
+2517,89,7,2025-01-16,2025-01-01,Annual Visit,No-Show,30
+2518,491,8,2025-02-28,2025-02-05,Testing Review,Completed,30
+2519,162,6,2025-06-02,2025-05-12,Initial Evaluation,Completed,45
+2520,238,10,2025-01-23,2024-12-30,Post-op Visit,No-Show,30
+2521,178,5,2025-01-01,2024-10-20,Medication Management,Completed,30
+2522,451,1,2025-02-07,2025-02-03,Urgent Visit,Completed,20
+2523,440,12,2025-06-03,2025-05-28,Initial Evaluation,Completed,45
+2524,154,5,2025-05-29,2025-04-21,Medication Management,Completed,30
+2525,374,5,2025-04-23,2025-03-22,Intake,Completed,60
+2526,74,7,2025-03-21,2025-02-15,Follow-up,Completed,20
+2527,55,1,2025-02-07,2025-01-18,Annual Visit,Completed,30
+2528,337,6,2025-05-20,2025-05-14,Follow-up Treatment,No-Show,30
+2529,240,9,2025-05-15,2025-04-25,Medication Review,Completed,20
+2530,445,9,2025-03-21,2025-02-26,New Consult,Completed,45
+2531,339,6,2025-01-23,2024-12-30,Discharge Visit,Completed,30
+2532,12,1,2025-06-25,2025-06-21,Annual Visit,Completed,30
+2533,52,7,2025-05-06,2025-04-03,Urgent Visit,Completed,20
+2534,486,6,2025-02-26,2025-02-15,Discharge Visit,Completed,30
+2535,137,10,2025-06-12,2025-05-29,New Injury,Completed,30
+2536,471,11,2025-01-22,2024-12-03,Medication Management,Completed,30
+2537,241,3,2025-03-21,2025-02-08,New Consult,No-Show,45
+2538,377,5,2025-06-20,2025-04-30,Medication Management,Completed,30
+2539,64,5,2025-01-24,2024-12-11,Intake,Completed,60
+2540,55,2,2025-04-29,2025-03-28,Testing Review,Completed,30
+2541,207,2,2025-05-29,2025-05-14,Testing Review,Cancelled,30
+2542,58,2,2025-05-15,2025-04-17,Testing Review,Completed,30
+2543,413,8,2025-03-10,2025-02-22,New Consult,Completed,45
+2544,282,12,2025-04-09,2025-03-10,Follow-up Treatment,Completed,30
+2545,31,12,2025-01-30,2025-01-11,Discharge Visit,Completed,30
+2546,38,6,2025-03-14,2025-02-12,Initial Evaluation,Completed,45
+2547,173,1,2025-01-24,2025-01-04,Annual Visit,Completed,30
+2548,127,5,2025-05-09,2025-03-29,Intake,Completed,60
+2549,347,7,2025-05-14,2025-04-10,Follow-up,Completed,20
+2550,133,5,2025-02-18,2024-12-12,Intake,Completed,60
+2551,337,10,2025-04-24,2025-04-10,Post-op Visit,Cancelled,30
+2552,131,7,2025-02-19,2025-01-26,Urgent Visit,Completed,20
+2553,366,5,2025-06-19,2025-04-17,Medication Management,No-Show,30
+2554,406,6,2025-04-04,2025-03-19,Follow-up Treatment,Cancelled,30
+2555,371,1,2025-06-05,2025-05-19,Follow-up,Completed,20
+2556,250,5,2025-04-09,2025-02-12,Therapy Session,Completed,50
+2557,401,6,2025-02-17,2025-02-03,Discharge Visit,Completed,30
+2558,133,2,2025-02-11,2025-01-25,Testing Review,Completed,30
+2559,55,11,2025-03-25,2025-02-09,Medication Management,Completed,30
+2560,469,6,2025-01-03,2024-11-30,Follow-up Treatment,Completed,30
+2561,252,3,2025-04-17,2025-03-17,Medication Review,Completed,20
+2562,336,8,2025-06-23,2025-05-15,Follow-up,No-Show,20
+2563,274,11,2025-05-22,2025-04-25,Therapy Session,No-Show,50
+2564,481,3,2025-02-18,2024-12-24,New Consult,Completed,45
+2565,312,8,2025-03-18,2025-02-22,Follow-up,Completed,20
+2566,423,5,2025-06-11,2025-04-16,Intake,Completed,60
+2567,308,8,2025-04-18,2025-04-02,New Consult,Completed,45
+2568,254,7,2025-04-14,2025-03-28,Follow-up,Completed,20
+2569,411,10,2025-01-23,2025-01-08,Follow-up,Completed,20
+2570,264,5,2025-06-09,2025-03-28,Therapy Session,Completed,50
+2571,135,11,2025-05-12,2025-03-28,Intake,No-Show,60
+2572,274,7,2025-02-06,2025-01-27,Follow-up,Cancelled,20
+2573,69,12,2025-04-09,2025-03-16,Discharge Visit,No-Show,30
+2574,467,7,2025-06-02,2025-05-30,Annual Visit,Cancelled,30
+2575,370,12,2025-02-26,2025-02-16,Follow-up Treatment,Completed,30
+2576,473,7,2025-03-26,2025-03-23,Annual Visit,Cancelled,30
+2577,61,10,2025-06-17,2025-06-03,New Injury,Completed,30
+2578,59,7,2025-01-15,2024-12-19,Annual Visit,Completed,30
+2579,34,1,2025-04-28,2025-04-19,Annual Visit,No-Show,30
+2580,116,2,2025-04-16,2025-03-29,New Consult,Completed,45
+2581,400,5,2025-02-11,2025-01-13,Medication Management,Completed,30
+2582,340,8,2025-05-09,2025-04-01,Follow-up,Completed,20
+2583,3,2,2025-02-20,2025-01-22,Testing Review,Cancelled,30
+2584,377,11,2025-05-01,2025-03-02,Medication Management,Completed,30
+2585,66,6,2025-06-23,2025-06-04,Initial Evaluation,No-Show,45
+2586,368,6,2025-03-13,2025-03-04,Follow-up Treatment,Completed,30
+2587,98,9,2025-01-20,2024-12-08,Diabetes Follow-up,Completed,30
+2588,171,11,2025-04-11,2025-03-03,Therapy Session,Completed,50
+2589,351,5,2025-02-18,2025-01-26,Therapy Session,Completed,50
+2590,280,9,2025-05-22,2025-04-01,Medication Review,Completed,20
+2591,148,11,2025-03-28,2025-02-20,Intake,Completed,60
+2592,368,1,2025-04-28,2025-04-04,Follow-up,Completed,20
+2593,246,2,2025-02-06,2025-01-18,Testing Review,Completed,30
+2594,336,11,2025-05-22,2025-03-25,Medication Management,Completed,30
+2595,147,5,2025-02-25,2024-12-28,Intake,Completed,60
+2596,140,2,2025-04-18,2025-03-29,New Consult,Completed,45
+2597,210,6,2025-05-02,2025-04-20,Discharge Visit,Completed,30
+2598,101,3,2025-04-09,2025-03-16,Medication Review,Completed,20
+2599,134,3,2025-01-08,2024-12-09,New Consult,Completed,45
+2600,498,6,2025-06-18,2025-05-15,Follow-up Treatment,Cancelled,30

@@ -1,0 +1,801 @@
+referral_id,patient_id,specialty,location_id,referral_date,priority_level,appointment_needed_by
+1,154,Orthopedics,2,2025-02-23,Routine,2025-04-09
+2,220,Primary Care,3,2025-02-26,Urgent,2025-03-05
+3,177,Behavioral Health,3,2025-05-29,Routine,2025-07-13
+4,292,Behavioral Health,3,2025-03-04,Routine,2025-04-18
+5,390,Behavioral Health,3,2025-01-02,Priority,2025-01-23
+6,114,Physical Therapy,1,2025-05-26,Routine,2025-07-10
+7,476,Physical Therapy,1,2025-06-16,Routine,2025-07-31
+8,165,Behavioral Health,3,2025-02-27,Routine,2025-04-13
+9,174,Primary Care,3,2025-01-07,Priority,2025-01-28
+10,259,Primary Care,1,2025-04-10,Routine,2025-05-25
+11,451,Behavioral Health,3,2025-02-13,Routine,2025-03-30
+12,495,Cardiology,3,2025-01-14,Routine,2025-02-28
+13,106,Physical Therapy,2,2025-03-20,Urgent,2025-03-27
+14,363,Physical Therapy,1,2025-05-21,Priority,2025-06-11
+15,15,Primary Care,3,2025-01-13,Routine,2025-02-27
+16,151,Orthopedics,1,2025-04-24,Routine,2025-06-08
+17,350,Physical Therapy,2,2025-01-30,Routine,2025-03-16
+18,99,Physical Therapy,2,2025-02-08,Priority,2025-03-01
+19,387,Cardiology,1,2025-06-15,Routine,2025-07-30
+20,295,Physical Therapy,1,2025-02-12,Routine,2025-03-29
+21,169,Endocrinology,3,2025-03-06,Priority,2025-03-27
+22,68,Orthopedics,2,2025-06-27,Priority,2025-07-18
+23,47,Physical Therapy,2,2025-01-17,Routine,2025-03-03
+24,347,Behavioral Health,3,2025-04-14,Priority,2025-05-05
+25,367,Physical Therapy,1,2025-02-08,Routine,2025-03-25
+26,48,Physical Therapy,2,2025-01-07,Routine,2025-02-21
+27,298,Orthopedics,1,2025-03-17,Routine,2025-05-01
+28,340,Behavioral Health,3,2025-04-20,Routine,2025-06-04
+29,443,Physical Therapy,1,2025-03-13,Routine,2025-04-27
+30,394,Primary Care,3,2025-01-16,Routine,2025-03-02
+31,436,Physical Therapy,1,2025-05-31,Priority,2025-06-21
+32,209,Primary Care,1,2025-06-27,Routine,2025-08-11
+33,124,Primary Care,3,2025-02-11,Routine,2025-03-28
+34,107,Primary Care,3,2025-02-07,Routine,2025-03-24
+35,192,Orthopedics,1,2025-02-13,Priority,2025-03-06
+36,194,Physical Therapy,1,2025-03-28,Routine,2025-05-12
+37,108,Primary Care,3,2025-03-08,Routine,2025-04-22
+38,189,Primary Care,1,2025-03-10,Routine,2025-04-24
+39,8,Cardiology,1,2025-05-14,Priority,2025-06-04
+40,481,Orthopedics,1,2025-03-29,Priority,2025-04-19
+41,500,Behavioral Health,2,2025-05-24,Routine,2025-07-08
+42,351,Endocrinology,1,2025-05-09,Routine,2025-06-23
+43,345,Primary Care,1,2025-05-29,Priority,2025-06-19
+44,325,Primary Care,3,2025-01-12,Routine,2025-02-26
+45,73,Behavioral Health,2,2025-04-28,Routine,2025-06-12
+46,302,Primary Care,3,2025-02-06,Routine,2025-03-23
+47,99,Primary Care,3,2025-05-14,Routine,2025-06-28
+48,128,Physical Therapy,2,2025-03-22,Routine,2025-05-06
+49,458,Primary Care,3,2025-05-29,Routine,2025-07-13
+50,411,Primary Care,1,2025-04-03,Urgent,2025-04-10
+51,290,Orthopedics,2,2025-01-01,Priority,2025-01-22
+52,388,Orthopedics,1,2025-05-26,Priority,2025-06-16
+53,309,Primary Care,1,2025-05-30,Routine,2025-07-14
+54,412,Orthopedics,1,2025-02-11,Routine,2025-03-28
+55,373,Orthopedics,1,2025-04-18,Routine,2025-06-02
+56,480,Orthopedics,1,2025-01-09,Routine,2025-02-23
+57,386,Cardiology,3,2025-04-22,Urgent,2025-04-29
+58,130,Behavioral Health,3,2025-03-29,Routine,2025-05-13
+59,460,Orthopedics,2,2025-04-08,Priority,2025-04-29
+60,88,Physical Therapy,2,2025-05-11,Priority,2025-06-01
+61,332,Behavioral Health,3,2025-01-08,Routine,2025-02-22
+62,42,Behavioral Health,2,2025-06-18,Routine,2025-08-02
+63,147,Physical Therapy,2,2025-04-30,Routine,2025-06-14
+64,302,Physical Therapy,1,2025-03-15,Routine,2025-04-29
+65,140,Endocrinology,1,2025-02-15,Routine,2025-04-01
+66,206,Primary Care,1,2025-04-18,Routine,2025-06-02
+67,275,Endocrinology,3,2025-05-25,Routine,2025-07-09
+68,430,Endocrinology,3,2025-05-28,Priority,2025-06-18
+69,96,Physical Therapy,1,2025-05-27,Urgent,2025-06-03
+70,440,Orthopedics,1,2025-01-18,Routine,2025-03-04
+71,343,Primary Care,3,2025-05-24,Priority,2025-06-14
+72,407,Behavioral Health,2,2025-01-24,Urgent,2025-01-31
+73,189,Physical Therapy,2,2025-06-17,Priority,2025-07-08
+74,72,Physical Therapy,2,2025-06-02,Routine,2025-07-17
+75,445,Behavioral Health,3,2025-03-01,Routine,2025-04-15
+76,253,Physical Therapy,1,2025-06-25,Routine,2025-08-09
+77,168,Behavioral Health,2,2025-01-19,Urgent,2025-01-26
+78,70,Orthopedics,1,2025-06-23,Priority,2025-07-14
+79,203,Behavioral Health,3,2025-04-02,Routine,2025-05-17
+80,437,Physical Therapy,2,2025-06-30,Priority,2025-07-21
+81,3,Cardiology,3,2025-02-03,Routine,2025-03-20
+82,329,Behavioral Health,3,2025-01-16,Routine,2025-03-02
+83,265,Primary Care,3,2025-02-21,Routine,2025-04-07
+84,136,Endocrinology,3,2025-06-13,Routine,2025-07-28
+85,102,Cardiology,1,2025-01-23,Routine,2025-03-09
+86,158,Cardiology,1,2025-04-24,Priority,2025-05-15
+87,480,Primary Care,1,2025-06-16,Priority,2025-07-07
+88,184,Physical Therapy,1,2025-01-08,Routine,2025-02-22
+89,162,Primary Care,3,2025-01-29,Routine,2025-03-15
+90,5,Primary Care,1,2025-06-27,Routine,2025-08-11
+91,235,Physical Therapy,2,2025-03-30,Routine,2025-05-14
+92,108,Orthopedics,1,2025-05-06,Routine,2025-06-20
+93,71,Primary Care,3,2025-03-22,Priority,2025-04-12
+94,91,Cardiology,3,2025-05-12,Priority,2025-06-02
+95,60,Behavioral Health,2,2025-03-25,Priority,2025-04-15
+96,471,Orthopedics,2,2025-02-26,Routine,2025-04-12
+97,453,Physical Therapy,2,2025-04-06,Routine,2025-05-21
+98,160,Behavioral Health,3,2025-05-13,Routine,2025-06-27
+99,97,Behavioral Health,2,2025-03-12,Priority,2025-04-02
+100,351,Behavioral Health,2,2025-02-11,Routine,2025-03-28
+101,267,Behavioral Health,3,2025-06-17,Priority,2025-07-08
+102,179,Physical Therapy,1,2025-02-26,Priority,2025-03-19
+103,14,Primary Care,3,2025-06-29,Routine,2025-08-13
+104,175,Primary Care,1,2025-04-29,Priority,2025-05-20
+105,100,Endocrinology,3,2025-05-17,Routine,2025-07-01
+106,116,Primary Care,3,2025-05-20,Routine,2025-07-04
+107,266,Primary Care,3,2025-05-09,Priority,2025-05-30
+108,200,Primary Care,3,2025-05-24,Priority,2025-06-14
+109,190,Physical Therapy,1,2025-02-21,Routine,2025-04-07
+110,135,Behavioral Health,3,2025-04-22,Routine,2025-06-06
+111,233,Cardiology,3,2025-03-14,Routine,2025-04-28
+112,33,Orthopedics,1,2025-03-09,Routine,2025-04-23
+113,150,Cardiology,3,2025-06-12,Priority,2025-07-03
+114,81,Primary Care,3,2025-02-27,Routine,2025-04-13
+115,377,Primary Care,1,2025-03-04,Routine,2025-04-18
+116,397,Physical Therapy,2,2025-04-14,Priority,2025-05-05
+117,345,Behavioral Health,2,2025-03-08,Priority,2025-03-29
+118,102,Physical Therapy,1,2025-01-20,Routine,2025-03-06
+119,384,Primary Care,3,2025-01-06,Routine,2025-02-20
+120,112,Orthopedics,1,2025-04-04,Priority,2025-04-25
+121,58,Cardiology,1,2025-03-11,Routine,2025-04-25
+122,457,Physical Therapy,2,2025-05-24,Routine,2025-07-08
+123,428,Primary Care,3,2025-02-15,Priority,2025-03-08
+124,294,Physical Therapy,2,2025-04-22,Routine,2025-06-06
+125,373,Endocrinology,3,2025-04-07,Routine,2025-05-22
+126,124,Primary Care,3,2025-01-07,Priority,2025-01-28
+127,199,Primary Care,3,2025-01-18,Routine,2025-03-04
+128,352,Orthopedics,1,2025-06-15,Urgent,2025-06-22
+129,364,Primary Care,3,2025-02-04,Urgent,2025-02-11
+130,279,Cardiology,3,2025-06-02,Routine,2025-07-17
+131,212,Cardiology,1,2025-05-28,Priority,2025-06-18
+132,170,Orthopedics,2,2025-03-06,Priority,2025-03-27
+133,496,Physical Therapy,1,2025-05-03,Routine,2025-06-17
+134,326,Physical Therapy,2,2025-06-10,Priority,2025-07-01
+135,69,Behavioral Health,2,2025-03-25,Urgent,2025-04-01
+136,372,Cardiology,1,2025-06-17,Priority,2025-07-08
+137,474,Primary Care,3,2025-01-29,Priority,2025-02-19
+138,486,Primary Care,3,2025-04-12,Priority,2025-05-03
+139,181,Behavioral Health,3,2025-01-12,Routine,2025-02-26
+140,420,Behavioral Health,2,2025-01-31,Routine,2025-03-17
+141,259,Orthopedics,1,2025-01-01,Routine,2025-02-15
+142,434,Primary Care,1,2025-01-15,Priority,2025-02-05
+143,414,Behavioral Health,3,2025-02-05,Routine,2025-03-22
+144,281,Cardiology,3,2025-03-07,Urgent,2025-03-14
+145,60,Primary Care,1,2025-06-14,Priority,2025-07-05
+146,487,Physical Therapy,1,2025-04-30,Routine,2025-06-14
+147,75,Physical Therapy,2,2025-02-22,Routine,2025-04-08
+148,67,Orthopedics,2,2025-01-14,Routine,2025-02-28
+149,124,Orthopedics,1,2025-02-05,Priority,2025-02-26
+150,436,Behavioral Health,3,2025-06-27,Priority,2025-07-18
+151,494,Primary Care,1,2025-03-12,Priority,2025-04-02
+152,401,Primary Care,3,2025-06-21,Priority,2025-07-12
+153,60,Cardiology,3,2025-05-15,Routine,2025-06-29
+154,145,Behavioral Health,2,2025-05-30,Routine,2025-07-14
+155,443,Primary Care,3,2025-01-13,Priority,2025-02-03
+156,420,Physical Therapy,1,2025-01-19,Routine,2025-03-05
+157,388,Orthopedics,2,2025-06-23,Priority,2025-07-14
+158,213,Primary Care,1,2025-02-04,Routine,2025-03-21
+159,244,Endocrinology,1,2025-03-29,Priority,2025-04-19
+160,377,Physical Therapy,2,2025-01-13,Routine,2025-02-27
+161,123,Physical Therapy,1,2025-02-04,Routine,2025-03-21
+162,309,Cardiology,3,2025-04-14,Priority,2025-05-05
+163,43,Primary Care,1,2025-05-24,Priority,2025-06-14
+164,263,Primary Care,3,2025-04-14,Urgent,2025-04-21
+165,25,Primary Care,1,2025-06-30,Urgent,2025-07-07
+166,203,Orthopedics,2,2025-04-01,Urgent,2025-04-08
+167,134,Primary Care,3,2025-04-16,Priority,2025-05-07
+168,58,Primary Care,3,2025-02-02,Priority,2025-02-23
+169,268,Cardiology,1,2025-03-29,Urgent,2025-04-05
+170,179,Physical Therapy,1,2025-06-26,Routine,2025-08-10
+171,302,Cardiology,3,2025-06-18,Priority,2025-07-09
+172,269,Orthopedics,1,2025-05-26,Routine,2025-07-10
+173,113,Orthopedics,1,2025-02-05,Routine,2025-03-22
+174,290,Behavioral Health,3,2025-04-14,Priority,2025-05-05
+175,124,Primary Care,3,2025-05-22,Routine,2025-07-06
+176,422,Primary Care,1,2025-05-30,Routine,2025-07-14
+177,400,Orthopedics,1,2025-01-29,Routine,2025-03-15
+178,386,Endocrinology,1,2025-03-13,Routine,2025-04-27
+179,160,Behavioral Health,3,2025-04-23,Priority,2025-05-14
+180,465,Primary Care,3,2025-03-27,Priority,2025-04-17
+181,477,Primary Care,3,2025-02-25,Routine,2025-04-11
+182,462,Physical Therapy,1,2025-06-29,Urgent,2025-07-06
+183,279,Primary Care,1,2025-03-24,Priority,2025-04-14
+184,162,Primary Care,1,2025-03-26,Routine,2025-05-10
+185,5,Orthopedics,2,2025-06-18,Routine,2025-08-02
+186,138,Primary Care,3,2025-04-01,Routine,2025-05-16
+187,458,Behavioral Health,3,2025-06-12,Routine,2025-07-27
+188,328,Orthopedics,1,2025-04-05,Urgent,2025-04-12
+189,107,Primary Care,3,2025-06-09,Routine,2025-07-24
+190,426,Behavioral Health,2,2025-02-28,Routine,2025-04-14
+191,335,Physical Therapy,2,2025-02-16,Priority,2025-03-09
+192,406,Behavioral Health,3,2025-06-29,Priority,2025-07-20
+193,51,Primary Care,3,2025-06-22,Urgent,2025-06-29
+194,75,Primary Care,1,2025-05-03,Routine,2025-06-17
+195,409,Behavioral Health,2,2025-01-01,Routine,2025-02-15
+196,245,Endocrinology,1,2025-06-29,Urgent,2025-07-06
+197,6,Primary Care,3,2025-01-09,Routine,2025-02-23
+198,395,Primary Care,1,2025-03-29,Routine,2025-05-13
+199,105,Cardiology,1,2025-04-23,Routine,2025-06-07
+200,489,Orthopedics,2,2025-02-19,Routine,2025-04-05
+201,303,Physical Therapy,1,2025-05-18,Priority,2025-06-08
+202,381,Physical Therapy,2,2025-03-13,Routine,2025-04-27
+203,176,Physical Therapy,2,2025-03-25,Urgent,2025-04-01
+204,325,Primary Care,1,2025-04-16,Routine,2025-05-31
+205,166,Orthopedics,2,2025-04-13,Priority,2025-05-04
+206,471,Physical Therapy,2,2025-01-01,Routine,2025-02-15
+207,484,Physical Therapy,1,2025-05-24,Routine,2025-07-08
+208,457,Orthopedics,2,2025-05-04,Routine,2025-06-18
+209,451,Endocrinology,1,2025-04-21,Routine,2025-06-05
+210,300,Primary Care,3,2025-06-13,Routine,2025-07-28
+211,23,Cardiology,3,2025-04-02,Routine,2025-05-17
+212,155,Primary Care,1,2025-03-22,Priority,2025-04-12
+213,453,Behavioral Health,2,2025-01-09,Routine,2025-02-23
+214,249,Primary Care,3,2025-06-01,Priority,2025-06-22
+215,189,Primary Care,1,2025-06-02,Routine,2025-07-17
+216,395,Behavioral Health,2,2025-05-27,Routine,2025-07-11
+217,121,Cardiology,1,2025-04-08,Priority,2025-04-29
+218,471,Endocrinology,1,2025-04-21,Routine,2025-06-05
+219,12,Physical Therapy,2,2025-05-07,Routine,2025-06-21
+220,121,Endocrinology,1,2025-05-16,Urgent,2025-05-23
+221,453,Endocrinology,3,2025-03-04,Routine,2025-04-18
+222,190,Physical Therapy,1,2025-03-08,Routine,2025-04-22
+223,496,Primary Care,1,2025-05-15,Priority,2025-06-05
+224,182,Cardiology,1,2025-06-04,Priority,2025-06-25
+225,349,Endocrinology,1,2025-01-19,Urgent,2025-01-26
+226,469,Orthopedics,1,2025-01-11,Priority,2025-02-01
+227,316,Orthopedics,1,2025-02-10,Routine,2025-03-27
+228,363,Cardiology,3,2025-05-08,Routine,2025-06-22
+229,388,Physical Therapy,1,2025-02-27,Routine,2025-04-13
+230,472,Cardiology,3,2025-01-19,Routine,2025-03-05
+231,190,Endocrinology,1,2025-04-28,Routine,2025-06-12
+232,84,Primary Care,3,2025-05-29,Priority,2025-06-19
+233,280,Primary Care,3,2025-05-07,Priority,2025-05-28
+234,381,Cardiology,1,2025-01-08,Routine,2025-02-22
+235,394,Primary Care,3,2025-06-26,Routine,2025-08-10
+236,434,Endocrinology,3,2025-05-20,Priority,2025-06-10
+237,78,Orthopedics,2,2025-04-01,Priority,2025-04-22
+238,193,Cardiology,1,2025-01-14,Urgent,2025-01-21
+239,40,Cardiology,1,2025-02-12,Routine,2025-03-29
+240,27,Physical Therapy,2,2025-06-27,Routine,2025-08-11
+241,95,Orthopedics,1,2025-05-04,Priority,2025-05-25
+242,323,Endocrinology,1,2025-04-26,Priority,2025-05-17
+243,405,Primary Care,3,2025-03-26,Routine,2025-05-10
+244,56,Cardiology,3,2025-04-22,Routine,2025-06-06
+245,309,Endocrinology,1,2025-06-28,Routine,2025-08-12
+246,443,Primary Care,3,2025-04-21,Routine,2025-06-05
+247,109,Behavioral Health,3,2025-05-13,Routine,2025-06-27
+248,168,Orthopedics,2,2025-06-03,Routine,2025-07-18
+249,315,Primary Care,1,2025-02-17,Urgent,2025-02-24
+250,194,Primary Care,3,2025-01-06,Priority,2025-01-27
+251,488,Cardiology,3,2025-06-18,Routine,2025-08-02
+252,343,Behavioral Health,3,2025-06-13,Priority,2025-07-04
+253,210,Physical Therapy,2,2025-01-18,Routine,2025-03-04
+254,33,Behavioral Health,2,2025-04-20,Routine,2025-06-04
+255,469,Primary Care,1,2025-06-27,Routine,2025-08-11
+256,232,Primary Care,3,2025-02-04,Routine,2025-03-21
+257,392,Primary Care,1,2025-03-26,Routine,2025-05-10
+258,173,Behavioral Health,3,2025-01-16,Routine,2025-03-02
+259,446,Orthopedics,1,2025-05-21,Urgent,2025-05-28
+260,190,Primary Care,1,2025-02-22,Routine,2025-04-08
+261,384,Primary Care,1,2025-06-03,Priority,2025-06-24
+262,166,Orthopedics,2,2025-02-14,Priority,2025-03-07
+263,197,Orthopedics,1,2025-04-07,Urgent,2025-04-14
+264,77,Physical Therapy,1,2025-02-04,Routine,2025-03-21
+265,296,Primary Care,1,2025-02-05,Priority,2025-02-26
+266,254,Cardiology,3,2025-03-14,Routine,2025-04-28
+267,174,Primary Care,1,2025-01-18,Urgent,2025-01-25
+268,219,Primary Care,1,2025-05-23,Routine,2025-07-07
+269,464,Physical Therapy,2,2025-05-20,Routine,2025-07-04
+270,39,Primary Care,3,2025-06-08,Routine,2025-07-23
+271,353,Primary Care,3,2025-05-19,Routine,2025-07-03
+272,89,Behavioral Health,2,2025-04-18,Urgent,2025-04-25
+273,314,Cardiology,3,2025-05-11,Urgent,2025-05-18
+274,101,Behavioral Health,2,2025-02-04,Priority,2025-02-25
+275,221,Orthopedics,1,2025-03-17,Routine,2025-05-01
+276,50,Orthopedics,1,2025-06-07,Routine,2025-07-22
+277,371,Behavioral Health,2,2025-02-23,Routine,2025-04-09
+278,341,Orthopedics,2,2025-06-28,Priority,2025-07-19
+279,249,Primary Care,1,2025-06-04,Routine,2025-07-19
+280,306,Behavioral Health,2,2025-04-29,Routine,2025-06-13
+281,477,Primary Care,3,2025-06-07,Routine,2025-07-22
+282,225,Primary Care,3,2025-03-02,Routine,2025-04-16
+283,321,Cardiology,3,2025-05-04,Urgent,2025-05-11
+284,349,Behavioral Health,2,2025-05-21,Routine,2025-07-05
+285,417,Cardiology,3,2025-06-28,Routine,2025-08-12
+286,204,Primary Care,3,2025-02-28,Routine,2025-04-14
+287,324,Orthopedics,2,2025-05-03,Routine,2025-06-17
+288,191,Primary Care,1,2025-06-03,Routine,2025-07-18
+289,265,Orthopedics,1,2025-02-02,Routine,2025-03-19
+290,95,Endocrinology,3,2025-05-19,Routine,2025-07-03
+291,328,Physical Therapy,2,2025-02-11,Routine,2025-03-28
+292,21,Primary Care,3,2025-01-05,Priority,2025-01-26
+293,323,Orthopedics,1,2025-04-09,Routine,2025-05-24
+294,339,Primary Care,3,2025-02-08,Urgent,2025-02-15
+295,404,Primary Care,1,2025-06-23,Routine,2025-08-07
+296,294,Primary Care,3,2025-03-18,Priority,2025-04-08
+297,45,Cardiology,3,2025-01-17,Routine,2025-03-03
+298,313,Behavioral Health,2,2025-06-17,Priority,2025-07-08
+299,286,Primary Care,1,2025-05-04,Routine,2025-06-18
+300,472,Orthopedics,1,2025-06-11,Routine,2025-07-26
+301,243,Behavioral Health,3,2025-04-19,Routine,2025-06-03
+302,66,Physical Therapy,1,2025-05-13,Routine,2025-06-27
+303,247,Behavioral Health,3,2025-01-17,Routine,2025-03-03
+304,306,Primary Care,3,2025-03-03,Urgent,2025-03-10
+305,332,Behavioral Health,2,2025-04-12,Routine,2025-05-27
+306,366,Orthopedics,2,2025-01-29,Routine,2025-03-15
+307,59,Cardiology,3,2025-02-13,Routine,2025-03-30
+308,84,Orthopedics,2,2025-03-05,Routine,2025-04-19
+309,497,Orthopedics,2,2025-01-27,Urgent,2025-02-03
+310,267,Orthopedics,2,2025-05-10,Routine,2025-06-24
+311,438,Orthopedics,1,2025-03-29,Priority,2025-04-19
+312,177,Orthopedics,2,2025-04-15,Routine,2025-05-30
+313,301,Orthopedics,1,2025-05-30,Routine,2025-07-14
+314,283,Primary Care,1,2025-06-22,Routine,2025-08-06
+315,282,Primary Care,3,2025-01-28,Routine,2025-03-14
+316,63,Primary Care,1,2025-05-09,Routine,2025-06-23
+317,165,Physical Therapy,2,2025-05-17,Routine,2025-07-01
+318,313,Primary Care,3,2025-01-25,Priority,2025-02-15
+319,78,Cardiology,3,2025-04-23,Priority,2025-05-14
+320,426,Primary Care,3,2025-06-18,Routine,2025-08-02
+321,492,Cardiology,3,2025-05-09,Priority,2025-05-30
+322,485,Primary Care,3,2025-06-15,Urgent,2025-06-22
+323,362,Physical Therapy,1,2025-06-09,Priority,2025-06-30
+324,179,Orthopedics,2,2025-02-23,Routine,2025-04-09
+325,245,Physical Therapy,1,2025-01-16,Routine,2025-03-02
+326,406,Physical Therapy,2,2025-04-26,Priority,2025-05-17
+327,354,Primary Care,3,2025-04-02,Routine,2025-05-17
+328,464,Primary Care,1,2025-06-28,Routine,2025-08-12
+329,416,Cardiology,3,2025-06-20,Routine,2025-08-04
+330,112,Cardiology,3,2025-03-09,Routine,2025-04-23
+331,217,Endocrinology,3,2025-05-25,Urgent,2025-06-01
+332,286,Primary Care,3,2025-06-09,Urgent,2025-06-16
+333,273,Orthopedics,2,2025-02-09,Priority,2025-03-02
+334,140,Primary Care,1,2025-05-27,Routine,2025-07-11
+335,218,Primary Care,1,2025-03-14,Routine,2025-04-28
+336,60,Orthopedics,2,2025-05-28,Priority,2025-06-18
+337,114,Primary Care,3,2025-03-04,Routine,2025-04-18
+338,129,Behavioral Health,2,2025-03-27,Priority,2025-04-17
+339,345,Endocrinology,3,2025-06-25,Priority,2025-07-16
+340,75,Cardiology,1,2025-06-30,Routine,2025-08-14
+341,92,Behavioral Health,3,2025-03-11,Routine,2025-04-25
+342,133,Orthopedics,1,2025-01-21,Routine,2025-03-07
+343,23,Orthopedics,2,2025-02-19,Routine,2025-04-05
+344,476,Cardiology,3,2025-04-02,Urgent,2025-04-09
+345,339,Behavioral Health,2,2025-03-26,Routine,2025-05-10
+346,4,Behavioral Health,3,2025-03-14,Priority,2025-04-04
+347,256,Cardiology,3,2025-05-17,Routine,2025-07-01
+348,418,Primary Care,1,2025-02-07,Routine,2025-03-24
+349,347,Physical Therapy,2,2025-04-10,Routine,2025-05-25
+350,363,Endocrinology,3,2025-01-21,Priority,2025-02-11
+351,142,Behavioral Health,3,2025-02-06,Routine,2025-03-23
+352,408,Primary Care,3,2025-02-22,Urgent,2025-03-01
+353,274,Physical Therapy,2,2025-03-03,Routine,2025-04-17
+354,439,Primary Care,3,2025-01-14,Priority,2025-02-04
+355,284,Primary Care,1,2025-03-12,Routine,2025-04-26
+356,100,Orthopedics,1,2025-05-17,Routine,2025-07-01
+357,305,Physical Therapy,1,2025-02-15,Routine,2025-04-01
+358,13,Primary Care,1,2025-01-17,Priority,2025-02-07
+359,434,Cardiology,3,2025-04-19,Routine,2025-06-03
+360,284,Behavioral Health,3,2025-04-28,Routine,2025-06-12
+361,340,Cardiology,3,2025-01-19,Routine,2025-03-05
+362,106,Physical Therapy,2,2025-05-22,Routine,2025-07-06
+363,298,Primary Care,1,2025-02-16,Routine,2025-04-02
+364,468,Primary Care,3,2025-03-17,Priority,2025-04-07
+365,443,Behavioral Health,3,2025-05-26,Priority,2025-06-16
+366,222,Primary Care,3,2025-04-18,Priority,2025-05-09
+367,188,Orthopedics,2,2025-05-14,Routine,2025-06-28
+368,392,Primary Care,3,2025-02-08,Routine,2025-03-25
+369,10,Physical Therapy,1,2025-05-30,Routine,2025-07-14
+370,97,Physical Therapy,1,2025-04-08,Urgent,2025-04-15
+371,107,Endocrinology,1,2025-05-24,Routine,2025-07-08
+372,375,Orthopedics,1,2025-02-10,Priority,2025-03-03
+373,39,Orthopedics,1,2025-04-19,Priority,2025-05-10
+374,231,Physical Therapy,1,2025-04-03,Routine,2025-05-18
+375,126,Orthopedics,1,2025-04-02,Priority,2025-04-23
+376,41,Physical Therapy,2,2025-04-05,Priority,2025-04-26
+377,18,Behavioral Health,3,2025-02-24,Routine,2025-04-10
+378,36,Orthopedics,1,2025-02-21,Routine,2025-04-07
+379,396,Orthopedics,1,2025-04-11,Routine,2025-05-26
+380,236,Behavioral Health,2,2025-02-16,Priority,2025-03-09
+381,332,Primary Care,1,2025-02-13,Priority,2025-03-06
+382,460,Primary Care,1,2025-01-14,Priority,2025-02-04
+383,401,Behavioral Health,2,2025-06-01,Priority,2025-06-22
+384,455,Behavioral Health,2,2025-05-20,Routine,2025-07-04
+385,75,Primary Care,1,2025-04-11,Routine,2025-05-26
+386,256,Behavioral Health,2,2025-06-25,Routine,2025-08-09
+387,106,Physical Therapy,1,2025-04-10,Routine,2025-05-25
+388,350,Physical Therapy,2,2025-03-17,Priority,2025-04-07
+389,361,Orthopedics,2,2025-01-30,Priority,2025-02-20
+390,439,Cardiology,3,2025-05-23,Routine,2025-07-07
+391,448,Behavioral Health,2,2025-03-19,Routine,2025-05-03
+392,90,Physical Therapy,2,2025-02-09,Routine,2025-03-26
+393,46,Physical Therapy,1,2025-05-26,Priority,2025-06-16
+394,460,Primary Care,3,2025-01-03,Routine,2025-02-17
+395,287,Orthopedics,1,2025-03-05,Routine,2025-04-19
+396,477,Orthopedics,2,2025-01-15,Routine,2025-03-01
+397,339,Cardiology,1,2025-05-21,Routine,2025-07-05
+398,432,Physical Therapy,2,2025-04-04,Routine,2025-05-19
+399,130,Physical Therapy,2,2025-01-01,Routine,2025-02-15
+400,432,Physical Therapy,1,2025-06-12,Priority,2025-07-03
+401,110,Behavioral Health,3,2025-02-01,Routine,2025-03-18
+402,255,Primary Care,1,2025-05-14,Routine,2025-06-28
+403,487,Endocrinology,3,2025-05-15,Priority,2025-06-05
+404,213,Behavioral Health,2,2025-04-29,Routine,2025-06-13
+405,285,Orthopedics,2,2025-04-10,Routine,2025-05-25
+406,321,Orthopedics,1,2025-02-20,Priority,2025-03-13
+407,500,Primary Care,3,2025-04-20,Priority,2025-05-11
+408,127,Cardiology,3,2025-01-07,Routine,2025-02-21
+409,130,Orthopedics,1,2025-04-20,Priority,2025-05-11
+410,348,Orthopedics,1,2025-06-12,Routine,2025-07-27
+411,199,Primary Care,1,2025-04-15,Routine,2025-05-30
+412,451,Cardiology,3,2025-02-03,Urgent,2025-02-10
+413,184,Endocrinology,1,2025-05-27,Routine,2025-07-11
+414,119,Primary Care,3,2025-06-30,Urgent,2025-07-07
+415,447,Behavioral Health,3,2025-04-13,Priority,2025-05-04
+416,275,Primary Care,1,2025-05-14,Routine,2025-06-28
+417,435,Orthopedics,1,2025-06-07,Routine,2025-07-22
+418,190,Cardiology,3,2025-02-21,Priority,2025-03-14
+419,100,Cardiology,1,2025-04-28,Routine,2025-06-12
+420,375,Orthopedics,1,2025-04-08,Priority,2025-04-29
+421,500,Orthopedics,1,2025-03-26,Routine,2025-05-10
+422,319,Primary Care,1,2025-01-03,Priority,2025-01-24
+423,280,Primary Care,3,2025-04-25,Routine,2025-06-09
+424,292,Orthopedics,1,2025-06-21,Routine,2025-08-05
+425,175,Primary Care,1,2025-03-29,Priority,2025-04-19
+426,461,Behavioral Health,3,2025-04-09,Priority,2025-04-30
+427,389,Primary Care,3,2025-06-30,Routine,2025-08-14
+428,145,Cardiology,1,2025-02-23,Priority,2025-03-16
+429,421,Endocrinology,1,2025-03-19,Routine,2025-05-03
+430,27,Primary Care,3,2025-06-29,Priority,2025-07-20
+431,359,Primary Care,1,2025-04-15,Routine,2025-05-30
+432,219,Cardiology,3,2025-01-27,Routine,2025-03-13
+433,417,Primary Care,3,2025-05-24,Routine,2025-07-08
+434,460,Orthopedics,2,2025-05-28,Urgent,2025-06-04
+435,106,Behavioral Health,3,2025-01-18,Priority,2025-02-08
+436,2,Primary Care,3,2025-06-28,Priority,2025-07-19
+437,398,Primary Care,3,2025-02-25,Priority,2025-03-18
+438,132,Endocrinology,3,2025-06-14,Routine,2025-07-29
+439,396,Endocrinology,1,2025-03-09,Priority,2025-03-30
+440,182,Primary Care,1,2025-04-03,Routine,2025-05-18
+441,474,Primary Care,1,2025-06-10,Routine,2025-07-25
+442,115,Primary Care,1,2025-04-03,Routine,2025-05-18
+443,73,Cardiology,1,2025-04-16,Routine,2025-05-31
+444,68,Behavioral Health,3,2025-05-11,Priority,2025-06-01
+445,277,Physical Therapy,2,2025-05-08,Routine,2025-06-22
+446,430,Primary Care,3,2025-05-23,Routine,2025-07-07
+447,395,Endocrinology,1,2025-03-28,Routine,2025-05-12
+448,233,Primary Care,1,2025-01-13,Routine,2025-02-27
+449,85,Primary Care,1,2025-01-08,Priority,2025-01-29
+450,423,Primary Care,1,2025-06-09,Priority,2025-06-30
+451,37,Orthopedics,1,2025-02-03,Urgent,2025-02-10
+452,237,Primary Care,3,2025-04-06,Urgent,2025-04-13
+453,361,Orthopedics,1,2025-06-27,Routine,2025-08-11
+454,88,Primary Care,3,2025-04-12,Routine,2025-05-27
+455,367,Orthopedics,1,2025-06-28,Priority,2025-07-19
+456,495,Primary Care,3,2025-01-16,Priority,2025-02-06
+457,294,Primary Care,3,2025-01-07,Routine,2025-02-21
+458,46,Behavioral Health,2,2025-02-09,Priority,2025-03-02
+459,434,Primary Care,3,2025-03-27,Routine,2025-05-11
+460,74,Primary Care,3,2025-04-29,Routine,2025-06-13
+461,334,Orthopedics,1,2025-04-08,Routine,2025-05-23
+462,231,Cardiology,3,2025-04-18,Routine,2025-06-02
+463,466,Endocrinology,1,2025-01-26,Routine,2025-03-12
+464,463,Primary Care,1,2025-02-11,Routine,2025-03-28
+465,167,Behavioral Health,3,2025-01-22,Priority,2025-02-12
+466,230,Orthopedics,1,2025-06-28,Routine,2025-08-12
+467,461,Behavioral Health,3,2025-02-20,Routine,2025-04-06
+468,346,Primary Care,1,2025-01-09,Routine,2025-02-23
+469,367,Primary Care,1,2025-06-27,Routine,2025-08-11
+470,297,Physical Therapy,2,2025-01-16,Priority,2025-02-06
+471,491,Orthopedics,2,2025-05-14,Urgent,2025-05-21
+472,244,Cardiology,1,2025-03-30,Routine,2025-05-14
+473,49,Endocrinology,3,2025-02-01,Urgent,2025-02-08
+474,292,Physical Therapy,2,2025-05-06,Routine,2025-06-20
+475,138,Behavioral Health,2,2025-04-03,Priority,2025-04-24
+476,278,Physical Therapy,2,2025-05-23,Routine,2025-07-07
+477,90,Behavioral Health,2,2025-02-06,Routine,2025-03-23
+478,459,Orthopedics,2,2025-04-14,Routine,2025-05-29
+479,335,Primary Care,1,2025-05-22,Routine,2025-07-06
+480,341,Behavioral Health,2,2025-01-03,Priority,2025-01-24
+481,428,Orthopedics,2,2025-02-04,Routine,2025-03-21
+482,255,Primary Care,3,2025-04-26,Routine,2025-06-10
+483,402,Behavioral Health,2,2025-05-20,Routine,2025-07-04
+484,258,Behavioral Health,3,2025-01-04,Priority,2025-01-25
+485,365,Primary Care,1,2025-01-13,Routine,2025-02-27
+486,23,Behavioral Health,3,2025-02-16,Urgent,2025-02-23
+487,176,Cardiology,1,2025-02-07,Routine,2025-03-24
+488,44,Physical Therapy,1,2025-05-19,Routine,2025-07-03
+489,241,Primary Care,1,2025-06-22,Routine,2025-08-06
+490,35,Primary Care,3,2025-06-09,Routine,2025-07-24
+491,125,Primary Care,3,2025-04-01,Priority,2025-04-22
+492,337,Behavioral Health,2,2025-05-22,Routine,2025-07-06
+493,366,Primary Care,1,2025-01-24,Routine,2025-03-10
+494,496,Primary Care,3,2025-04-22,Priority,2025-05-13
+495,289,Primary Care,3,2025-02-11,Urgent,2025-02-18
+496,179,Primary Care,3,2025-03-09,Priority,2025-03-30
+497,431,Physical Therapy,2,2025-05-14,Routine,2025-06-28
+498,461,Behavioral Health,3,2025-06-14,Routine,2025-07-29
+499,300,Primary Care,3,2025-02-11,Priority,2025-03-04
+500,403,Primary Care,3,2025-02-13,Routine,2025-03-30
+501,389,Endocrinology,3,2025-06-22,Urgent,2025-06-29
+502,229,Behavioral Health,2,2025-01-05,Routine,2025-02-19
+503,315,Orthopedics,1,2025-02-21,Routine,2025-04-07
+504,465,Primary Care,1,2025-06-04,Routine,2025-07-19
+505,438,Cardiology,1,2025-06-30,Routine,2025-08-14
+506,70,Endocrinology,3,2025-05-25,Routine,2025-07-09
+507,390,Physical Therapy,2,2025-06-16,Priority,2025-07-07
+508,136,Behavioral Health,2,2025-03-21,Routine,2025-05-05
+509,266,Behavioral Health,3,2025-03-17,Routine,2025-05-01
+510,268,Cardiology,1,2025-02-01,Priority,2025-02-22
+511,474,Behavioral Health,3,2025-03-31,Urgent,2025-04-07
+512,500,Primary Care,3,2025-06-23,Priority,2025-07-14
+513,183,Primary Care,1,2025-02-18,Routine,2025-04-04
+514,234,Behavioral Health,2,2025-06-29,Routine,2025-08-13
+515,456,Physical Therapy,2,2025-05-04,Priority,2025-05-25
+516,276,Orthopedics,1,2025-04-22,Urgent,2025-04-29
+517,500,Behavioral Health,3,2025-04-20,Routine,2025-06-04
+518,494,Primary Care,1,2025-02-05,Urgent,2025-02-12
+519,295,Behavioral Health,3,2025-04-01,Routine,2025-05-16
+520,258,Behavioral Health,3,2025-02-11,Routine,2025-03-28
+521,358,Primary Care,3,2025-03-24,Priority,2025-04-14
+522,270,Primary Care,1,2025-06-27,Priority,2025-07-18
+523,357,Cardiology,3,2025-03-12,Urgent,2025-03-19
+524,362,Behavioral Health,2,2025-05-08,Urgent,2025-05-15
+525,242,Physical Therapy,2,2025-05-17,Routine,2025-07-01
+526,155,Physical Therapy,1,2025-01-25,Routine,2025-03-11
+527,48,Endocrinology,3,2025-02-28,Priority,2025-03-21
+528,334,Primary Care,1,2025-06-10,Routine,2025-07-25
+529,399,Physical Therapy,1,2025-05-23,Priority,2025-06-13
+530,304,Orthopedics,2,2025-03-28,Urgent,2025-04-04
+531,316,Primary Care,1,2025-01-15,Routine,2025-03-01
+532,237,Primary Care,1,2025-03-14,Routine,2025-04-28
+533,337,Primary Care,1,2025-05-16,Priority,2025-06-06
+534,132,Cardiology,3,2025-02-10,Urgent,2025-02-17
+535,225,Orthopedics,1,2025-03-19,Routine,2025-05-03
+536,342,Primary Care,3,2025-06-14,Routine,2025-07-29
+537,60,Behavioral Health,3,2025-01-08,Routine,2025-02-22
+538,171,Primary Care,3,2025-06-23,Urgent,2025-06-30
+539,117,Orthopedics,2,2025-05-29,Routine,2025-07-13
+540,102,Behavioral Health,2,2025-01-05,Routine,2025-02-19
+541,14,Physical Therapy,2,2025-05-07,Priority,2025-05-28
+542,423,Behavioral Health,2,2025-04-09,Urgent,2025-04-16
+543,482,Primary Care,1,2025-03-09,Routine,2025-04-23
+544,196,Cardiology,3,2025-04-29,Priority,2025-05-20
+545,155,Endocrinology,1,2025-02-04,Routine,2025-03-21
+546,143,Orthopedics,1,2025-06-09,Priority,2025-06-30
+547,447,Primary Care,1,2025-01-28,Routine,2025-03-14
+548,56,Behavioral Health,3,2025-04-15,Routine,2025-05-30
+549,43,Primary Care,1,2025-01-10,Priority,2025-01-31
+550,89,Behavioral Health,2,2025-02-03,Routine,2025-03-20
+551,132,Endocrinology,3,2025-01-31,Priority,2025-02-21
+552,497,Primary Care,3,2025-02-05,Routine,2025-03-22
+553,444,Endocrinology,1,2025-06-24,Routine,2025-08-08
+554,357,Endocrinology,1,2025-02-13,Priority,2025-03-06
+555,344,Physical Therapy,2,2025-04-04,Urgent,2025-04-11
+556,122,Orthopedics,2,2025-03-17,Priority,2025-04-07
+557,477,Physical Therapy,2,2025-03-29,Routine,2025-05-13
+558,449,Primary Care,1,2025-04-12,Routine,2025-05-27
+559,399,Cardiology,1,2025-06-10,Routine,2025-07-25
+560,222,Orthopedics,2,2025-06-02,Priority,2025-06-23
+561,472,Primary Care,3,2025-03-30,Priority,2025-04-20
+562,438,Primary Care,1,2025-06-14,Priority,2025-07-05
+563,107,Endocrinology,3,2025-05-27,Routine,2025-07-11
+564,430,Behavioral Health,3,2025-01-31,Routine,2025-03-17
+565,240,Behavioral Health,3,2025-05-19,Priority,2025-06-09
+566,283,Physical Therapy,1,2025-03-01,Routine,2025-04-15
+567,303,Physical Therapy,2,2025-04-29,Priority,2025-05-20
+568,22,Primary Care,1,2025-06-25,Routine,2025-08-09
+569,143,Cardiology,1,2025-01-27,Routine,2025-03-13
+570,439,Physical Therapy,2,2025-01-10,Routine,2025-02-24
+571,462,Orthopedics,1,2025-06-10,Urgent,2025-06-17
+572,327,Physical Therapy,1,2025-02-24,Routine,2025-04-10
+573,146,Endocrinology,1,2025-03-19,Routine,2025-05-03
+574,14,Physical Therapy,2,2025-02-26,Routine,2025-04-12
+575,410,Physical Therapy,2,2025-06-19,Priority,2025-07-10
+576,106,Endocrinology,3,2025-02-01,Routine,2025-03-18
+577,330,Primary Care,1,2025-05-15,Routine,2025-06-29
+578,263,Endocrinology,3,2025-03-26,Routine,2025-05-10
+579,45,Physical Therapy,2,2025-03-14,Priority,2025-04-04
+580,372,Cardiology,1,2025-05-25,Urgent,2025-06-01
+581,389,Behavioral Health,3,2025-05-09,Routine,2025-06-23
+582,222,Cardiology,1,2025-03-13,Priority,2025-04-03
+583,414,Endocrinology,1,2025-01-15,Routine,2025-03-01
+584,312,Physical Therapy,1,2025-03-15,Urgent,2025-03-22
+585,347,Endocrinology,1,2025-05-21,Routine,2025-07-05
+586,279,Cardiology,3,2025-02-06,Routine,2025-03-23
+587,407,Primary Care,3,2025-04-27,Priority,2025-05-18
+588,132,Behavioral Health,3,2025-06-10,Routine,2025-07-25
+589,300,Orthopedics,2,2025-03-08,Priority,2025-03-29
+590,36,Behavioral Health,2,2025-04-17,Routine,2025-06-01
+591,178,Orthopedics,2,2025-04-23,Routine,2025-06-07
+592,166,Physical Therapy,1,2025-02-24,Routine,2025-04-10
+593,402,Cardiology,3,2025-04-28,Routine,2025-06-12
+594,373,Behavioral Health,2,2025-06-13,Priority,2025-07-04
+595,73,Cardiology,1,2025-04-16,Priority,2025-05-07
+596,209,Physical Therapy,2,2025-01-12,Priority,2025-02-02
+597,194,Behavioral Health,3,2025-05-15,Routine,2025-06-29
+598,58,Physical Therapy,1,2025-02-18,Routine,2025-04-04
+599,95,Primary Care,1,2025-05-03,Routine,2025-06-17
+600,214,Primary Care,1,2025-01-29,Routine,2025-03-15
+601,430,Behavioral Health,2,2025-03-07,Priority,2025-03-28
+602,342,Cardiology,3,2025-05-29,Priority,2025-06-19
+603,12,Physical Therapy,2,2025-05-13,Routine,2025-06-27
+604,436,Physical Therapy,1,2025-05-27,Routine,2025-07-11
+605,54,Primary Care,3,2025-02-04,Urgent,2025-02-11
+606,397,Endocrinology,1,2025-01-15,Routine,2025-03-01
+607,412,Orthopedics,2,2025-06-10,Routine,2025-07-25
+608,474,Primary Care,1,2025-03-21,Urgent,2025-03-28
+609,72,Primary Care,3,2025-01-28,Routine,2025-03-14
+610,312,Primary Care,3,2025-06-17,Priority,2025-07-08
+611,220,Primary Care,1,2025-05-14,Routine,2025-06-28
+612,321,Primary Care,3,2025-06-14,Priority,2025-07-05
+613,87,Primary Care,1,2025-04-02,Routine,2025-05-17
+614,410,Behavioral Health,3,2025-06-28,Routine,2025-08-12
+615,224,Cardiology,1,2025-03-26,Routine,2025-05-10
+616,474,Behavioral Health,2,2025-03-28,Urgent,2025-04-04
+617,319,Primary Care,3,2025-06-08,Routine,2025-07-23
+618,229,Cardiology,3,2025-02-18,Routine,2025-04-04
+619,123,Behavioral Health,2,2025-05-11,Priority,2025-06-01
+620,436,Endocrinology,1,2025-04-06,Routine,2025-05-21
+621,500,Physical Therapy,1,2025-01-08,Routine,2025-02-22
+622,319,Behavioral Health,3,2025-06-25,Urgent,2025-07-02
+623,124,Behavioral Health,3,2025-04-11,Priority,2025-05-02
+624,462,Primary Care,3,2025-01-03,Urgent,2025-01-10
+625,11,Behavioral Health,3,2025-05-20,Routine,2025-07-04
+626,122,Cardiology,3,2025-02-15,Routine,2025-04-01
+627,191,Endocrinology,1,2025-02-09,Routine,2025-03-26
+628,353,Endocrinology,1,2025-06-11,Priority,2025-07-02
+629,400,Physical Therapy,2,2025-04-01,Routine,2025-05-16
+630,260,Orthopedics,2,2025-06-29,Priority,2025-07-20
+631,143,Orthopedics,1,2025-06-21,Routine,2025-08-05
+632,303,Orthopedics,2,2025-01-27,Priority,2025-02-17
+633,32,Primary Care,3,2025-05-05,Routine,2025-06-19
+634,16,Physical Therapy,2,2025-05-17,Priority,2025-06-07
+635,179,Behavioral Health,3,2025-06-29,Routine,2025-08-13
+636,318,Primary Care,1,2025-05-19,Urgent,2025-05-26
+637,109,Primary Care,1,2025-05-18,Routine,2025-07-02
+638,423,Orthopedics,1,2025-05-11,Routine,2025-06-25
+639,61,Cardiology,3,2025-05-16,Routine,2025-06-30
+640,12,Orthopedics,1,2025-02-20,Priority,2025-03-13
+641,111,Behavioral Health,2,2025-06-11,Priority,2025-07-02
+642,112,Primary Care,1,2025-02-20,Priority,2025-03-13
+643,388,Physical Therapy,2,2025-06-19,Urgent,2025-06-26
+644,221,Physical Therapy,2,2025-01-04,Priority,2025-01-25
+645,340,Orthopedics,1,2025-06-23,Routine,2025-08-07
+646,160,Primary Care,3,2025-04-15,Routine,2025-05-30
+647,344,Primary Care,1,2025-06-15,Routine,2025-07-30
+648,392,Primary Care,1,2025-06-08,Priority,2025-06-29
+649,148,Behavioral Health,2,2025-03-19,Priority,2025-04-09
+650,418,Primary Care,3,2025-04-30,Routine,2025-06-14
+651,361,Behavioral Health,2,2025-04-20,Routine,2025-06-04
+652,7,Orthopedics,2,2025-03-28,Routine,2025-05-12
+653,301,Orthopedics,1,2025-05-29,Routine,2025-07-13
+654,461,Endocrinology,3,2025-02-05,Routine,2025-03-22
+655,323,Primary Care,1,2025-05-10,Urgent,2025-05-17
+656,310,Orthopedics,2,2025-01-05,Routine,2025-02-19
+657,12,Behavioral Health,3,2025-06-18,Routine,2025-08-02
+658,385,Physical Therapy,1,2025-02-23,Priority,2025-03-16
+659,351,Physical Therapy,2,2025-04-30,Routine,2025-06-14
+660,90,Orthopedics,2,2025-01-28,Routine,2025-03-14
+661,137,Endocrinology,1,2025-01-27,Routine,2025-03-13
+662,89,Physical Therapy,2,2025-05-02,Routine,2025-06-16
+663,33,Cardiology,3,2025-01-02,Routine,2025-02-16
+664,24,Physical Therapy,2,2025-03-28,Priority,2025-04-18
+665,49,Cardiology,3,2025-04-24,Priority,2025-05-15
+666,226,Primary Care,3,2025-06-24,Routine,2025-08-08
+667,250,Primary Care,3,2025-02-23,Priority,2025-03-16
+668,152,Primary Care,3,2025-03-02,Routine,2025-04-16
+669,112,Endocrinology,3,2025-06-06,Routine,2025-07-21
+670,421,Physical Therapy,1,2025-01-06,Routine,2025-02-20
+671,76,Physical Therapy,1,2025-02-03,Priority,2025-02-24
+672,338,Physical Therapy,2,2025-02-07,Routine,2025-03-24
+673,296,Behavioral Health,3,2025-04-28,Routine,2025-06-12
+674,52,Endocrinology,3,2025-04-22,Routine,2025-06-06
+675,167,Orthopedics,1,2025-04-22,Urgent,2025-04-29
+676,406,Behavioral Health,2,2025-04-09,Priority,2025-04-30
+677,155,Endocrinology,1,2025-01-04,Routine,2025-02-18
+678,453,Behavioral Health,3,2025-06-07,Routine,2025-07-22
+679,12,Primary Care,3,2025-03-04,Routine,2025-04-18
+680,82,Orthopedics,2,2025-03-27,Routine,2025-05-11
+681,348,Physical Therapy,1,2025-05-26,Routine,2025-07-10
+682,112,Behavioral Health,3,2025-05-22,Routine,2025-07-06
+683,278,Physical Therapy,1,2025-01-18,Routine,2025-03-04
+684,461,Behavioral Health,2,2025-02-05,Routine,2025-03-22
+685,7,Endocrinology,1,2025-04-24,Priority,2025-05-15
+686,252,Physical Therapy,2,2025-06-24,Routine,2025-08-08
+687,362,Primary Care,3,2025-05-08,Priority,2025-05-29
+688,492,Orthopedics,2,2025-01-17,Routine,2025-03-03
+689,457,Behavioral Health,2,2025-06-25,Routine,2025-08-09
+690,311,Physical Therapy,2,2025-02-22,Routine,2025-04-08
+691,369,Behavioral Health,2,2025-06-09,Routine,2025-07-24
+692,287,Cardiology,3,2025-04-08,Priority,2025-04-29
+693,101,Cardiology,1,2025-02-02,Urgent,2025-02-09
+694,391,Primary Care,3,2025-06-23,Routine,2025-08-07
+695,121,Behavioral Health,3,2025-02-21,Routine,2025-04-07
+696,163,Behavioral Health,2,2025-06-30,Priority,2025-07-21
+697,399,Behavioral Health,3,2025-05-31,Routine,2025-07-15
+698,310,Physical Therapy,1,2025-02-22,Routine,2025-04-08
+699,263,Cardiology,3,2025-06-03,Routine,2025-07-18
+700,413,Primary Care,1,2025-01-02,Routine,2025-02-16
+701,175,Orthopedics,2,2025-02-18,Routine,2025-04-04
+702,158,Primary Care,3,2025-01-17,Routine,2025-03-03
+703,414,Behavioral Health,3,2025-01-08,Priority,2025-01-29
+704,167,Orthopedics,2,2025-01-12,Routine,2025-02-26
+705,304,Physical Therapy,2,2025-05-11,Priority,2025-06-01
+706,325,Primary Care,1,2025-06-14,Routine,2025-07-29
+707,400,Primary Care,1,2025-03-03,Routine,2025-04-17
+708,286,Primary Care,3,2025-03-07,Routine,2025-04-21
+709,287,Physical Therapy,1,2025-04-29,Routine,2025-06-13
+710,280,Orthopedics,2,2025-06-14,Routine,2025-07-29
+711,211,Primary Care,1,2025-04-28,Routine,2025-06-12
+712,6,Cardiology,3,2025-01-01,Routine,2025-02-15
+713,28,Cardiology,1,2025-02-07,Priority,2025-02-28
+714,139,Endocrinology,3,2025-04-04,Routine,2025-05-19
+715,263,Cardiology,1,2025-04-26,Priority,2025-05-17
+716,395,Behavioral Health,2,2025-01-08,Routine,2025-02-22
+717,59,Behavioral Health,2,2025-04-30,Priority,2025-05-21
+718,323,Physical Therapy,2,2025-04-02,Routine,2025-05-17
+719,335,Primary Care,3,2025-06-26,Routine,2025-08-10
+720,83,Behavioral Health,2,2025-06-27,Routine,2025-08-11
+721,253,Primary Care,1,2025-04-01,Routine,2025-05-16
+722,337,Behavioral Health,2,2025-03-07,Routine,2025-04-21
+723,268,Orthopedics,1,2025-03-16,Urgent,2025-03-23
+724,7,Cardiology,1,2025-03-02,Priority,2025-03-23
+725,136,Behavioral Health,2,2025-01-11,Priority,2025-02-01
+726,48,Behavioral Health,2,2025-02-16,Priority,2025-03-09
+727,368,Behavioral Health,2,2025-05-23,Routine,2025-07-07
+728,66,Orthopedics,1,2025-03-16,Priority,2025-04-06
+729,127,Orthopedics,1,2025-03-30,Urgent,2025-04-06
+730,243,Physical Therapy,2,2025-04-24,Routine,2025-06-08
+731,99,Primary Care,3,2025-06-13,Priority,2025-07-04
+732,14,Primary Care,1,2025-02-08,Routine,2025-03-25
+733,445,Physical Therapy,2,2025-06-05,Routine,2025-07-20
+734,321,Primary Care,3,2025-05-17,Priority,2025-06-07
+735,216,Behavioral Health,2,2025-05-05,Routine,2025-06-19
+736,32,Orthopedics,2,2025-06-04,Routine,2025-07-19
+737,201,Behavioral Health,3,2025-05-10,Routine,2025-06-24
+738,384,Cardiology,3,2025-03-05,Routine,2025-04-19
+739,282,Primary Care,3,2025-04-03,Routine,2025-05-18
+740,500,Cardiology,3,2025-04-21,Priority,2025-05-12
+741,445,Primary Care,1,2025-01-26,Priority,2025-02-16
+742,300,Orthopedics,2,2025-02-15,Routine,2025-04-01
+743,48,Primary Care,3,2025-04-25,Routine,2025-06-09
+744,432,Behavioral Health,3,2025-05-01,Routine,2025-06-15
+745,324,Primary Care,1,2025-03-07,Routine,2025-04-21
+746,83,Orthopedics,2,2025-01-17,Priority,2025-02-07
+747,113,Orthopedics,1,2025-06-22,Routine,2025-08-06
+748,397,Primary Care,3,2025-01-26,Routine,2025-03-12
+749,278,Cardiology,1,2025-01-10,Routine,2025-02-24
+750,26,Primary Care,3,2025-05-13,Urgent,2025-05-20
+751,126,Behavioral Health,3,2025-04-27,Priority,2025-05-18
+752,243,Endocrinology,3,2025-02-14,Routine,2025-03-31
+753,388,Behavioral Health,3,2025-04-15,Routine,2025-05-30
+754,351,Behavioral Health,3,2025-05-08,Priority,2025-05-29
+755,334,Behavioral Health,2,2025-06-14,Urgent,2025-06-21
+756,337,Cardiology,1,2025-02-20,Priority,2025-03-13
+757,417,Cardiology,3,2025-06-02,Routine,2025-07-17
+758,219,Physical Therapy,2,2025-03-27,Priority,2025-04-17
+759,45,Behavioral Health,3,2025-01-22,Routine,2025-03-08
+760,55,Endocrinology,1,2025-06-28,Priority,2025-07-19
+761,445,Primary Care,3,2025-01-19,Routine,2025-03-05
+762,323,Behavioral Health,3,2025-03-04,Priority,2025-03-25
+763,360,Behavioral Health,3,2025-02-03,Routine,2025-03-20
+764,473,Behavioral Health,2,2025-03-22,Priority,2025-04-12
+765,339,Primary Care,3,2025-04-02,Routine,2025-05-17
+766,426,Primary Care,1,2025-06-17,Priority,2025-07-08
+767,152,Behavioral Health,2,2025-02-10,Routine,2025-03-27
+768,105,Cardiology,3,2025-03-03,Routine,2025-04-17
+769,350,Physical Therapy,1,2025-02-25,Routine,2025-04-11
+770,310,Orthopedics,1,2025-06-10,Priority,2025-07-01
+771,361,Behavioral Health,2,2025-04-15,Routine,2025-05-30
+772,68,Physical Therapy,2,2025-05-12,Priority,2025-06-02
+773,347,Behavioral Health,3,2025-06-03,Routine,2025-07-18
+774,201,Endocrinology,3,2025-03-13,Routine,2025-04-27
+775,16,Physical Therapy,1,2025-06-24,Priority,2025-07-15
+776,338,Endocrinology,3,2025-02-06,Priority,2025-02-27
+777,213,Behavioral Health,2,2025-01-11,Routine,2025-02-25
+778,322,Cardiology,3,2025-05-27,Routine,2025-07-11
+779,387,Physical Therapy,2,2025-04-04,Routine,2025-05-19
+780,285,Orthopedics,2,2025-05-30,Routine,2025-07-14
+781,357,Primary Care,1,2025-03-11,Routine,2025-04-25
+782,424,Primary Care,1,2025-05-24,Routine,2025-07-08
+783,10,Physical Therapy,1,2025-01-12,Priority,2025-02-02
+784,260,Primary Care,3,2025-01-06,Routine,2025-02-20
+785,35,Behavioral Health,2,2025-05-27,Urgent,2025-06-03
+786,13,Primary Care,3,2025-06-12,Routine,2025-07-27
+787,500,Behavioral Health,3,2025-03-07,Priority,2025-03-28
+788,313,Cardiology,1,2025-01-30,Routine,2025-03-16
+789,283,Behavioral Health,3,2025-01-11,Priority,2025-02-01
+790,30,Physical Therapy,2,2025-01-15,Routine,2025-03-01
+791,39,Primary Care,1,2025-06-19,Priority,2025-07-10
+792,303,Cardiology,3,2025-05-30,Priority,2025-06-20
+793,164,Primary Care,1,2025-06-26,Routine,2025-08-10
+794,60,Endocrinology,1,2025-03-14,Priority,2025-04-04
+795,394,Physical Therapy,2,2025-02-26,Routine,2025-04-12
+796,324,Primary Care,1,2025-04-13,Routine,2025-05-28
+797,244,Endocrinology,1,2025-04-28,Priority,2025-05-19
+798,419,Physical Therapy,1,2025-03-23,Urgent,2025-03-30
+799,463,Primary Care,1,2025-04-19,Routine,2025-06-03
+800,392,Behavioral Health,2,2025-06-23,Priority,2025-07-14
