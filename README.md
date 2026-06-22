@@ -7,7 +7,8 @@ The goal is to identify scheduling bottlenecks, improve patient access, and gene
 
 ## Dashboard Preview
 
-![Capacity Optimization Dashboard]
+![Capacity Optimization Dashboard](/Users/christopherfontes/Documents/capacity-optimization-project/capacity-optimization.png)
+
 
 
 ## Business Problem
