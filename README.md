@@ -33,8 +33,14 @@ Healthcare organizations often struggle to balance provider supply with patient 
 - Relational Database Design
 - Business Recommendations & Data Storytelling
 
-![SQL Queries Used](capacity-optimization-sql-1.png) 
+## SQL Queries Used
 
+Provider Utilization Analysis
+This query calculates provider utilization rates by comparing booked appointment minutes against total available scheduling capacity, helping identify over- and under-utilized providers.
+![ ](capacity-optimization-sql-1.png) 
+
+Appointment Wait Time Analysis
+This query measures scheduling delays across specialties using appointment lead times to identify patient access bottlenecks.
 ![ ](capacity-optimization-sql-2.png) 
 
 ## Dataset
