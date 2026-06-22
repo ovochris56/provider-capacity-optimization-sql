@@ -33,6 +33,10 @@ Healthcare organizations often struggle to balance provider supply with patient 
 - Relational Database Design
 - Business Recommendations & Data Storytelling
 
+![SQL Queries Used](capacity-optimization-sql-1.png) 
+
+![ ](capacity-optimization-sql-2.png) 
+
 ## Dataset
 Synthetic outpatient healthcare dataset including:
 - Locations
