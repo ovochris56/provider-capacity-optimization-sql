@@ -5,6 +5,10 @@ This SQL-based healthcare analytics project evaluates provider utilization, appo
 
 The goal is to identify scheduling bottlenecks, improve patient access, and generate operational recommendations for healthcare leadership.
 
+##Dashboard Preview
+![Capacity Optimization Dashboard](<img width="1938" height="1093" alt="capacity-optimization" src="https://github.com/user-attachments/assets/97513d5e-11bb-4df7-be1d-8db59f99dc49" />)
+
+
 ## Business Problem
 Healthcare organizations often struggle to balance provider supply with patient demand. Inefficient scheduling, no-shows, and uneven provider utilization can contribute to delayed care, wasted capacity, and operational strain.
 
