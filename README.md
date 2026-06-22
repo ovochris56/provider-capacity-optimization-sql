@@ -5,7 +5,7 @@ This SQL-based healthcare analytics project evaluates provider utilization, appo
 
 The goal is to identify scheduling bottlenecks, improve patient access, and generate operational recommendations for healthcare leadership.
 
-##Dashboard Preview
+## Dashboard Preview
 
 ![Capacity Optimization Dashboard](/Users/christopherfontes/Documents/capacity-optimization-project/capacity-optimization.png)
 
